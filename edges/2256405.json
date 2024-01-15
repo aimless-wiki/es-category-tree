@@ -1,0 +1,1 @@
+{"name": "Tiendas", "id": 2256405, "predecessors": [{"name": "Establecimientos_comerciales", "id": 140389}, {"name": "Arquitectura", "id": 50594}], "successors": [{"name": "Tiendas_de_conveniencia", "id": 2163123}, {"name": "Tiendas_en_línea", "id": 5004714}, {"name": "Tiendas_de_moda", "id": 6343792}, {"name": "Tiendas_de_descuento", "id": 8660946}]}

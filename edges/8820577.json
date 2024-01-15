@@ -1,0 +1,1 @@
+{"name": "Propulsión", "id": 8820577, "predecessors": [{"name": "Vehículos", "id": 66642}], "successors": [{"name": "Propulsión_naval", "id": 257550}, {"name": "Motores", "id": 604095}, {"name": "Propulsión_espacial", "id": 3216493}]}

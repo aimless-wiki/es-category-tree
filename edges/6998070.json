@@ -1,0 +1,1 @@
+{"name": "Andar", "id": 6998070, "predecessors": [{"name": "Locomoción", "id": 942004}, {"name": "Tipos_de_viaje", "id": 10471451}], "successors": [{"name": "Excursionismo", "id": 122229}, {"name": "Infantería", "id": 1118730}, {"name": "Bastones", "id": 6168510}, {"name": "Marcha_atlética", "id": 6430677}]}

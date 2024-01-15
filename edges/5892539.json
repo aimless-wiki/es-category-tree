@@ -1,0 +1,1 @@
+{"name": "Venta_minorista", "id": 5892539, "predecessors": [{"name": "Establecimientos_comerciales", "id": 140389}], "successors": [{"name": "Minoristas", "id": 5892546}, {"name": "Promoción_de_ventas", "id": 6895858}]}
