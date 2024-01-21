@@ -1,1 +1,1 @@
-{"name": "Enfermeras_del_Reino_Unido", "id": 10579306, "predecessors": [{"name": "Británicos", "id": 116575}, {"name": "Enfermeras", "id": 9009749}], "successors": [{"name": "Enfermeras_de_Inglaterra", "id": 9009773}]}
+{"name": "Enfermeras_del_Reino_Unido", "id": 10579306, "predecessors": [{"name": "Británicos", "id": 116575}, {"name": "Asistencia_sanitaria", "id": 5537485}], "successors": [{"name": "Enfermeras_de_Inglaterra", "id": 9009773}]}

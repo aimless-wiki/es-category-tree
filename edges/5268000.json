@@ -1,1 +1,1 @@
-{"name": "Material_rodante_de_Talgo", "id": 5268000, "predecessors": [{"name": "Ferrocarril_en_España", "id": 182555}, {"name": "Material_rodante", "id": 326068}, {"name": "Empresas_ferroviarias_privadas_de_España", "id": 2007150}], "successors": []}
+{"name": "Material_rodante_de_Talgo", "id": 5268000, "predecessors": [{"name": "Ferrocarril_en_España", "id": 182555}, {"name": "Empresas", "id": 62409}, {"name": "Empresas_ferroviarias_privadas_de_España", "id": 2007150}], "successors": []}

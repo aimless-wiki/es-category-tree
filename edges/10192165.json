@@ -1,1 +1,1 @@
-{"name": "Platos_con_albóndigas", "id": 10192165, "predecessors": [{"name": "Albóndigas", "id": 2696247}, {"name": "Platos_con_pan", "id": 10023958}], "successors": []}
+{"name": "Platos_con_albóndigas", "id": 10192165, "predecessors": [{"name": "Albóndigas", "id": 2696247}, {"name": "Platos_con_pan", "id": 10023958}, {"name": "Platos_de_carne", "id": 6427762}], "successors": []}

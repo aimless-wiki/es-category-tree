@@ -1,1 +1,1 @@
-{"name": "Paradas_del_tranvía_de_Bilbao", "id": 8731848, "predecessors": [{"name": "Transporte_de_Bilbao", "id": 1684220}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": []}
+{"name": "Paradas_del_tranvía_de_Bilbao", "id": 8731848, "predecessors": [{"name": "Estaciones_ferroviarias_de_Vizcaya", "id": 5325465}, {"name": "Tranvía_en_España", "id": 867472}, {"name": "Transporte_de_Bilbao", "id": 1684220}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fallecidos_en_Barcelona", "id": 8476473, "predecessors": [{"name": "Personas_de_Barcelona", "id": 323465}, {"name": "Comunidad_Iberoamericana_de_Naciones", "id": 1360480}], "successors": [{"name": "Obras_de_Antoni_Gaudí", "id": 3082891}]}
+{"name": "Fallecidos_en_Barcelona", "id": 8476473, "predecessors": [{"name": "Fallecidos_en_la_provincia_de_Barcelona", "id": 9669155}, {"name": "Personas_de_Barcelona", "id": 323465}], "successors": [{"name": "Obras_de_Antoni_Gaudí", "id": 3082891}]}

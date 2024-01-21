@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_arma_blanca", "id": 5623517, "predecessors": [{"name": "Armas_blancas", "id": 125467}, {"name": "Causas_de_muerte", "id": 2161243}], "successors": [{"name": "León_Trotski", "id": 3572048}, {"name": "Fallecidos_por_puñalada", "id": 6561127}]}
+{"name": "Fallecidos_por_arma_blanca", "id": 5623517, "predecessors": [{"name": "Causas_de_muerte", "id": 2161243}], "successors": [{"name": "León_Trotski", "id": 3572048}, {"name": "Fallecidos_por_puñalada", "id": 6561127}]}

@@ -1,1 +1,1 @@
-{"name": "Alcaldes_de_Burgos", "id": 4281904, "predecessors": [{"name": "Personas_de_Burgos", "id": 569799}, {"name": "Burgos", "id": 760247}, {"name": "Dirigentes", "id": 1892877}], "successors": []}
+{"name": "Alcaldes_de_Burgos", "id": 4281904, "predecessors": [{"name": "Personas_de_Burgos", "id": 569799}, {"name": "Ocupaciones_políticas", "id": 5065919}, {"name": "Historia_de_la_provincia_de_Burgos", "id": 2920284}], "successors": []}

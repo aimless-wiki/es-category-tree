@@ -1,1 +1,1 @@
-{"name": "Maestros_de_capilla_de_la_Catedral_de_Vic", "id": 10151781, "predecessors": [{"name": "Ocupaciones_de_la_educación", "id": 5070899}, {"name": "Compositores_de_Cataluña", "id": 121210}], "successors": []}
+{"name": "Maestros_de_capilla_de_la_Catedral_de_Vic", "id": 10151781, "predecessors": [{"name": "Cataluña", "id": 51024}, {"name": "Ocupaciones_de_la_educación", "id": 5070899}], "successors": []}

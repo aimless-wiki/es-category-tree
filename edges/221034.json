@@ -1,1 +1,1 @@
-{"name": "Reproductores_de_audio_digital", "id": 221034, "predecessors": [{"name": "Audio_digital", "id": 221028}, {"name": "Herramientas", "id": 69083}], "successors": [{"name": "IPod", "id": 311965}, {"name": "Reproductores_de_audio_digital_libres", "id": 467884}]}
+{"name": "Reproductores_de_audio_digital", "id": 221034, "predecessors": [{"name": "Audio_digital", "id": 221028}], "successors": [{"name": "Reproductores_de_audio_digital_libres", "id": 467884}]}

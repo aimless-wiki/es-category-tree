@@ -1,1 +1,1 @@
-{"name": "Regiones_de_Filipinas", "id": 432385, "predecessors": [{"name": "Filipinas", "id": 62406}, {"name": "Sociedad", "id": 61818}], "successors": [{"name": "Gran_Manila", "id": 2112520}, {"name": "Nación_Mora", "id": 7948290}]}
+{"name": "Regiones_de_Filipinas", "id": 432385, "predecessors": [{"name": "Filipinas", "id": 62406}, {"name": "Regiones", "id": 365765}], "successors": [{"name": "Gran_Manila", "id": 2112520}, {"name": "Nación_Mora", "id": 7948290}, {"name": "Localidades_de_Dávao_de_Oro", "id": 10061526}, {"name": "Localidades_de_Dávao_del_Sur", "id": 10062805}]}

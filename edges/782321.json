@@ -1,1 +1,1 @@
-{"name": "Posadeños", "id": 782321, "predecessors": [{"name": "Posadas", "id": 782330}, {"name": "Argentinos", "id": 185654}, {"name": "Misioneros", "id": 284073}], "successors": [{"name": "Futbolistas_de_Posadas", "id": 5834258}]}
+{"name": "Posadeños", "id": 782321, "predecessors": [{"name": "Posadas", "id": 782330}, {"name": "Misioneros", "id": 284073}, {"name": "Ciudades", "id": 8905315}], "successors": [{"name": "Futbolistas_de_Posadas", "id": 5834258}]}

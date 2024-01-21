@@ -1,1 +1,1 @@
-{"name": "Medina", "id": 1795490, "predecessors": [{"name": "Ciudades_cerradas", "id": 8767894}, {"name": "Localidades_de_Arabia_Saudita", "id": 412159}], "successors": [{"name": "Nacidos_en_Medina", "id": 10040049}, {"name": "Fallecidos_en_Medina", "id": 10040521}]}
+{"name": "Medina", "id": 1795490, "predecessors": [{"name": "Ciudades_cerradas", "id": 8767894}], "successors": [{"name": "Fallecidos_en_Medina", "id": 10040521}]}

@@ -1,1 +1,1 @@
-{"name": "Deporte_en_Granada", "id": 2252810, "predecessors": [{"name": "Granada", "id": 51067}, {"name": "Deporte_en_España", "id": 4166738}], "successors": []}
+{"name": "Deporte_en_Granada", "id": 2252810, "predecessors": [{"name": "Granada", "id": 51067}, {"name": "Deporte_en_Andalucía", "id": 4162047}, {"name": "Deporte_en_España", "id": 4166738}], "successors": [{"name": "Futbolistas_del_Granada_Club_de_Fútbol_(femenino)", "id": 9802989}]}

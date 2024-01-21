@@ -1,1 +1,1 @@
-{"name": "Trastornos_de_la_memoria", "id": 5291441, "predecessors": [{"name": "Memoria", "id": 545197}], "successors": [{"name": "Ficción_sobre_la_amnesia", "id": 8909412}]}
+{"name": "Trastornos_de_la_memoria", "id": 5291441, "predecessors": [{"name": "Memoria", "id": 545197}, {"name": "Psicopatología", "id": 133467}], "successors": []}

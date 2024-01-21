@@ -1,1 +1,1 @@
-{"name": "Vigilancia_de_computadoras", "id": 10535299, "predecessors": [{"name": "Seguridad_informática", "id": 105215}, {"name": "Vigilancia", "id": 2942562}, {"name": "Malware", "id": 4584019}], "successors": [{"name": "Spyware", "id": 1168689}]}
+{"name": "Vigilancia_de_computadoras", "id": 10535299, "predecessors": [{"name": "Seguridad_informática", "id": 105215}, {"name": "Vigilancia", "id": 2942562}], "successors": [{"name": "Spyware", "id": 1168689}]}

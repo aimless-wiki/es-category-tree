@@ -1,1 +1,1 @@
-{"name": "Gobierno_Vasco", "id": 4728531, "predecessors": [{"name": "Historia_del_País_Vasco", "id": 292567}, {"name": "Política_del_País_Vasco", "id": 645904}, {"name": "Historia_política_de_España", "id": 5271110}], "successors": []}
+{"name": "Gobierno_Vasco", "id": 4728531, "predecessors": [{"name": "Historia_del_País_Vasco", "id": 292567}], "successors": [{"name": "Presidentes_del_Gobierno_Vasco", "id": 886209}, {"name": "Consejeros_del_Gobierno_Vasco", "id": 2430961}]}

@@ -1,1 +1,1 @@
-{"name": "Inodoros", "id": 5882272, "predecessors": [{"name": "Aparatos_sanitarios", "id": 5968575}, {"name": "Cuarto_de_baño", "id": 7580696}], "successors": []}
+{"name": "Inodoros", "id": 5882272, "predecessors": [{"name": "Cuarto_de_baño", "id": 7580696}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Deportes_aeronáuticos", "id": 173940, "predecessors": [{"name": "Aviación", "id": 282606}], "successors": [{"name": "Paracaidismo", "id": 412418}, {"name": "Aeroclubes_de_Argentina", "id": 7492042}, {"name": "Trofeo_Schneider", "id": 8315621}]}
+{"name": "Deportes_aeronáuticos", "id": 173940, "predecessors": [{"name": "Aviación", "id": 282606}, {"name": "Deporte", "id": 50825}], "successors": [{"name": "Paracaidismo", "id": 412418}, {"name": "Trofeo_Schneider", "id": 8315621}]}

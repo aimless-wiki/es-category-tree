@@ -1,1 +1,1 @@
-{"name": "Arquitectura_de_Palencia", "id": 8281611, "predecessors": [{"name": "Poblaciones_del_Camino_de_Santiago_Francés", "id": 8121364}], "successors": [{"name": "Monumentos_de_Palencia", "id": 4300007}, {"name": "Catedral_de_Palencia", "id": 5381438}]}
+{"name": "Arquitectura_de_Palencia", "id": 8281611, "predecessors": [{"name": "Localidades_de_la_provincia_de_Palencia", "id": 3200562}, {"name": "Arquitectura_de_España", "id": 92382}], "successors": [{"name": "Monumentos_de_Palencia", "id": 4300007}, {"name": "Catedral_de_Palencia", "id": 5381438}]}

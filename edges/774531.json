@@ -1,1 +1,1 @@
-{"name": "Plazas_de_Francia", "id": 774531, "predecessors": [{"name": "Urbanismo_de_Francia", "id": 314776}, {"name": "Atracciones_turísticas", "id": 1688782}, {"name": "Plazas", "id": 433710}], "successors": [{"name": "Plazas_de_París", "id": 626823}]}
+{"name": "Plazas_de_Francia", "id": 774531, "predecessors": [{"name": "Urbanismo_de_Francia", "id": 314776}, {"name": "Urbanismo", "id": 65375}], "successors": [{"name": "Plazas_de_París", "id": 626823}]}

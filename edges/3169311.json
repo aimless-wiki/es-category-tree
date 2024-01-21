@@ -1,1 +1,1 @@
-{"name": "Fotógrafos_LGBT", "id": 3169311, "predecessors": [{"name": "Artistas_gráficos", "id": 5307264}, {"name": "Ocupaciones", "id": 77994}, {"name": "Arte_LGBT", "id": 2099818}], "successors": [{"name": "Fotógrafas_lesbianas", "id": 3169336}, {"name": "Fotógrafos_gais", "id": 4166462}]}
+{"name": "Fotógrafos_LGBT", "id": 3169311, "predecessors": [{"name": "Arte_LGBT", "id": 2099818}], "successors": [{"name": "Fotógrafas_lesbianas", "id": 3169336}, {"name": "Fotógrafos_gais", "id": 4166462}]}

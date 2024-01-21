@@ -1,1 +1,1 @@
-{"name": "Directores_de_cine_de_Andalucía", "id": 426834, "predecessors": [{"name": "Andalucía", "id": 51045}, {"name": "Directores_de_cine_de_España", "id": 132547}], "successors": [{"name": "Directores_de_cine_de_Sevilla", "id": 2523946}, {"name": "Directores_de_cine_de_Granada", "id": 7616686}]}
+{"name": "Directores_de_cine_de_Andalucía", "id": 426834, "predecessors": [{"name": "Cine_de_Andalucía", "id": 1424678}, {"name": "Andalucía", "id": 51045}, {"name": "Cineastas_de_España", "id": 127605}], "successors": []}

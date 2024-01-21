@@ -1,1 +1,1 @@
-{"name": "Profetas_del_Tanaj", "id": 9010715, "predecessors": [{"name": "Personajes_del_Tanaj", "id": 633692}, {"name": "Judaísmo", "id": 51119}], "successors": []}
+{"name": "Profetas_del_Tanaj", "id": 9010715, "predecessors": [{"name": "Personajes_del_Tanaj", "id": 633692}, {"name": "Profetas_del_cristianismo", "id": 9010721}, {"name": "Judaísmo", "id": 51119}], "successors": []}

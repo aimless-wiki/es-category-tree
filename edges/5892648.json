@@ -1,1 +1,1 @@
-{"name": "Compostaje", "id": 5892648, "predecessors": [{"name": "Jardinería", "id": 66989}, {"name": "Reciclaje", "id": 162974}], "successors": []}
+{"name": "Compostaje", "id": 5892648, "predecessors": [{"name": "Jardinería", "id": 66989}], "successors": []}

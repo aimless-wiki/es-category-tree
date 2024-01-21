@@ -1,1 +1,1 @@
-{"name": "Intoxicaciones_alimentarias", "id": 664638, "predecessors": [{"name": "Seguridad_alimentaria", "id": 664644}, {"name": "Epidemiología", "id": 51568}], "successors": [{"name": "Cólera", "id": 2432680}, {"name": "Adulteraciones", "id": 8065226}]}
+{"name": "Intoxicaciones_alimentarias", "id": 664638, "predecessors": [{"name": "Inocuidad_alimentaria", "id": 10772781}], "successors": []}

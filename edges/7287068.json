@@ -1,1 +1,1 @@
-{"name": "Humoristas_gráficos", "id": 7287068, "predecessors": [{"name": "Humor_gráfico", "id": 5571800}, {"name": "Humoristas", "id": 60178}], "successors": [{"name": "Autores_de_El_Jueves", "id": 2465134}]}
+{"name": "Humoristas_gráficos", "id": 7287068, "predecessors": [{"name": "Humor_gráfico", "id": 5571800}], "successors": [{"name": "Autores_de_El_Jueves", "id": 2465134}]}

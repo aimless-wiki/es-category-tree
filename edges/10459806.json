@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_Tailandia", "id": 10459806, "predecessors": [{"name": "Nacionalidad", "id": 1699794}, {"name": "Cartografía", "id": 51115}], "successors": [{"name": "Nacidos_en_Bangkok", "id": 9536975}]}
+{"name": "Nacidos_en_Tailandia", "id": 10459806, "predecessors": [{"name": "Cartografía", "id": 51115}, {"name": "Nacionalidad", "id": 1699794}], "successors": [{"name": "Nacidos_en_Bangkok", "id": 9536975}]}

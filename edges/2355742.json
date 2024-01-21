@@ -1,1 +1,1 @@
-{"name": "Migración_de_las_aves", "id": 2355742, "predecessors": [{"name": "Comportamiento_de_las_aves", "id": 2572582}, {"name": "Migración_animal", "id": 8442702}], "successors": [{"name": "Aves_migratorias", "id": 904107}, {"name": "Rutas_de_vuelo_migratorio", "id": 2355837}]}
+{"name": "Migración_de_las_aves", "id": 2355742, "predecessors": [{"name": "Migración_animal", "id": 8442702}], "successors": []}

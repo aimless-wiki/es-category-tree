@@ -1,1 +1,1 @@
-{"name": "Equipamiento_de_béisbol", "id": 2944943, "predecessors": [{"name": "Equipamiento_deportivo", "id": 2178000}, {"name": "Deporte_en_Estados_Unidos", "id": 4168512}], "successors": []}
+{"name": "Equipamiento_de_béisbol", "id": 2944943, "predecessors": [{"name": "Deporte", "id": 50825}, {"name": "Equipamiento_deportivo", "id": 2178000}], "successors": []}
