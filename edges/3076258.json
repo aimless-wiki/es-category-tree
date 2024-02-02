@@ -1,1 +1,1 @@
-{"name": "Incienso", "id": 3076258, "predecessors": [{"name": "Objetos_mágicos", "id": 2309928}, {"name": "Perfumería", "id": 73678}], "successors": []}
+{"name": "Incienso", "id": 3076258, "predecessors": [{"name": "Perfumería", "id": 73678}, {"name": "Magia", "id": 210532}], "successors": []}

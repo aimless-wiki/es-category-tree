@@ -1,1 +1,1 @@
-{"name": "Internet_de_las_cosas", "id": 5905546, "predecessors": [{"name": "Internet", "id": 83426}, {"name": "Informática_y_sociedad", "id": 5905577}], "successors": [{"name": "Robótica", "id": 65904}, {"name": "Domótica", "id": 100066}, {"name": "Informática_vestible", "id": 6168575}]}
+{"name": "Internet_de_las_cosas", "id": 5905546, "predecessors": [{"name": "Internet", "id": 83426}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Robótica", "id": 65904}, {"name": "Domótica", "id": 100066}]}

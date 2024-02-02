@@ -1,1 +1,1 @@
-{"name": "Obispos_benedictinos", "id": 9356548, "predecessors": [{"name": "Benedictinos", "id": 355266}, {"name": "Obispos", "id": 113632}], "successors": [{"name": "Papas_benedictinos", "id": 5690339}]}
+{"name": "Obispos_benedictinos", "id": 9356548, "predecessors": [{"name": "Cristianismo", "id": 51116}, {"name": "Grupos_sociales", "id": 329683}], "successors": []}

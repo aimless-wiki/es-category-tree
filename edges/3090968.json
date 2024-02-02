@@ -1,1 +1,1 @@
-{"name": "Líneas_de_latitud", "id": 3090968, "predecessors": [{"name": "Coordenadas_geográficas", "id": 1816333}], "successors": []}
+{"name": "Líneas_de_latitud", "id": 3090968, "predecessors": [{"name": "Sistemas_de_coordenadas", "id": 1816309}, {"name": "Mecánica_celeste", "id": 148979}, {"name": "Curvas", "id": 55106}], "successors": []}

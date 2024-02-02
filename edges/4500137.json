@@ -1,1 +1,1 @@
-{"name": "Decanos_del_Colegio_de_Cardenales", "id": 4500137, "predecessors": [{"name": "Cardenales", "id": 123440}, {"name": "Colegio_cardenalicio", "id": 5126942}], "successors": [{"name": "Benedicto_XVI", "id": 2241899}]}
+{"name": "Decanos_del_Colegio_de_Cardenales", "id": 4500137, "predecessors": [{"name": "Cónclaves", "id": 2232085}, {"name": "Cristianismo", "id": 51116}], "successors": [{"name": "Benedicto_XVI", "id": 2241899}]}

@@ -1,1 +1,1 @@
-{"name": "Eurobasket_femenino", "id": 2780485, "predecessors": [{"name": "Campeonatos_FIBA_Europa", "id": 4872787}], "successors": []}
+{"name": "Eurobasket_femenino", "id": 2780485, "predecessors": [{"name": "Competiciones_deportivas_de_Europa", "id": 2366546}, {"name": "Usos_y_costumbres", "id": 66590}], "successors": []}

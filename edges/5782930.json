@@ -1,1 +1,1 @@
-{"name": "Fundadores_de_localidades", "id": 5782930, "predecessors": [{"name": "Localidades", "id": 104681}], "successors": [{"name": "Fundadores_de_localidades_en_Argentina", "id": 2764505}]}
+{"name": "Fundadores_de_localidades", "id": 5782930, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Planificación_Territorial", "id": 1122690}], "successors": [{"name": "Fundadores_de_localidades_en_Argentina", "id": 2764505}]}

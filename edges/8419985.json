@@ -1,1 +1,1 @@
-{"name": "Pinturas_de_guerra", "id": 8419985, "predecessors": [{"name": "Géneros_pictóricos", "id": 988681}, {"name": "Pintura_de_historia", "id": 2576928}, {"name": "Historia", "id": 50578}], "successors": []}
+{"name": "Pinturas_de_guerra", "id": 8419985, "predecessors": [{"name": "Pintura_de_historia", "id": 2576928}, {"name": "Géneros_de_artes", "id": 2268166}, {"name": "Ciencias_sociales", "id": 54517}], "successors": []}

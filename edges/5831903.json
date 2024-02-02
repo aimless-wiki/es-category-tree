@@ -1,1 +1,1 @@
-{"name": "Empresas_de_colectivos_de_Argentina", "id": 5831903, "predecessors": [{"name": "Colectivos_de_Argentina", "id": 2446624}, {"name": "Empresas_de_Argentina", "id": 141506}], "successors": []}
+{"name": "Empresas_de_colectivos_de_Argentina", "id": 5831903, "predecessors": [{"name": "Autobuses", "id": 1228513}, {"name": "Empresas_de_Argentina", "id": 141506}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Biógrafos_de_Estados_Unidos", "id": 4799498, "predecessors": [{"name": "Escritores_de_Estados_Unidos", "id": 76258}], "successors": [{"name": "Autobiógrafos_de_Estados_Unidos", "id": 4987006}]}
+{"name": "Biógrafos_de_Estados_Unidos", "id": 4799498, "predecessors": [{"name": "Escritores_de_Estados_Unidos", "id": 76258}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Autobiógrafos_de_Estados_Unidos", "id": 4987006}]}

@@ -1,1 +1,1 @@
-{"name": "Organismos_modificados_genéticamente", "id": 626201, "predecessors": [{"name": "Cuestiones_ambientales", "id": 6069493}], "successors": [{"name": "Organismos_modificados_genéticamente_en_agricultura", "id": 5799938}, {"name": "Monsanto", "id": 10705070}]}
+{"name": "Organismos_modificados_genéticamente", "id": 626201, "predecessors": [{"name": "Cuestiones_ambientales", "id": 6069493}, {"name": "Ingeniería_genética", "id": 1380453}, {"name": "Biotecnología", "id": 217303}], "successors": []}

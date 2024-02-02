@@ -1,1 +1,1 @@
-{"name": "Escudos_con_castillos", "id": 9068758, "predecessors": [{"name": "Castillos", "id": 167332}, {"name": "Escudos_con_edificios", "id": 9048366}], "successors": []}
+{"name": "Escudos_con_castillos", "id": 9068758, "predecessors": [{"name": "Escudos_con_edificios", "id": 9048366}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Aves_en_el_arte", "id": 9024501, "predecessors": [{"name": "Aves_en_la_cultura", "id": 9994144}, {"name": "Animales_en_el_arte", "id": 5994555}], "successors": [{"name": "Aves_heráldicas", "id": 9036448}, {"name": "Aves_en_monedas", "id": 9324159}, {"name": "Canciones_sobre_pájaros", "id": 10161049}]}
+{"name": "Aves_en_el_arte", "id": 9024501, "predecessors": [{"name": "Fósiles", "id": 554861}, {"name": "Animales_en_el_arte", "id": 5994555}], "successors": [{"name": "Canciones_sobre_pájaros", "id": 10161049}]}

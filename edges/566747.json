@@ -1,1 +1,1 @@
-{"name": "Tipos_de_bienes", "id": 566747, "predecessors": [{"name": "Bienes", "id": 566819}], "successors": [{"name": "Inmuebles", "id": 2456464}, {"name": "Bien_común", "id": 6539997}]}
+{"name": "Tipos_de_bienes", "id": 566747, "predecessors": [{"name": "Comercio", "id": 85125}, {"name": "Índice_de_categorías", "id": 55702}], "successors": []}

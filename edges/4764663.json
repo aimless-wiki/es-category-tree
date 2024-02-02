@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_cáncer_de_estómago", "id": 4764663, "predecessors": [{"name": "Fallecidos_por_complicaciones_gastrointestinales", "id": 5032796}, {"name": "Cáncer", "id": 1552072}, {"name": "Fallecidos_por_cáncer", "id": 4589687}], "successors": [{"name": "Juan_XXIII", "id": 2271102}]}
+{"name": "Fallecidos_por_cáncer_de_estómago", "id": 4764663, "predecessors": [{"name": "Fallecidos_por_enfermedad", "id": 5032812}, {"name": "Cáncer", "id": 1552072}, {"name": "Fallecidos_por_cáncer", "id": 4589687}], "successors": []}

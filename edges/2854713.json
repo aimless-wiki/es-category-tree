@@ -1,1 +1,1 @@
-{"name": "Personas_ciegas", "id": 2854713, "predecessors": [{"name": "Ceguera", "id": 1335341}, {"name": "Personas_con_discapacidad", "id": 4087150}], "successors": [{"name": "Jorge_Luis_Borges", "id": 242459}, {"name": "Escritores_ciegos", "id": 4184530}]}
+{"name": "Personas_ciegas", "id": 2854713, "predecessors": [{"name": "Enfermedades_del_sistema_visual", "id": 5433523}, {"name": "Discapacidad", "id": 122973}], "successors": [{"name": "Jorge_Luis_Borges", "id": 242459}, {"name": "Músicos_ciegos", "id": 3195914}, {"name": "Personajes_ciegos_ficticios", "id": 8869131}]}

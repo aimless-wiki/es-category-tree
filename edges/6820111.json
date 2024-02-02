@@ -1,1 +1,1 @@
-{"name": "Placas_arcade_de_Sega", "id": 6820111, "predecessors": [{"name": "Placas_arcade", "id": 783060}, {"name": "Sega", "id": 229592}], "successors": []}
+{"name": "Placas_arcade_de_Sega", "id": 6820111, "predecessors": [{"name": "Sega", "id": 229592}, {"name": "Hardware", "id": 52372}], "successors": []}

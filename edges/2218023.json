@@ -1,1 +1,1 @@
-{"name": "Bibliotecas_de_C++", "id": 2218023, "predecessors": [{"name": "Bibliotecas_de_programación", "id": 2305881}], "successors": [{"name": "Qt", "id": 2639047}]}
+{"name": "Bibliotecas_de_C++", "id": 2218023, "predecessors": [{"name": "Programación", "id": 52400}, {"name": "Lenguajes_de_programación", "id": 54634}], "successors": []}

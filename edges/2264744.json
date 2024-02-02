@@ -1,1 +1,1 @@
-{"name": "Ejecutados_por_traición", "id": 2264744, "predecessors": [{"name": "Criminales", "id": 81234}], "successors": [{"name": "Colaboradores_nazis_ejecutados", "id": 5004674}]}
+{"name": "Ejecutados_por_traición", "id": 2264744, "predecessors": [{"name": "Ejecutados", "id": 373444}, {"name": "Delitos", "id": 69467}], "successors": []}

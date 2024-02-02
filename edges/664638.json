@@ -1,1 +1,1 @@
-{"name": "Intoxicaciones_alimentarias", "id": 664638, "predecessors": [{"name": "Inocuidad_alimentaria", "id": 10772781}], "successors": []}
+{"name": "Intoxicaciones_alimentarias", "id": 664638, "predecessors": [{"name": "Inocuidad_alimentaria", "id": 10772781}, {"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Fallecidos_por_cólera", "id": 5032767}]}

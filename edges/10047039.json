@@ -1,1 +1,1 @@
-{"name": "Sepultados_en_el_cementerio_de_San_Justo", "id": 10047039, "predecessors": [{"name": "Personas_de_Madrid", "id": 8286980}, {"name": "Cementerios", "id": 229845}, {"name": "Cementerios_de_Madrid", "id": 830918}], "successors": []}
+{"name": "Sepultados_en_el_cementerio_de_San_Justo", "id": 10047039, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Ceremonias_funerarias", "id": 221090}, {"name": "Geografía_física", "id": 741956}], "successors": []}

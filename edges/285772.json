@@ -1,1 +1,1 @@
-{"name": "Periodistas_de_Alemania", "id": 285772, "predecessors": [{"name": "Comunicación", "id": 274050}, {"name": "Cultura_de_Alemania", "id": 76010}, {"name": "Medios_de_comunicación_de_Alemania", "id": 214053}], "successors": [{"name": "Mujeres_periodistas_de_Alemania", "id": 7638081}]}
+{"name": "Periodistas_de_Alemania", "id": 285772, "predecessors": [{"name": "Medios_de_comunicación", "id": 142719}, {"name": "Cultura_de_Alemania", "id": 76010}, {"name": "Comunicación", "id": 274050}], "successors": [{"name": "Mujeres_periodistas_de_Alemania", "id": 7638081}]}

@@ -1,1 +1,1 @@
-{"name": "Museos_de_historia_natural", "id": 433999, "predecessors": [{"name": "Historia_natural", "id": 3168034}, {"name": "Museos_de_ciencias", "id": 2074194}], "successors": [{"name": "Museos_paleontológicos", "id": 1640793}, {"name": "Museos_geológicos", "id": 5984336}]}
+{"name": "Museos_de_historia_natural", "id": 433999, "predecessors": [{"name": "Museos_de_ciencias", "id": 2074194}, {"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Smithsonian_Institution", "id": 4470061}, {"name": "Museo_de_La_Plata", "id": 9551366}]}

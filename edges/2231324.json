@@ -1,1 +1,1 @@
-{"name": "Incidentes_diplomáticos", "id": 2231324, "predecessors": [{"name": "Conflictos", "id": 2563033}, {"name": "Diplomacia", "id": 55419}], "successors": [{"name": "Diplomáticos_asesinados", "id": 5395862}, {"name": "Crisis_diplomáticas", "id": 5627493}, {"name": "Bloqueos", "id": 5948483}]}
+{"name": "Incidentes_diplomáticos", "id": 2231324, "predecessors": [{"name": "Diplomacia", "id": 55419}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Crisis_diplomáticas", "id": 5627493}]}

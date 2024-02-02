@@ -1,1 +1,1 @@
-{"name": "Células_animales", "id": 1129378, "predecessors": [{"name": "Animales", "id": 55378}, {"name": "Célula_eucariota", "id": 9296073}, {"name": "Tipos_de_células", "id": 1130181}], "successors": [{"name": "Células_de_la_sangre", "id": 76706}, {"name": "Neuronas", "id": 3186214}, {"name": "Epitelio", "id": 6500407}]}
+{"name": "Células_animales", "id": 1129378, "predecessors": [{"name": "Tipos_de_células", "id": 1130181}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Neuronas", "id": 3186214}, {"name": "Eritrocito", "id": 1812472}]}

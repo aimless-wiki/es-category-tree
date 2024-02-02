@@ -1,1 +1,1 @@
-{"name": "Solventes", "id": 279936, "predecessors": [{"name": "Reactivos", "id": 1768924}, {"name": "Solubilidad", "id": 5633410}, {"name": "Soluciones", "id": 3412021}, {"name": "Compuestos_químicos", "id": 112512}], "successors": []}
+{"name": "Solventes", "id": 279936, "predecessors": [{"name": "Materiales", "id": 74562}, {"name": "Equipamiento_de_laboratorio", "id": 4240941}, {"name": "Mezclas_químicas", "id": 1190049}, {"name": "Fisicoquímica", "id": 366025}], "successors": []}

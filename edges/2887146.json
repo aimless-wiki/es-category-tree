@@ -1,1 +1,1 @@
-{"name": "Videojuegos_ciberpunk", "id": 2887146, "predecessors": [{"name": "Ciberpunk", "id": 479650}], "successors": []}
+{"name": "Videojuegos_ciberpunk", "id": 2887146, "predecessors": [{"name": "Videojuegos_de_ciencia_ficción", "id": 1839841}, {"name": "Historia_de_la_informática", "id": 215678}], "successors": []}

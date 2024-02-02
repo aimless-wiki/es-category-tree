@@ -1,1 +1,1 @@
-{"name": "Escuelas_de_teatro", "id": 1334518, "predecessors": [{"name": "Actuación", "id": 6419374}, {"name": "Organizaciones_de_teatro", "id": 1334588}, {"name": "Centros_educativos_por_tipo", "id": 6287976}], "successors": [{"name": "Escuelas_de_teatro_de_España", "id": 7100853}]}
+{"name": "Escuelas_de_teatro", "id": 1334518, "predecessors": [{"name": "Actuación", "id": 6419374}, {"name": "Teatro", "id": 51851}, {"name": "Escuelas", "id": 952264}], "successors": [{"name": "Alumnado_del_Centro_Universitario_de_Teatro", "id": 9368798}]}

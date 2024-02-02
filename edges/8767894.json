@@ -1,1 +1,1 @@
-{"name": "Ciudades_cerradas", "id": 8767894, "predecessors": [{"name": "Ciudades", "id": 8905315}], "successors": [{"name": "La_Meca", "id": 1795488}, {"name": "Medina", "id": 1795490}, {"name": "Ciudad_cerrada_de_la_Unión_Soviética", "id": 2221184}]}
+{"name": "Ciudades_cerradas", "id": 8767894, "predecessors": [{"name": "Asentamientos", "id": 2374179}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": [{"name": "Personas_de_La_Meca", "id": 4752440}]}

@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_linfoma", "id": 4586756, "predecessors": [{"name": "Linfomas", "id": 2339207}, {"name": "Cáncer", "id": 1552072}, {"name": "Fallecidos_por_cáncer", "id": 4589687}], "successors": []}
+{"name": "Fallecidos_por_linfoma", "id": 4586756, "predecessors": [{"name": "Cáncer", "id": 1552072}, {"name": "Fallecidos_por_cáncer", "id": 4589687}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Médicos_de_la_ciudad_de_Buenos_Aires", "id": 6309190, "predecessors": [{"name": "Ciudad_de_Buenos_Aires", "id": 291542}, {"name": "Personas_de_la_ciudad_de_Buenos_Aires", "id": 225572}, {"name": "Médicos_de_Argentina", "id": 131190}], "successors": []}
+{"name": "Médicos_de_la_ciudad_de_Buenos_Aires", "id": 6309190, "predecessors": [{"name": "Personas_de_la_ciudad_de_Buenos_Aires", "id": 225572}, {"name": "Médicos_de_Argentina", "id": 131190}, {"name": "Cultura", "id": 51310}], "successors": []}

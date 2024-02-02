@@ -1,1 +1,1 @@
-{"name": "Educadores_de_Colombia", "id": 1781348, "predecessors": [{"name": "Educación_en_Colombia", "id": 461640}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Pedagogos_de_Colombia", "id": 914352}, {"name": "Profesores_de_Colombia", "id": 1527823}]}
+{"name": "Educadores_de_Colombia", "id": 1781348, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Gentilicios", "id": 70166}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Profesores_de_Colombia", "id": 1527823}]}

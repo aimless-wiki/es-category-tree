@@ -1,1 +1,1 @@
-{"name": "Fibra_óptica", "id": 59399, "predecessors": [{"name": "Comunicaciones_ópticas", "id": 2979819}, {"name": "Cables", "id": 190081}], "successors": [{"name": "Redes_ópticas_pasivas", "id": 6579250}]}
+{"name": "Fibra_óptica", "id": 59399, "predecessors": [{"name": "Telecomunicaciones", "id": 52300}, {"name": "Cables", "id": 190081}], "successors": []}

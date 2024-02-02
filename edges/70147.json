@@ -1,0 +1,1 @@
+{"name": "Transporte_de_mercancías", "id": 70147, "predecessors": [{"name": "Transporte", "id": 55371}], "successors": [{"name": "Transporte_por_carretera", "id": 73767}, {"name": "Transporte_marítimo", "id": 73768}, {"name": "Embalaje", "id": 392921}]}

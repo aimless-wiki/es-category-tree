@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_bicicletas", "id": 1557430, "predecessors": [{"name": "Bicicletas", "id": 4795943}], "successors": []}
+{"name": "Fabricantes_de_bicicletas", "id": 1557430, "predecessors": [{"name": "Fabricantes_de_vehículos", "id": 2125679}, {"name": "Inventos_del_siglo_XIX", "id": 7350314}], "successors": []}

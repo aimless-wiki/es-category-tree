@@ -1,1 +1,1 @@
-{"name": "Tecnología_educativa", "id": 5813466, "predecessors": [{"name": "Educación", "id": 50646}, {"name": "Tecnologías", "id": 5551757}], "successors": [{"name": "Realidad_virtual", "id": 276964}, {"name": "Sitios_web_educativos", "id": 7044986}, {"name": "Sistemas_de_gestión_de_aprendizaje", "id": 7650041}]}
+{"name": "Tecnología_educativa", "id": 5813466, "predecessors": [{"name": "Educación", "id": 50646}, {"name": "Tecnología", "id": 50822}], "successors": [{"name": "Realidad_virtual", "id": 276964}, {"name": "Sistemas_de_gestión_de_aprendizaje", "id": 7650041}]}

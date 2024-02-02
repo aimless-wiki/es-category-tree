@@ -1,1 +1,1 @@
-{"name": "Circos", "id": 3118123, "predecessors": [{"name": "Circo", "id": 296166}, {"name": "Empresas_de_entretenimiento", "id": 3118050}], "successors": [{"name": "Cirque_du_Soleil", "id": 385515}, {"name": "Circos_de_Madrid", "id": 8003486}]}
+{"name": "Circos", "id": 3118123, "predecessors": [{"name": "Industria", "id": 70145}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Gobernadores_del_Banco_de_España", "id": 3719654, "predecessors": [{"name": "Banco_de_España", "id": 2301141}, {"name": "Banqueros_centrales", "id": 7510441}], "successors": []}
+{"name": "Gobernadores_del_Banco_de_España", "id": 3719654, "predecessors": [{"name": "Banqueros_centrales", "id": 7510441}, {"name": "Bancos_centrales_de_Europa", "id": 8219950}], "successors": []}

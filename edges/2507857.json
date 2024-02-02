@@ -1,1 +1,1 @@
-{"name": "Artistas_abstractos", "id": 2507857, "predecessors": [{"name": "Abstraccionismo", "id": 1802793}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Pintores_abstractos", "id": 707010}]}
+{"name": "Artistas_abstractos", "id": 2507857, "predecessors": [{"name": "Abstraccionismo", "id": 1802793}, {"name": "Géneros_de_artes", "id": 2268166}], "successors": [{"name": "Pintores_abstractos", "id": 707010}]}

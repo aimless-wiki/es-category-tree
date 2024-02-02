@@ -1,1 +1,1 @@
-{"name": "Agencia_de_Seguridad_Nacional", "id": 6105712, "predecessors": [{"name": "Criptografía", "id": 55406}, {"name": "Gobierno_de_Estados_Unidos", "id": 115752}, {"name": "Servicios_de_inteligencia_de_Estados_Unidos", "id": 4224754}], "successors": []}
+{"name": "Agencia_de_Seguridad_Nacional", "id": 6105712, "predecessors": [{"name": "Criptografía", "id": 55406}, {"name": "Gobierno_de_Estados_Unidos", "id": 115752}, {"name": "Agencias_del_Gobierno_de_Estados_Unidos", "id": 1471354}], "successors": []}

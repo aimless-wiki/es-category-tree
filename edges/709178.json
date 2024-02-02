@@ -1,1 +1,1 @@
-{"name": "Productores_de_cine_de_Italia", "id": 709178, "predecessors": [{"name": "Cineastas_de_Italia", "id": 867482}, {"name": "Arte", "id": 51311}], "successors": []}
+{"name": "Productores_de_cine_de_Italia", "id": 709178, "predecessors": [{"name": "Productores_de_cine", "id": 194470}, {"name": "Oficios_del_cine", "id": 1066620}], "successors": []}

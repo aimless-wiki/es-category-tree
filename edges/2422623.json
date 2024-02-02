@@ -1,1 +1,1 @@
-{"name": "Católicos_ficticios", "id": 2422623, "predecessors": [{"name": "Cristianos_ficticios", "id": 10269470}, {"name": "Confesiones_cristianas", "id": 169934}, {"name": "Religión", "id": 50653}], "successors": [{"name": "Sacerdotes_católicos_ficticios", "id": 2380648}]}
+{"name": "Católicos_ficticios", "id": 2422623, "predecessors": [{"name": "Cristianismo", "id": 51116}, {"name": "Comportamiento_humano", "id": 744693}], "successors": []}

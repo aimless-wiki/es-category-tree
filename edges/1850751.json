@@ -1,1 +1,1 @@
-{"name": "Materia_oscura", "id": 1850751, "predecessors": [{"name": "Astrofísica", "id": 1850633}, {"name": "Cosmología_física", "id": 939020}, {"name": "Luz", "id": 325153}], "successors": []}
+{"name": "Materia_oscura", "id": 1850751, "predecessors": [{"name": "Cosmología_física", "id": 939020}, {"name": "Ingeniería", "id": 65205}, {"name": "Física_de_partículas", "id": 710038}, {"name": "Luz", "id": 325153}], "successors": []}

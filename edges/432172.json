@@ -1,1 +1,1 @@
-{"name": "Clientes_de_correo_electrónico", "id": 432172, "predecessors": [{"name": "Correo_electrónico", "id": 432225}], "successors": [{"name": "Clientes_de_correo_electrónico_libres", "id": 467878}, {"name": "Clientes_de_correo_electrónico_para_Linux", "id": 1235053}]}
+{"name": "Clientes_de_correo_electrónico", "id": 432172, "predecessors": [{"name": "Correo_electrónico", "id": 432225}], "successors": []}

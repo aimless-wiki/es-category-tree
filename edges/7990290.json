@@ -1,1 +1,1 @@
-{"name": "Bodegas_de_Chile", "id": 7990290, "predecessors": [{"name": "Viñas_de_Chile", "id": 7840777}, {"name": "Empresas_de_Chile", "id": 202769}, {"name": "Bodegas", "id": 1795467}], "successors": [{"name": "Copa_Gato", "id": 4775169}]}
+{"name": "Bodegas_de_Chile", "id": 7990290, "predecessors": [{"name": "Empresas_de_Chile", "id": 202769}, {"name": "Empresas", "id": 62409}, {"name": "Bebidas_alcohólicas_de_Chile", "id": 1773456}], "successors": []}

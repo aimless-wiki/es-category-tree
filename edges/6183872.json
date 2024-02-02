@@ -1,1 +1,1 @@
-{"name": "Departamento_Banda", "id": 6183872, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}], "successors": []}
+{"name": "Departamento_Banda", "id": 6183872, "predecessors": [{"name": "Derecho_administrativo", "id": 75750}], "successors": [{"name": "Bandeños", "id": 2518666}, {"name": "Baloncestistas_del_Club_Ciclista_Olímpico", "id": 5540386}]}

@@ -1,1 +1,1 @@
-{"name": "Viticultores", "id": 527875, "predecessors": [{"name": "Viticultura", "id": 2477514}, {"name": "Ocupaciones", "id": 77994}], "successors": []}
+{"name": "Viticultores", "id": 527875, "predecessors": [{"name": "Viticultura", "id": 2477514}, {"name": "Ocupaciones", "id": 77994}, {"name": "Agricultura", "id": 51124}, {"name": "Dirigentes", "id": 1892877}], "successors": []}

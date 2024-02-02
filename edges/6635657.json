@@ -1,1 +1,1 @@
-{"name": "Obras_de_arte_perdidas", "id": 6635657, "predecessors": [{"name": "Historia_del_arte", "id": 204269}, {"name": "Obras_de_arte", "id": 256100}, {"name": "Historia_de_la_cultura", "id": 791575}], "successors": []}
+{"name": "Obras_de_arte_perdidas", "id": 6635657, "predecessors": [{"name": "Historia_del_arte", "id": 204269}, {"name": "Arte", "id": 51311}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Cuadros_perdidos", "id": 9317345}]}

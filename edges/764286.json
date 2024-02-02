@@ -1,1 +1,1 @@
-{"name": "Revistas_de_arquitectura", "id": 764286, "predecessors": [{"name": "Revistas_de_diseño", "id": 5352252}, {"name": "Revistas_de_humanidades", "id": 4672825}, {"name": "Arquitectura", "id": 50594}], "successors": []}
+{"name": "Revistas_de_arquitectura", "id": 764286, "predecessors": [{"name": "Arquitectura", "id": 50594}, {"name": "Diseño", "id": 72722}, {"name": "Revistas_científicas", "id": 73526}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Malware", "id": 4584019, "predecessors": [{"name": "Ciberguerra", "id": 10739487}], "successors": []}
+{"name": "Malware", "id": 4584019, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Problemas_de_seguridad_informática", "id": 516901}, {"name": "Delitos", "id": 69467}, {"name": "Batallas_y_conflictos_sin_bajas", "id": 8034614}], "successors": []}

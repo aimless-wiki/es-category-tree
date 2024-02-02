@@ -1,1 +1,1 @@
-{"name": "Democracia", "id": 329695, "predecessors": [{"name": "Ideologías_políticas", "id": 4040870}], "successors": [{"name": "Revoluciones_de_1989", "id": 2046135}]}
+{"name": "Democracia", "id": 329695, "predecessors": [{"name": "Derecho_constitucional", "id": 75758}, {"name": "Formas_de_gobierno", "id": 1744497}, {"name": "Ideologías_políticas", "id": 4040870}], "successors": [{"name": "Democracia_directa", "id": 1993822}, {"name": "Revoluciones_de_1989", "id": 2046135}, {"name": "Partidos_políticos", "id": 60708}]}

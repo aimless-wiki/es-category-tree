@@ -1,1 +1,1 @@
-{"name": "Alfabetización", "id": 6494304, "predecessors": [{"name": "Escritura", "id": 52207}, {"name": "Habilidades", "id": 3058241}, {"name": "Lingüística_aplicada", "id": 3405773}], "successors": []}
+{"name": "Alfabetización", "id": 6494304, "predecessors": [{"name": "Conocimiento", "id": 703218}, {"name": "Escritura", "id": 52207}, {"name": "Aprendizaje", "id": 1831331}, {"name": "Ciencias_sociales", "id": 54517}, {"name": "Academia", "id": 1704568}], "successors": []}

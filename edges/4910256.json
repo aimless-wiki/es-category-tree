@@ -1,1 +1,1 @@
-{"name": "Ciclismo_en_pista", "id": 4910256, "predecessors": [{"name": "Ciclismo_(deporte)", "id": 9879253}], "successors": [{"name": "Competiciones_de_ciclismo_de_pista", "id": 4911233}]}
+{"name": "Ciclismo_en_pista", "id": 4910256, "predecessors": [{"name": "Índice_de_categorías", "id": 55702}], "successors": [{"name": "Ciclistas_de_pista", "id": 5066217}, {"name": "Campeonatos_mundiales_de_ciclismo_en_pista", "id": 4911229}, {"name": "Campeonatos_europeos_de_ciclismo_en_pista", "id": 6031668}, {"name": "Carreras_ciclistas_de_seis_días", "id": 6468535}]}

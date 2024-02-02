@@ -1,1 +1,1 @@
-{"name": "Películas_basadas_en_hechos_reales", "id": 747181, "predecessors": [{"name": "Géneros_cinematográficos", "id": 123052}], "successors": [{"name": "Películas_de_cine_histórico", "id": 135676}]}
+{"name": "Películas_basadas_en_hechos_reales", "id": 747181, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Índice_de_categorías", "id": 55702}, {"name": "Estructuralismo", "id": 196415}], "successors": [{"name": "Películas_de_cine_histórico", "id": 135676}, {"name": "Películas_biográficas", "id": 257718}]}

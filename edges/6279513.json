@@ -1,1 +1,1 @@
-{"name": "Animales_descritos_en_1939", "id": 6279513, "predecessors": [{"name": "Ciencia_de_1939", "id": 7316404}, {"name": "Especiación", "id": 2339158}, {"name": "Ciencia_de_los_años_1930", "id": 6275507}], "successors": [{"name": "Insectos_descritos_en_1939", "id": 7271135}, {"name": "Arácnidos_descritos_en_1939", "id": 10223575}]}
+{"name": "Animales_descritos_en_1939", "id": 6279513, "predecessors": [{"name": "Ciencia_de_los_años_1930", "id": 6275507}], "successors": [{"name": "Insectos_descritos_en_1939", "id": 7271135}]}

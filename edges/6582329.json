@@ -1,1 +1,1 @@
-{"name": "Revistas_satíricas", "id": 6582329, "predecessors": [{"name": "Revistas_humorísticas", "id": 648372}], "successors": []}
+{"name": "Revistas_satíricas", "id": 6582329, "predecessors": [{"name": "Humor", "id": 79774}, {"name": "Publicación", "id": 1350755}], "successors": []}

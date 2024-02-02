@@ -1,1 +1,1 @@
-{"name": "Ciclo_celular", "id": 1564014, "predecessors": [{"name": "Reproducción_celular", "id": 1130070}], "successors": [{"name": "Reguladores_del_ciclo_celular", "id": 1132298}, {"name": "Meiosis", "id": 2350118}, {"name": "Mitosis", "id": 2419047}]}
+{"name": "Ciclo_celular", "id": 1564014, "predecessors": [{"name": "Fisiología_celular", "id": 1130071}], "successors": [{"name": "Reguladores_del_ciclo_celular", "id": 1132298}]}

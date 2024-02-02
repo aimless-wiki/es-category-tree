@@ -1,1 +1,1 @@
-{"name": "Empresas_automovilísticas", "id": 1306555, "predecessors": [{"name": "Organizaciones_del_automóvil", "id": 1510058}], "successors": [{"name": "Empresas_de_automovilismo", "id": 1416931}]}
+{"name": "Empresas_automovilísticas", "id": 1306555, "predecessors": [{"name": "Automoción", "id": 73875}, {"name": "Transporte_por_carretera", "id": 73767}], "successors": [{"name": "Fabricantes_de_automóviles", "id": 65803}, {"name": "Fabricantes_de_componentes_del_automóvil", "id": 3001496}]}

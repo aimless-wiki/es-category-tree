@@ -1,1 +1,1 @@
-{"name": "Libros_de_2002", "id": 189449, "predecessors": [{"name": "Libros_del_siglo_XXI", "id": 308647}, {"name": "Libros", "id": 158006}, {"name": "Años", "id": 407751}], "successors": [{"name": "Novelas_de_2002", "id": 1747647}, {"name": "Ensayos_de_2002", "id": 9002627}]}
+{"name": "Libros_de_2002", "id": 189449, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_2002", "id": 1747647}]}

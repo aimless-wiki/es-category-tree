@@ -1,1 +1,1 @@
-{"name": "Extremidades_corporales", "id": 319562, "predecessors": [{"name": "Partes_del_cuerpo", "id": 319548}], "successors": [{"name": "Dedos", "id": 2836514}, {"name": "Mano", "id": 4844435}, {"name": "Pie", "id": 8227254}]}
+{"name": "Extremidades_corporales", "id": 319562, "predecessors": [{"name": "Partes_del_cuerpo", "id": 319548}], "successors": [{"name": "Enfermedades_del_pie", "id": 5133178}, {"name": "Escudos_con_manos", "id": 9049878}, {"name": "Gestos_con_las_manos", "id": 9392758}, {"name": "Calzado", "id": 223748}]}

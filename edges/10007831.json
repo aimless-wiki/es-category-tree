@@ -1,1 +1,1 @@
-{"name": "Pan_en_la_cultura", "id": 10007831, "predecessors": [{"name": "Cultura_de_comida_y_bebida", "id": 9147052}, {"name": "Pan", "id": 206342}, {"name": "Triticum", "id": 375498}], "successors": [{"name": "Pan_en_el_arte", "id": 10080561}]}
+{"name": "Pan_en_la_cultura", "id": 10007831, "predecessors": [{"name": "Pan", "id": 206342}, {"name": "Comportamiento_humano", "id": 744693}, {"name": "Cereales", "id": 51208}], "successors": []}

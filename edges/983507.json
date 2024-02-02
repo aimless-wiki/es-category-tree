@@ -1,1 +1,1 @@
-{"name": "Diputados_de_Venezuela", "id": 983507, "predecessors": [{"name": "Ocupaciones_políticas", "id": 5065919}], "successors": []}
+{"name": "Diputados_de_Venezuela", "id": 983507, "predecessors": [{"name": "Políticos_de_Venezuela", "id": 75997}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Diputadas_de_Venezuela", "id": 10142658}]}

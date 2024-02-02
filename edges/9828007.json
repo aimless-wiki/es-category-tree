@@ -1,1 +1,1 @@
-{"name": "Bailarines_de_ballet", "id": 9828007, "predecessors": [{"name": "Bailarines", "id": 296489}, {"name": "Ballet", "id": 440467}], "successors": []}
+{"name": "Bailarines_de_ballet", "id": 9828007, "predecessors": [{"name": "Géneros_de_danza", "id": 8746373}, {"name": "Arte", "id": 51311}], "successors": []}

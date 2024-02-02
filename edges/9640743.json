@@ -1,1 +1,1 @@
-{"name": "Películas_de_20th_Century_Studios", "id": 9640743, "predecessors": [{"name": "20th_Century_Studios", "id": 9976278}, {"name": "Películas", "id": 54481}], "successors": [{"name": "Películas_de_20th_Century_Fox", "id": 375980}]}
+{"name": "Películas_de_20th_Century_Studios", "id": 9640743, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Productoras_de_cine_de_Estados_Unidos", "id": 2158658}], "successors": [{"name": "Películas_de_20th_Century_Fox", "id": 375980}]}

@@ -1,1 +1,1 @@
-{"name": "Cactus_y_suculentas", "id": 97276, "predecessors": [{"name": "Plantas_tolerantes_a_la_sequía", "id": 3443677}], "successors": [{"name": "Cactaceae", "id": 111159}]}
+{"name": "Cactus_y_suculentas", "id": 97276, "predecessors": [{"name": "Desarrollo_sostenible", "id": 189320}], "successors": [{"name": "Sedum", "id": 307073}, {"name": "Aeonium", "id": 307098}, {"name": "Aloe", "id": 1105374}, {"name": "Agave", "id": 1386713}, {"name": "Cylindropuntia", "id": 1719924}, {"name": "Suculentas_de_Sudáfrica", "id": 6320687}]}

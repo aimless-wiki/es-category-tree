@@ -1,1 +1,1 @@
-{"name": "Guerreros_vikingos", "id": 4810034, "predecessors": [{"name": "Guerreros", "id": 8760475}, {"name": "Vikingos", "id": 308232}], "successors": [{"name": "Reyes_vikingos", "id": 1682186}, {"name": "Jomsvikings", "id": 6213851}, {"name": "Skjaldmö", "id": 6458292}]}
+{"name": "Guerreros_vikingos", "id": 4810034, "predecessors": [{"name": "Vikingos", "id": 308232}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Reyes_vikingos", "id": 1682186}]}

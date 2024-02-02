@@ -1,1 +1,1 @@
-{"name": "Enfermedades_autoinmunitarias", "id": 73817, "predecessors": [{"name": "Enfermedades_inmunológicas", "id": 1020518}], "successors": [{"name": "Esclerosis_múltiple", "id": 1020444}, {"name": "Fallecidos_por_lupus", "id": 7573789}, {"name": "Vasculitis", "id": 9895022}]}
+{"name": "Enfermedades_autoinmunitarias", "id": 73817, "predecessors": [{"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Fallecidos_por_esclerosis_múltiple", "id": 5032862}, {"name": "Personas_con_esclerosis_múltiple", "id": 10771441}]}
