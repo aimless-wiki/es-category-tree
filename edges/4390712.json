@@ -1,1 +1,1 @@
-{"name": "Insectos_de_Birmania", "id": 4390712, "predecessors": [{"name": "Fauna_de_Birmania", "id": 3123623}, {"name": "Fauna_indomalaya", "id": 4782961}], "successors": [{"name": "Mantodeos_de_Birmania", "id": 4390711}, {"name": "Coleópteros_de_Birmania", "id": 4394588}]}
+{"name": "Insectos_de_Birmania", "id": 4390712, "predecessors": [{"name": "Fauna_de_Birmania", "id": 3123623}, {"name": "Insectos_indomalayos", "id": 6503616}], "successors": [{"name": "Mantodeos_de_Birmania", "id": 4390711}, {"name": "Coleópteros_de_Birmania", "id": 4394588}]}

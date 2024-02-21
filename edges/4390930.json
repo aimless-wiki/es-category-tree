@@ -1,1 +1,1 @@
-{"name": "Insectos_de_Malasia", "id": 4390930, "predecessors": [{"name": "Fauna_de_Malasia", "id": 1168474}, {"name": "Fauna_indomalaya", "id": 4782961}], "successors": [{"name": "Coleópteros_de_Malasia", "id": 4394477}]}
+{"name": "Insectos_de_Malasia", "id": 4390930, "predecessors": [{"name": "Fauna_de_Malasia", "id": 1168474}, {"name": "Insectos_indomalayos", "id": 6503616}], "successors": [{"name": "Coleópteros_de_Malasia", "id": 4394477}]}

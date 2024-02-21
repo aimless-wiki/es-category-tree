@@ -1,1 +1,1 @@
-{"name": "Jinetes_de_rodeo", "id": 2801150, "predecessors": [{"name": "Jinetes_de_Chile", "id": 1293414}, {"name": "Usos_y_costumbres", "id": 66590}, {"name": "Equidae", "id": 959556}], "successors": [{"name": "Campeones_de_Chile_de_rodeo", "id": 6012519}]}
+{"name": "Jinetes_de_rodeo", "id": 2801150, "predecessors": [{"name": "Jinetes_de_Chile", "id": 1293414}, {"name": "Deportes_ecuestres", "id": 255770}, {"name": "Usos_y_costumbres", "id": 66590}], "successors": [{"name": "Campeones_de_Chile_de_rodeo", "id": 6012519}]}

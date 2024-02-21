@@ -1,1 +1,1 @@
-{"name": "Modelos_de_Renault", "id": 312885, "predecessors": [{"name": "Renault", "id": 3109312}, {"name": "Industria_automotriz", "id": 6424489}, {"name": "Automoción", "id": 73875}], "successors": []}
+{"name": "Modelos_de_Renault", "id": 312885, "predecessors": [{"name": "Modelos_de_automóviles_de_Francia", "id": 5412690}, {"name": "Renault", "id": 3109312}, {"name": "Industria_automotriz", "id": 6424489}], "successors": []}

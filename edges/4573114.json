@@ -1,1 +1,1 @@
-{"name": "Insectos_de_Borneo", "id": 4573114, "predecessors": [{"name": "Fauna_de_Borneo", "id": 4568217}, {"name": "Fauna_indomalaya", "id": 4782961}], "successors": [{"name": "Coleópteros_de_Borneo", "id": 4573116}]}
+{"name": "Insectos_de_Borneo", "id": 4573114, "predecessors": [{"name": "Fauna_de_Borneo", "id": 4568217}, {"name": "Insectos_indomalayos", "id": 6503616}], "successors": [{"name": "Coleópteros_de_Borneo", "id": 4573116}]}
