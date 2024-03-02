@@ -1,1 +1,1 @@
-{"name": "Catedráticos", "id": 4174536, "predecessors": [{"name": "Profesores", "id": 113460}], "successors": [{"name": "Catedráticos_de_España", "id": 627777}, {"name": "Catedráticos_de_la_Universidad_Nacional_Mayor_de_San_Marcos", "id": 3917042}, {"name": "Profesores_de_la_Pontificia_Universidad_Católica_del_Perú", "id": 5432686}]}
+{"name": "Catedráticos", "id": 4174536, "predecessors": [{"name": "Profesores", "id": 113460}], "successors": [{"name": "Catedráticos_de_España", "id": 627777}, {"name": "Profesores_de_universidades_de_Perú", "id": 5432585}]}
