@@ -1,1 +1,1 @@
-{"name": "Liturgia_católica", "id": 564237, "predecessors": [{"name": "Cristianismo", "id": 51116}], "successors": [{"name": "Oraciones_católicas", "id": 4954527}, {"name": "Liturgia_romana", "id": 6196603}]}
+{"name": "Liturgia_católica", "id": 564237, "predecessors": [{"name": "Liturgia_cristiana", "id": 542836}, {"name": "Cristianismo", "id": 51116}], "successors": [{"name": "Oraciones_católicas", "id": 4954527}, {"name": "Liturgia_romana", "id": 6196603}]}

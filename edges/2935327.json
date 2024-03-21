@@ -1,1 +1,1 @@
-{"name": "Identificadores", "id": 2935327, "predecessors": [{"name": "Comunicación", "id": 274050}, {"name": "Criptografía", "id": 55406}], "successors": [{"name": "Domain_Name_System", "id": 507247}, {"name": "Personas_monónimas", "id": 8161643}, {"name": "Privacidad_en_Internet", "id": 6579223}]}
+{"name": "Identificadores", "id": 2935327, "predecessors": [{"name": "Comunicación", "id": 274050}, {"name": "Criptografía", "id": 55406}], "successors": [{"name": "Personas_monónimas", "id": 8161643}, {"name": "Privacidad_en_Internet", "id": 6579223}]}

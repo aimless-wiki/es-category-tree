@@ -1,1 +1,1 @@
-{"name": "Oraciones_cristianas", "id": 715631, "predecessors": [{"name": "Comportamiento_humano", "id": 744693}, {"name": "Cristianismo", "id": 51116}], "successors": [{"name": "Oraciones_católicas", "id": 4954527}]}
+{"name": "Oraciones_cristianas", "id": 715631, "predecessors": [{"name": "Liturgia_cristiana", "id": 542836}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Oraciones_católicas", "id": 4954527}]}

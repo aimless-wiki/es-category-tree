@@ -307,7 +307,6 @@
 68097 Moda
 68250 Algas
 68281 Historia_de_Reino_Unido
-68401 Teoremas_de_la_física
 68565 Fuerzas_armadas
 68567 Armamento
 68646 Aritmética
@@ -381,6 +380,7 @@
 74345 Ateísmo
 74351 Agujeros_negros
 74380 Tango
+74392 Hong_Kong
 74421 Virreyes_de_Perú
 74535 Teoría_del_orden
 74540 Segunda_Guerra_Mundial
@@ -489,6 +489,7 @@
 79588 Aldehídos
 79774 Humor
 79856 Agua
+79934 Guerra_del_Pacífico
 80259 Modelismo
 80658 Cultura_de_Argentina
 80948 Canciones
@@ -504,7 +505,6 @@
 82033 Mujer
 82656 Primera_Guerra_Carlista
 82728 Guerra_de_la_Independencia_Española
-82731 Conciertos
 83424 Banda_ancha
 83426 Internet
 83660 Trigonometría
@@ -575,7 +575,6 @@
 90186 Periodistas_de_México
 90194 Poetas_de_México
 90267 Meditación
-90623 Nobles_de_España
 90649 Mitología_sumeria
 90665 Protestantismo
 91136 Navidad
@@ -1245,6 +1244,7 @@
 141620 Historieta_de_Italia
 141640 Historieta_de_México
 141852 Palabras_largas
+142039 Empresas_de_Noruega
 142050 Podocarpaceae
 142304 Empresas_de_Suiza
 142308 Empresas_de_videojuegos
@@ -1302,6 +1302,7 @@
 145347 Filósofos_de_México
 145353 Militares_de_México
 145435 Punk
+145990 Historietistas_de_Canadá
 146486 Pistolas
 146564 Tour_de_Francia
 146568 Músicos_de_Andalucía
@@ -1392,6 +1393,7 @@
 152196 Gastronomía_de_Francia
 152197 Cultura_de_Bolivia
 152218 Gastronomía_de_Asia
+152468 Universos_ficticios
 152478 Gastronomía_de_Colombia
 152490 Bromeliaceae
 152603 Cultura_de_Mallorca
@@ -1582,7 +1584,7 @@
 173184 Subgéneros_líricos
 173292 Series_de_televisión_de_España
 173304 Migración
-173305 Alemanes
+173333 Canadienses
 173348 Estadounidenses
 173371 Ornitología
 173441 Programa_del_transbordador_espacial
@@ -1844,6 +1846,7 @@
 191475 Libros_de_1993
 191476 Libros_de_1978
 191478 Libros_de_1990
+191479 Libros_de_1969
 191481 Libros_de_1974
 191483 Libros_de_1983
 191485 Libros_de_1970
@@ -1930,6 +1933,7 @@
 197075 Personajes_de_Tintín
 197086 Consejeros_federales_de_Suiza
 197165 Historia_de_Suiza
+197534 Propiedad_industrial
 197543 Derecho_de_autor
 197593 Historia_de_Ucrania
 197594 Historia_de_Bielorrusia
@@ -2035,6 +2039,7 @@
 206342 Pan
 206349 Sopas
 206396 Escalafones_militares
+206465 Series_de_televisión_de_Venezuela
 206515 Antipatrón_de_diseño
 206566 Partidos_políticos_de_Grecia
 206610 Localidades_del_Vallés_Oriental
@@ -2572,6 +2577,7 @@
 254996 Entrenadores_de_fútbol_de_Austria
 255005 Entrenadores_de_fútbol_de_Suecia
 255010 Entrenadores_de_fútbol_de_Hungría
+255079 Estadios_de_fútbol_de_Portugal
 255082 Estadios_de_fútbol_de_Colombia
 255572 Ferias_comerciales
 255770 Deportes_ecuestres
@@ -3011,6 +3017,7 @@
 295299 Vicepresidentes_de_Estados_Unidos
 295301 Lagos_de_Rusia
 295350 Derecho_castellano
+295483 Escritores_de_Ucrania
 295697 Localidades_de_Queensland
 295698 Localidades_de_Nueva_Gales_del_Sur
 295755 Personajes_de_Final_Fantasy
@@ -3667,7 +3674,6 @@
 359245 Gastronomía_de_La_Rioja_(España)
 359268 Localidades_de_La_Rioja_(España)
 359274 Escritores_de_La_Rioja_(España)
-359275 Futbolistas_de_La_Rioja_(España)
 359575 Gastronomía_de_Inglaterra
 359777 Organizaciones_ecologistas
 359780 Proyectos
@@ -3713,6 +3719,7 @@
 366906 Condes
 366960 Casa_de_Austria
 367132 Nacionalismo_árabe
+367393 Marqueses
 368307 Cumaneses
 368314 Barquisimetanos
 368811 Estadios_de_la_final_de_la_Liga_de_Campeones_de_la_UEFA
@@ -3771,6 +3778,7 @@
 374088 Tenerife
 374100 Gran_Canaria
 374397 Películas_de_1918
+374977 Físicos_de_India
 375078 Informática_teórica
 375132 Distritos_de_Eslovaquia
 375264 Modelos_de_Chevrolet
@@ -3779,6 +3787,7 @@
 375980 Películas_de_20th_Century_Fox
 376004 Perciformes
 376177 Anguilliformes
+376794 Transformers
 377206 Tecnologías_del_automóvil
 377383 Historia_de_la_matemática
 377405 Museos_marítimos
@@ -4588,7 +4597,6 @@
 456465 Futbolistas_de_Finlandia
 456748 Gastronomía_de_Finlandia
 456751 Gastronomía_de_Noruega
-456942 Sanluiseños
 457366 Futbolistas_de_Checoslovaquia
 457510 Fallecidos_en_1650
 457641 Wolfgang_Amadeus_Mozart
@@ -4683,7 +4691,6 @@
 464008 Fallecidos_en_1348
 464010 Fallecidos_en_1350
 464022 Fallecidos_en_1361
-464023 Fallecidos_en_1362
 464044 Fallecidos_en_1383
 464045 Fallecidos_en_1384
 464058 Fallecidos_en_1397
@@ -5066,6 +5073,7 @@
 504535 Economía_internacional
 504661 Localidades_de_Cantal
 504728 Periodistas_de_Cuba
+505319 Instituciones_de_Costa_Rica
 505444 Cantautores_de_Chile
 505774 Gráficos_de_computador_en_3D
 505805 Aplicaciones_para_gráficos_en_3D
@@ -5281,6 +5289,7 @@
 542590 Videojuegos_de_Xbox_360_Live_Arcade
 542684 Wikipedia:Userboxes_de_universidades
 542694 Equipos_de_fútbol_desaparecidos_de_México
+542836 Liturgia_cristiana
 542975 Organismos_de_derechos_humanos
 543032 Asociaciones_de_derechos_humanos
 543476 Políticos_de_la_Transición_Española
@@ -5410,6 +5419,7 @@
 562345 Criminalística
 563132 Películas_de_Portugal
 563636 Localidades_de_Maharashtra
+563751 Criaturas_de_la_mitología_china
 563813 Elvis_Presley
 564136 Químicos_de_España
 564237 Liturgia_católica
@@ -5615,6 +5625,7 @@
 613985 X_Window_System
 614075 Series_de_televisión_de_Antena_3
 614099 Series_de_televisión_de_Telecinco
+614144 Series_de_televisión_de_Cuatro
 614203 Cultura_de_Afganistán
 614294 Obras_de_Aristóteles
 614394 Películas_basadas_en_Marvel_Comics
@@ -5660,7 +5671,6 @@
 621424 Rutas_nacionales_de_Argentina
 621480 Escuela_de_Fráncfort
 621488 Benidorm
-621741 Concursos_televisivos
 621894 Gastronomía_de_Canadá
 622274 Escritores_de_Nuevo_León
 622717 Presentadores_de_televisión_de_Reino_Unido
@@ -5755,6 +5765,7 @@
 643413 Campeonatos_mundiales_de_triatlón
 643673 Guionistas_de_cine_de_Canadá
 643815 Series_de_televisión_de_Alemania
+644204 La_Plata
 644282 Poetas_de_Islandia
 644858 Familias_de_España
 644890 Escritores_de_Surinam
@@ -7373,6 +7384,7 @@
 952407 Futbolistas_de_República_Popular_China
 952802 Bioquímicos_de_Estados_Unidos
 952950 Personas_de_Nápoles
+953011 Violinistas_de_España
 953173 Grupos_de_rock_alternativo_de_España
 953969 Gobernantes_de_Malí
 954069 Bioluminiscencia
@@ -7699,7 +7711,6 @@
 1036524 Anexos:Política
 1036525 Anexos:El_Salvador
 1036881 Iglesias_de_Vizcaya
-1036898 Iglesias_de_Álava
 1036963 Iglesias_de_Guipúzcoa
 1037944 Anexos:España
 1037953 Anexos:Estados_Unidos
@@ -7998,6 +8009,7 @@
 1118730 Infantería
 1118901 Basílicas_de_Argentina
 1120408 Sociólogos_de_Brasil
+1120870 Hospitales_de_la_Comunidad_de_Madrid
 1120882 Estaciones_de_la_línea_1_del_metro_de_Madrid
 1120902 Estaciones_de_la_línea_5_del_metro_de_Madrid
 1121254 Pianistas_de_Uruguay
@@ -8299,7 +8311,6 @@
 1198626 Empresas_de_alimentación_de_Argentina
 1198907 Historia_de_la_farmacia
 1198929 Estados_desaparecidos_de_Europa
-1198990 Wikipedia:Votaciones_en_preparación
 1199572 Localidades_de_Territorio_de_Belfort
 1199813 Reyes_indígenas_de_Costa_Rica
 1200535 Toponimia_quechua
@@ -8342,6 +8353,7 @@
 1210945 Novelistas_de_Chile
 1210996 Myrmicinae
 1211048 Novelistas_de_Polonia
+1211292 Aves_nacionales
 1211419 Partidos_independentistas
 1211702 Origen_de_la_vida
 1211750 Estaciones_de_la_línea_6_del_metro_de_Madrid
@@ -8384,6 +8396,7 @@
 1216673 Historia_de_la_literatura_española
 1217793 Estaciones_de_esquí_de_Suiza
 1217837 Obras_de_teatro_en_español
+1217847 Obras_de_teatro_del_siglo_XXI
 1217977 Flores_nacionales
 1218187 Sierras_de_Argentina
 1218519 Ensayos_en_español
@@ -8505,6 +8518,7 @@
 1242986 Fósiles_de_Asia
 1243013 Fósiles_de_Europa
 1243054 Judíos_conversos_al_protestantismo
+1243238 Localidades_del_óblast_de_Kaluga
 1243483 Derivados_financieros
 1243785 Gerontología
 1244383 Álbumes_de_José_Luis_Perales
@@ -9217,7 +9231,6 @@
 1381362 Sindicalistas_de_la_Unión_General_de_Trabajadores_de_España
 1381576 IFFHS
 1381628 Directores_ganadores_de_la_Palma_de_Oro_a_la_mejor_película
-1381666 Héroes_de_Marvel_Comics
 1381915 Religiosos_hinduistas
 1382170 Musicólogos_de_Estados_Unidos
 1382680 Periodistas_de_Granada
@@ -9251,7 +9264,6 @@
 1387164 Empresas_de_medios_de_comunicación_de_Estados_Unidos
 1387268 Traductores_de_Uruguay
 1387728 Masacres_en_Argentina
-1388227 Personas_de_Santander_(España)
 1388259 Lagos_de_la_provincia_de_Chubut
 1388624 Lanzadores_de_peso
 1388978 Austrohúngaros
@@ -9287,6 +9299,7 @@
 1395632 Víctimas_de_la_Segunda_Guerra_Mundial
 1395698 Flora_de_Sri_Lanka
 1395812 Videojuegos_de_1990
+1395942 Jaliscienses
 1396039 Pelvis
 1396107 Industria_del_sexo
 1396292 Formatos_de_archivos_informáticos
@@ -9296,7 +9309,6 @@
 1396892 Aves_de_Nueva_Guinea
 1397683 Ciencia_y_tecnología_de_Andalucía
 1397924 Historia_de_Schleswig-Holstein
-1398079 Futbolistas_de_Burkina_Faso
 1398698 Periodistas_de_Ecuador
 1399458 Estrechos_de_la_Antártida
 1399578 Eutanasia
@@ -9349,7 +9361,6 @@
 1412657 Palacios_de_justicia
 1412732 Premios_nacionales_de_periodismo_de_Chile
 1412820 Liberales_de_Francia
-1413635 Sanmartinenses
 1413668 Estaciones_del_Ferrocarril_Domingo_Faustino_Sarmiento
 1413796 Flora_de_Florida
 1413874 Iglesias_de_la_provincia_de_Valladolid
@@ -9636,6 +9647,7 @@
 1473480 Videojuegos_de_1987
 1473902 Modificación_corporal
 1474295 Aerolíneas_de_Estados_Unidos
+1474354 Programas_de_televisión_de_Brasil
 1474828 Torres_de_comunicaciones
 1474891 Kirchnerismo
 1474905 Universo
@@ -9657,6 +9669,7 @@
 1482762 Medalla_Albert_Einstein
 1482768 Anexos:Episodios_de_Pokémon
 1483468 Atletas_de_Estonia
+1483584 Series_de_televisión_de_The_WB
 1483615 Actores_de_televisión_de_Brasil
 1483691 Declaraciones_de_independencia
 1483703 Videojuegos_de_2009
@@ -9944,7 +9957,6 @@
 1550059 Electroquímica
 1550489 Modelos_de_Cadillac
 1550718 Nadadores_de_Rusia
-1551109 Isla_Cristina
 1551182 Demonios
 1551812 Novelas_de_1972
 1551827 Kaiju
@@ -10163,6 +10175,7 @@
 1625074 Personajes_de_Canción_de_hielo_y_fuego
 1625296 Geología_de_Estados_Unidos
 1625418 Premios_de_física
+1625730 Ríos_de_Washington
 1625743 Arquitectura_románica_en_Italia
 1625755 Arquitectura_románica_en_Aragón
 1625772 Arquitectura_románica_en_Francia
@@ -10197,6 +10210,7 @@
 1635793 Salud_pública
 1635864 Santuarios_de_México
 1635924 JavaScript
+1635956 Profesores_de_Bolivia
 1636686 Lucha_en_los_Juegos_Olímpicos
 1636721 Saltos_en_los_Juegos_Olímpicos
 1637297 Entrenadores_de_fútbol_de_Rusia
@@ -10310,6 +10324,7 @@
 1674662 Geografía_de_Cerdeña
 1674920 Wikipedia:Plantillas_de_matemáticas
 1675026 Curia_romana
+1675078 Símbolos_matemáticos
 1676710 Crisis_financieras
 1676893 Helicidae
 1677666 Competiciones_de_automovilismo_de_Argentina
@@ -10452,6 +10467,7 @@
 1714001 Instrumentos_de_navegación_náutica
 1714356 Regentes_de_Francia
 1714647 Sencillos_de_1958
+1715773 Edificios_y_estructuras_de_Toronto
 1715841 Gran_turismos
 1715853 Automóviles_descapotables
 1715892 Familias_nobles_de_Alemania
@@ -11045,6 +11061,7 @@
 1809819 Cuadros_de_Joaquín_Sorolla
 1809871 Baloncestistas_de_República_Checa
 1810243 Materiales_semiconductores
+1810283 Folcloristas_de_Estados_Unidos
 1810341 Canciones_de_The_Beach_Boys
 1810905 Batallas_del_siglo_III_a._C.
 1810945 Baloncestistas_de_la_selección_de_España
@@ -11101,6 +11118,7 @@
 1818269 Geometría_discreta
 1818307 Algoritmos_geométricos
 1818837 Geometría_molecular
+1819336 Logaritmos
 1819446 Yacimientos_arqueológicos_de_Baleares
 1819457 Exponenciales
 1819801 Geómetras_algebraicos
@@ -11736,7 +11754,6 @@
 1912827 Novelas_de_1936
 1912921 Despoblados_de_la_provincia_de_Zaragoza
 1913126 Sistemas_de_archivos
-1913951 Personas_de_Roma
 1914068 Idioma_náhuatl
 1914359 Universidades_de_Ciudad_de_México
 1914570 Museos_de_Ciudad_de_México
@@ -11793,7 +11810,9 @@
 1926686 Videojuegos_de_1981
 1927347 Mascotas_Olímpicas
 1927468 Wikipedia:Direcciones_IP_compartidas
+1927558 Estados_Unidos_en_1997
 1929791 Guerra_civil_española_en_Castilla_y_León
+1929879 Afluentes_de_Bolivia_del_río_Amazonas
 1931774 Rutas_de_la_Región_Metropolitana_de_Santiago
 1932147 Poecilia
 1932502 Cultura_del_cannabis
@@ -11821,6 +11840,7 @@
 1951429 Empresas_cotizadas_en_Nasdaq
 1952042 Dramaturgos_de_Venezuela
 1952827 Ríos_en_el_departamento_de_Santa_Cruz_(Bolivia)
+1953967 La_Paz_(Bolivia)
 1955957 Deportes_en_los_Juegos_Olímpicos_de_Atlanta_1996
 1956495 Diputados_de_Costa_Rica
 1956853 Arquitectura_de_2005
@@ -11881,6 +11901,7 @@
 1975880 Series_de_anime_realizadas_por_Anime_International_Company
 1976073 Series_de_manga_publicadas_por_Fujimi_Shobō
 1976421 Extremófilos
+1976494 Series_de_anime_realizadas_por_Oriental_Light_and_Magic
 1976511 Series_de_manga_publicadas_por_Media_Factory
 1976577 Series_de_anime_realizadas_por_Satelight
 1976602 Series_de_anime_realizadas_por_SHAFT
@@ -11988,6 +12009,7 @@
 2002546 Activistas_de_Uruguay
 2002549 Críticos_literarios_de_Uruguay
 2002934 Gigantes_gaseosos
+2002938 Sanidad_en_España
 2003411 Chilenos_nacidos_en_el_exterior
 2003663 Urbanismo_de_Madrid
 2004030 Críticas_al_mormonismo
@@ -12137,6 +12159,7 @@
 2054977 Días_de_abril
 2055143 Chilenos_ficticios
 2055228 Notarios_de_España
+2055521 Cordilleras_de_México
 2055748 Actores_de_Taiwán
 2055879 Teóricos_de_la_conspiración
 2055889 Teorías_conspirativas
@@ -12466,6 +12489,7 @@
 2156768 Anexos:Subdivisiones_nacionales_por_IDH
 2157063 Pío_XII
 2157282 Wikipedia:Wikipedistas_de_Montevideo
+2157848 Holothuroidea
 2157892 Áreas_metropolitanas_de_México
 2158129 Embajadores_de_Chile
 2158658 Productoras_de_cine_de_Estados_Unidos
@@ -12537,6 +12561,7 @@
 2178501 Puestos_en_una_empresa
 2178551 Guerra_civil_entre_los_conquistadores_de_Perú
 2178701 Diputados_del_Parlamento_de_Andalucía
+2178762 Entrenadores_de_fútbol_de_Suiza
 2179207 Castillos_de_la_provincia_de_Málaga
 2179892 Valle_de_Tena
 2179956 Partidos_políticos_de_Cataluña
@@ -12595,7 +12620,6 @@
 2194544 Colonias_griegas_en_el_Mar_Negro
 2195330 Boxeadores_de_Ucrania
 2195597 Catedráticos_de_la_Universidad_Autónoma_de_Madrid
-2195621 Novelas_de_China
 2195839 Listas_de_aves_por_país
 2195990 Bienes_de_interés_cultural_de_la_provincia_de_Albacete
 2196004 Bienes_de_interés_cultural_de_la_provincia_de_Ciudad_Real
@@ -12721,7 +12745,6 @@
 2228827 Cuadros_de_Lucas_Cranach_el_Viejo
 2228843 Bienes_de_interés_cultural_de_la_provincia_de_Zamora
 2228956 Educación_2.0
-2229052 Transporte_en_la_provincia_de_Málaga
 2230278 Baloncestistas_del_Club_Baloncesto_Zaragoza
 2230341 Baloncestistas_del_Basket_Zaragoza_2002
 2231324 Incidentes_diplomáticos
@@ -12741,6 +12764,7 @@
 2235616 Peronistas
 2235900 Actores_de_voz_de_España
 2235981 Episodios_nacionales
+2235986 Mazarrón
 2236433 Trajes_espaciales
 2236748 Deportistas_de_Sonora
 2237556 Atentados_del_11_de_septiembre_de_2001
@@ -12750,6 +12774,7 @@
 2241899 Benedicto_XVI
 2242489 Iglesias_de_la_provincia_de_Segovia
 2242838 Estadios_de_fútbol_inaugurados_en_2006
+2242843 Estadios_de_fútbol_inaugurados_en_1956
 2242844 Estadios_de_fútbol_inaugurados_en_2004
 2242850 Estadios_de_fútbol_inaugurados_en_2001
 2242851 Estadios_de_fútbol_inaugurados_en_1999
@@ -12771,7 +12796,6 @@
 2246972 Mierenses
 2248242 Asesinados
 2248544 Anexos:Pintura
-2249420 Beatos_de_Polonia
 2251422 Canciones_del_siglo_XIX
 2251497 Piratas_ficticios
 2251604 Historia_de_Sevilla
@@ -13520,6 +13544,7 @@
 2382563 San_Roque_(Cádiz)
 2382690 La_Línea_de_la_Concepción
 2383424 Fotógrafos_de_la_Comunidad_Valenciana
+2383553 Metabolismo_del_nitrógeno
 2383958 Telenovelas_de_1983
 2383968 Nombres_vernáculos_de_aves
 2384032 Exposiciones_y_ferias_de_Alemania
@@ -14048,6 +14073,7 @@
 2545941 Series_y_personajes_de_la_escuela_Bruguera
 2547162 Videojuegos_de_HAL_Laboratory
 2547739 Mobiliario_urbano
+2548254 Cultura_de_San_Francisco
 2548256 Marxistas_de_Alemania
 2548289 Empresas_cotizadas_en_la_Bolsa_de_Nueva_York
 2548345 Empresas_cotizadas_en_la_Bolsa_de_Tokio
@@ -14184,12 +14210,9 @@
 2583500 Wikipedia:¿Sabías_que…
 2584364 Programas_de_televisión_iniciados_en_1990
 2584365 Programas_de_televisión_iniciados_en_2000
-2584368 Programas_de_televisión_finalizados_en_2003
-2584448 Programas_de_televisión_finalizados_en_1990
 2584476 Programas_de_televisión_iniciados_en_2002
 2584488 Programas_de_televisión_iniciados_en_2009
-2584498 Programas_de_televisión_finalizados_en_1996
-2584567 Programas_de_televisión_finalizados_en_2004
+2584504 Programas_de_televisión_iniciados_en_1970
 2584983 Críticos_de_cine_de_Argentina
 2585272 Escritores_de_videojuegos
 2585568 Personas_de_Estocolmo
@@ -14246,6 +14269,7 @@
 2601167 Palomas_domésticas
 2601388 Castillos_de_la_provincia_de_Córdoba_(España)
 2602056 Arquitectura_de_la_Antigua_Roma_en_Andalucía
+2602796 Escultura_en_Andalucía
 2602980 Hollywood
 2603087 Festivales_de_música_de_Andalucía
 2603217 Afluentes_del_Danubio_de_Rumania
@@ -14273,6 +14297,7 @@
 2618159 Historia_de_la_provincia_de_Huelva
 2618293 Ministros_de_Economía_de_Argentina
 2618860 Almirantes_de_la_Marina_Real_británica
+2618923 Programas_de_televisión_de_Italia
 2619034 Parajes_naturales_de_Andalucía
 2619153 Programa_espacial_de_la_Unión_Soviética
 2619772 Gastronomía_de_Veracruz
@@ -14476,11 +14501,14 @@
 2701224 Programas_de_televisión_iniciados_en_2001
 2701270 Programas_de_televisión_iniciados_en_1989
 2701299 Programas_de_televisión_iniciados_en_1992
+2701359 Programas_de_televisión_iniciados_en_1978
 2701403 Programas_de_televisión_iniciados_en_2007
+2701420 Programas_de_televisión_iniciados_en_1973
 2701467 Programas_de_televisión_iniciados_en_1999
 2701484 Programas_de_televisión_finalizados_en_2009
 2701531 Programas_de_televisión_finalizados_en_2008
-2701584 Programas_de_televisión_finalizados_en_2001
+2701545 Programas_de_televisión_iniciados_en_1979
+2701580 Programas_de_televisión_iniciados_en_1981
 2701615 Programas_de_televisión_iniciados_en_2004
 2701632 Programas_de_televisión_iniciados_en_1997
 2701651 Programas_de_televisión_iniciados_en_2003
@@ -14531,6 +14559,7 @@
 2722094 Paceños
 2722180 Anexos:Videojuegos_por_franquicia
 2722268 Historia_de_la_mujer
+2723227 Asesinatos_en_Irán
 2723238 Historietas_de_Batman
 2723353 Vampiros_en_la_historieta
 2723515 Series_de_televisión_de_Ecuador
@@ -14686,13 +14715,13 @@
 2766670 Películas_V-Cinema
 2767151 Películas_de_Sony_Pictures_Animation
 2767297 Programas_de_televisión_iniciados_en_1991
-2767298 Programas_de_televisión_finalizados_en_1993
 2767303 Programas_de_televisión_iniciados_en_1998
-2767304 Programas_de_televisión_finalizados_en_2002
 2767308 Programas_de_televisión_iniciados_en_1996
-2767309 Programas_de_televisión_finalizados_en_1998
 2767314 Programas_de_televisión_finalizados_en_2006
+2767318 Programas_de_televisión_iniciados_en_1984
+2767320 Programas_de_televisión_iniciados_en_1983
 2767329 Programas_de_televisión_iniciados_en_1995
+2767330 Programas_de_televisión_iniciados_en_1988
 2767349 Programas_de_televisión_iniciados_en_1987
 2767796 Clásica_de_San_Sebastián
 2767886 Entrenadores_de_fútbol_de_Bélgica
@@ -14887,10 +14916,8 @@
 2830320 Daimio
 2830751 Canciones_de_Italia
 2830798 Etnomusicólogos
-2830873 Chuquisaqueños
 2831522 Clubes_deportivos_de_la_provincia_de_Barcelona
 2831990 Corresponsales_de_guerra
-2832068 Programas_de_televisión_finalizados_en_1999
 2832399 Exiliados_del_franquismo_en_México
 2834095 Iglesias_de_la_provincia_de_Barcelona
 2834097 Arquitectura_de_la_provincia_de_Barcelona
@@ -14909,7 +14936,6 @@
 2841879 Arquitectura_de_la_provincia_de_Pontevedra
 2841887 Iglesias_de_la_provincia_de_Pontevedra
 2842713 Ríos_de_la_vertiente_de_la_bahía_de_Hudson_de_Canadá
-2842872 Programas_de_televisión_finalizados_en_2005
 2842986 Empresas_cotizadas_en_la_Bolsa_Mexicana_de_Valores
 2843854 Videojuegos_de_Batman
 2844111 Próceres_de_la_Independencia_de_Guayaquil
@@ -15340,8 +15366,8 @@
 2947318 Aves_endémicas_de_Colombia
 2948315 Islas_míticas
 2948587 Bibliotecas_de_Madrid
+2948759 Canales_de_televisión_de_Corea_del_Sur
 2949308 Políticos_del_Bloque_Nacionalista_Galego
-2949668 Críticos_literarios_de_Reino_Unido
 2949711 Organizaciones_no_gubernamentales_de_Estados_Unidos
 2950289 Galardonados_con_el_Premio_Israel
 2950402 Políticos_del_Partido_Socialista_Unificado_de_Cataluña
@@ -15366,7 +15392,6 @@
 2952028 Grupos_de_metal_cristiano
 2952082 Álbumes_de_música_cristiana
 2952681 Boxeadores_de_Kazajistán
-2952889 Personas_de_Baviera
 2952991 CRM
 2953047 Series_de_anime_basadas_en_videojuegos
 2953059 Series_de_televisión_animadas_basadas_en_videojuegos
@@ -15739,6 +15764,7 @@
 3053756 Teólogos_de_España_del_siglo_XVII
 3053788 Teólogos_de_España_del_siglo_XIX
 3054061 Lenguas_aisladas_de_América
+3055172 Asesinatos_en_Brasil
 3055537 Ingreso
 3055543 Pobreza
 3055783 Anatomistas_de_Italia
@@ -15791,7 +15817,6 @@
 3068697 NBA_1989
 3068758 Ingeniería_agrícola
 3068832 Dibujantes_de_España_del_siglo_XX
-3068993 Tarijeños
 3069151 Países_en_los_Juegos_Paralímpicos_de_Barcelona_1992
 3069254 Plantas_usadas_en_la_medicina_tradicional_china
 3069817 Personas_de_Kinsasa
@@ -15867,6 +15892,7 @@
 3087834 Países_en_los_Juegos_Olímpicos_de_Tokio_1964
 3087990 Anexos:América_Latina
 3088393 Series_de_televisión_de_BBC
+3088427 Series_de_televisión_de_Channel_4
 3088435 Pozuelo_de_Alarcón
 3088546 Series_de_televisión_de_ITV
 3089822 Calanda
@@ -16171,6 +16197,7 @@
 3170702 Ciudades_del_Imperio_bizantino
 3170709 Historia_del_Imperio_bizantino
 3170716 Aena
+3170719 Militares_del_Imperio_bizantino
 3170724 Teólogos_del_Imperio_bizantino
 3170727 Imperio_carolingio
 3170735 Imperio_británico
@@ -16374,7 +16401,6 @@
 3186843 Equipos_de_fútbol_fundados_en_1912
 3186876 Equipos_de_fútbol_fundados_en_1905
 3186887 Equipos_de_fútbol_fundados_en_1903
-3186935 Programas_de_televisión_finalizados_en_1992
 3186939 Equipos_de_fútbol_fundados_en_1961
 3186940 Equipos_de_fútbol_fundados_en_1971
 3186944 Concursos_televisivos_de_Chile
@@ -16453,7 +16479,6 @@
 3198527 Empresas_fundadas_en_1946
 3198533 Empresas_fundadas_en_1948
 3198535 Empresas_fundadas_en_1949
-3198889 Científicos_de_Castilla_y_León
 3198942 Empresas_fundadas_en_1950
 3198945 Empresas_fundadas_en_1952
 3198946 Empresas_fundadas_en_1953
@@ -16656,7 +16681,6 @@
 3213150 Alumnado_de_la_Universidad_de_Boston
 3213287 Futbolistas_de_la_provincia_de_Almería
 3213404 Cultura_afroamericana
-3213908 Cochabambinos
 3214284 Alumnado_de_la_Universidad_Católica_del_Norte
 3214314 Alumnado_de_la_Universidad_Técnica_del_Estado
 3215106 Criminales_de_guerra_nazis
@@ -16690,6 +16714,7 @@
 3219475 Óperas_en_español
 3220083 Software_exclusivo_para_Windows
 3220149 Software_libre_exclusivo_para_Windows
+3220408 Series_de_televisión_de_Bolivia
 3220549 Software_propietario
 3220663 Gastronomía_de_la_provincia_de_León
 3220681 Bienes_de_interés_cultural_de_la_provincia_de_León
@@ -16707,6 +16732,7 @@
 3222856 Minerales_de_níquel
 3222986 Bolcheviques
 3222990 Diplomáticos_de_la_Unión_Soviética
+3223168 Productores_de_cine_de_Australia
 3223718 Judíos_de_Hungría
 3223725 Minerales_de_sodio
 3225035 Atletas_en_los_Juegos_Olímpicos_de_Barcelona_1992
@@ -16796,6 +16822,7 @@
 3248684 Abades_benedictinos
 3248714 Esculturas_del_Antiguo_Egipto
 3248986 Arquitectura_de_1907
+3249268 Agrónomos_de_México
 3249446 Nacidos_en_la_provincia_Montecristi
 3249556 Óperas_en_italiano
 3249662 Alumnado_de_la_Escuela_Libre_de_Derecho
@@ -16853,7 +16880,6 @@
 3265338 Obras_de_teatro_basadas_en_hechos_reales
 3265716 Minerales_de_cobre
 3266698 Aceites
-3266997 Magistrados_de_la_Corte_Constitucional_de_Colombia
 3267667 Diagnosticados_con_VIH_positivo
 3268186 Música_de_la_Edad_Media
 3268189 Instrumentos_musicales_de_la_Edad_Media
@@ -16876,6 +16902,7 @@
 3270964 Arquitectura_de_1975
 3270965 Arquitectura_de_1972
 3270984 Compositores_de_música_clásica_del_siglo_XX
+3271018 Arquitectura_de_1939
 3271022 Arquitectura_de_1934
 3271023 Arquitectura_de_1930
 3271024 Arquitectura_de_1926
@@ -17160,7 +17187,6 @@
 3324424 Futbolistas_de_la_selección_de_fútbol_de_Camerún
 3324437 Futbolistas_de_la_selección_de_fútbol_de_China
 3324439 Futbolistas_de_la_selección_de_fútbol_de_Chipre
-3324441 Futbolistas_de_la_selección_de_fútbol_de_Colombia
 3324482 Futbolistas_de_la_selección_de_fútbol_de_Corea_del_Sur
 3324492 Futbolistas_de_la_selección_de_fútbol_de_Costa_de_Marfil
 3324502 Futbolistas_de_la_selección_de_fútbol_de_Croacia
@@ -17363,7 +17389,6 @@
 3375751 Pintores_del_siglo_XX
 3378140 Académicos_de_la_Academia_Nacional_de_Santa_Cecilia
 3382738 Futbolistas_del_Deportivo_Guadalajara
-3383043 Villamercedinos
 3383325 Casco_antiguo_de_Cáceres
 3383946 Giras_musicales_de_2000
 3384064 Álbumes_de_Metal_Blade_Records
@@ -17749,7 +17774,6 @@
 3514063 Series_de_televisión_de_los_años_2010
 3514174 Condado_de_Providence
 3516454 Obras_literarias_adaptadas_al_cine
-3516662 Aduanas
 3516687 Guetos_judíos_bajo_el_nazismo
 3518320 Festivales_de_heavy_metal
 3518684 Modelos_eróticas_de_Estados_Unidos
@@ -18201,6 +18225,7 @@
 3652391 Edwards
 3652648 Estados_de_Asia_en_la_Edad_Media
 3652663 Regiones_históricas_de_Asia
+3652734 Patrimonios_culturales
 3652895 Matemáticos_de_España_del_siglo_XXI
 3653700 Ejércitos_medievales
 3653782 Personajes_de_Neighbours
@@ -18429,7 +18454,6 @@
 3788173 Endesa
 3788268 Profesores_de_la_Universidad_del_País_Vasco
 3788273 Nadadores_de_la_República_Popular_China
-3790714 Personas_de_Johannesburgo
 3791740 Escritores_de_la_provincia_de_Palencia
 3791836 Piragüistas_en_los_Juegos_Olímpicos_de_Los_Ángeles_1984
 3791966 Jugadores_de_bádminton_en_los_Juegos_Olímpicos_de_Sídney_2000
@@ -18632,6 +18656,7 @@
 4011512 Senadores_de_Colombia_1998-2002
 4012227 Ateos_de_México
 4012371 Videojuegos_compatibles_con_PlayStation_Move
+4012713 Historia_de_la_provincia_de_Santa_Cruz_(Argentina)
 4014030 Alemania_en_1954
 4014091 Coreógrafos_de_Argentina
 4014221 Islas_Spratly
@@ -18678,7 +18703,6 @@
 4039301 Futbolistas_del_PFC_Krylia_Sovetov_Samara
 4039314 Futbolistas_del_FC_Kubán_Krasnodar
 4040461 Compositores_de_Granada
-4040587 Personas_de_Sajonia
 4040608 Terminología_política
 4040818 New_International_Encyclopedia
 4040820 Futbolistas_del_FC_Moscú
@@ -18951,6 +18975,7 @@
 4124280 Películas_sobre_música
 4124340 Estrategia_militar
 4124348 Estrategia
+4124504 Generales_del_Ejército_Nacional_de_Colombia
 4124650 Entrenadores_del_The_Strongest
 4124675 Trastornos_del_sueño
 4124800 Localidades_del_condado_de_Sonoma
@@ -18970,6 +18995,7 @@
 4128735 Baloncestistas_del_BCM_Gravelines
 4128899 Alumnado_de_la_Universidad_de_California_en_Los_Ángeles
 4128907 Alumnado_de_Harvard_Law_School
+4129047 Pizza
 4129106 Fabricantes_de_automóviles_de_Reino_Unido
 4129639 Telépatas_de_Marvel_Comics
 4129688 Estaciones_del_Ferrocarril_Rosario_a_Puerto_Belgrano
@@ -19255,6 +19281,7 @@
 4175320 Profesores_de_la_Universidad_Carlos_III
 4175324 Catedráticos_de_la_Universidad_Carlos_III
 4175336 Profesores_de_la_Universidad_de_Zaragoza
+4175486 Alumnado_del_Colegio_Carlos_Pellegrini
 4175595 Alumnado_del_Colegio_Nacional_de_Buenos_Aires
 4176631 Narcotraficantes_ficticios
 4176654 Veteranos_de_guerra_ficticios
@@ -19684,7 +19711,6 @@
 4254005 Parques,_plazas_y_paseos_de_La_Plata
 4254193 Insectos_no_amenazados
 4254435 Aniversarios
-4254892 Cruceños
 4255375 Calpinae
 4255463 Plusiinae
 4256004 Reptiles_medianamente_amenazados
@@ -19961,6 +19987,7 @@
 4303992 Localidades_del_condado_de_Baldwin_(Alabama)
 4303993 Condado_de_Baldwin_(Alabama)
 4304230 Comida_en_pincho
+4304232 Series_de_televisión_de_Chilevisión
 4304493 Música_de_Glee
 4304602 Reparto_de_El_Internado
 4304854 Futbolistas_del_Portuguesa_Santista
@@ -19971,6 +19998,7 @@
 4305999 Partidos_conservadores_de_América_Central
 4306163 Medalla_de_honor_del_IEEE
 4306195 Voleibol_en_2014
+4306240 Libros_sobre_lingüística
 4306360 Localidades_del_condado_de_Columbia_(Nueva_York)
 4306432 Entrenadores_de_voleibol
 4306462 Tratados_de_Letonia
@@ -20407,7 +20435,6 @@
 4376850 Feministas_de_Egipto
 4376956 Feministas_de_Alemania
 4376977 Alumnado_de_la_Universidad_Brigham_Young
-4377055 Orureños
 4377508 Temporadas_de_la_Categoría_Primera_B
 4377663 Ejecutados_de_México
 4377667 Localidades_del_condado_de_Clallam_(Washington)
@@ -20693,6 +20720,7 @@
 4397169 Roedores_de_México
 4397346 Coleópteros_de_Fiyi
 4397363 Coleópteros_de_Sri_Lanka
+4397367 Insectos_de_Sri_Lanka
 4397677 Turismo_en_la_provincia_de_Buenos_Aires
 4397695 Localidades_del_condado_de_Plymouth_(Iowa)
 4397782 Televisión_de_Chile_en_2011
@@ -20858,6 +20886,7 @@
 4414363 Telephanus
 4414371 Airaphilus
 4414628 EMT_de_Valencia
+4414759 Localidades_de_Santa_Lucía
 4415178 EMT_de_Málaga
 4415246 Localidades_del_condado_de_Erie_(Pensilvania)
 4415336 Localidades_del_condado_de_Clearfield
@@ -21167,6 +21196,7 @@
 4453374 Localidades_del_Raión_de_Podilsk
 4453480 Competiciones_de_ciclismo_de_Estados_Unidos
 4454028 Localidades_de_las_Islas_Feroe
+4454438 Programas_de_televisión_de_Televisa
 4454753 Mujeres_del_Antiguo_Egipto
 4455223 Localidades_del_Raión_de_Izmail
 4455338 Obispos_del_siglo_IV
@@ -21228,6 +21258,7 @@
 4463491 Familias_ficticias
 4463744 Wikipedia:Votaciones_2011
 4463792 Deportistas_de_Mallorca
+4463925 Acordeonistas_de_Colombia
 4464019 Películas_sobre_alteraciones_de_la_memoria
 4464095 Profesorado_de_la_Universidad_Nacional_de_Tucumán
 4464674 Alumnado_de_la_Universidad_Adolfo_Ibáñez
@@ -21348,7 +21379,6 @@
 4485118 Arácnidos_de_Nepal
 4485120 Arácnidos_de_Zimbabue
 4485151 Series_de_televisión_iniciadas_en_1997
-4485154 Series_de_televisión_finalizadas_en_2003
 4485157 Arácnidos_de_Pakistán
 4485179 Armamento_de_la_Segunda_Guerra_Mundial_de_Italia
 4485180 Armamento_de_la_Segunda_Guerra_Mundial_de_Alemania
@@ -21413,7 +21443,7 @@
 4495354 Futbolistas_de_la_selección_de_fútbol_de_Estados_Unidos_en_los_años_1990
 4495369 Futbolistas_de_la_selección_de_fútbol_de_Estados_Unidos_en_los_años_1980
 4495386 Futbolistas_de_la_selección_de_fútbol_de_Estados_Unidos_en_los_años_2010
-4495455 Futbolistas_moronenses
+4495455 Futbolistas_de_Morón_(Argentina)
 4495524 Peces_de_agua_dulce
 4495674 Futbolistas_de_Quilmes
 4495767 Localidades_del_condado_de_Hunterdon
@@ -21740,7 +21770,6 @@
 4556156 Anexos:Discografías_del_Reino_Unido
 4556373 Futbolistas_del_Central_Español_Fútbol_Club
 4556605 Localidades_del_condado_de_Saline_(Arkansas)
-4557028 Personas_de_Baden-Wurtemberg
 4557439 Futbolistas_de_la_selección_de_fútbol_de_Argentina_en_los_años_1940
 4557623 Regiones_históricas_de_Rusia
 4557648 Ganadores_del_premio_Filmfare
@@ -21805,6 +21834,7 @@
 4569163 Genocidio_de_Ruanda
 4569210 Organizaciones_educativas
 4569257 Futbolistas_de_Tres_de_Febrero
+4570678 Videojuegos_de_Game_Freak
 4570820 Futbolistas_del_Montevideo_Wanderers_Fútbol_Club
 4571065 Rugby_en_Paraguay
 4571397 Streaming
@@ -22584,7 +22614,6 @@
 4704442 Católicos_de_España
 4704449 Católicos_de_Chile
 4704451 Católicos_de_Colombia
-4704506 Bizantinos_del_siglo_VIII
 4704657 Bizantinos_del_siglo_IX
 4705033 Católicos_de_Francia
 4705301 Católicos_de_Italia
@@ -22713,7 +22742,6 @@
 4717675 Localidades_del_condado_de_Greene_(Misuri)
 4717678 Localidades_del_condado_de_Henry_(Misuri)
 4717687 Localidades_del_condado_de_Jefferson_(Misuri)
-4717698 Localidades_del_condado_de_Macon_(Misuri)
 4717716 Localidades_del_condado_de_Newton_(Misuri)
 4717717 Localidades_del_condado_de_Nodaway
 4717732 Localidades_del_condado_de_Platte_(Misuri)
@@ -22744,7 +22772,6 @@
 4721723 Futbolistas_del_Real_Zaragoza_en_los_años_1960
 4721724 Futbolistas_del_Real_Zaragoza_en_los_años_2010
 4722358 Futbolistas_de_la_provincia_de_Toledo
-4722425 Futbolistas_de_la_provincia_de_Ciudad_Real
 4722553 Pioneros_de_la_informática
 4722776 Localidades_del_condado_de_Kosciusko_(Indiana)
 4723119 Presidentes_de_Colegios_de_Médicos_de_España
@@ -22839,6 +22866,7 @@
 4740574 Trabajadores_sociales
 4741493 Alumnado_de_la_Universidad_de_San_Carlos_de_Guatemala
 4742143 Concursos_televisivos_de_Estados_Unidos
+4742148 Series_de_televisión_de_CBC_Television
 4742504 Países_en_los_Juegos_Olímpicos_de_Londres_2012
 4742590 Alumnado_de_la_Universidad_de_Copenhague
 4743112 Santiagueños_(capital)
@@ -23108,6 +23136,7 @@
 4770672 Óperas_estrenadas_en_Estados_Unidos
 4770682 Antiguos_griegos_del_siglo_VII_a._C.
 4770684 Antiguos_griegos_del_siglo_VI_a._C.
+4770731 Series_de_televisión_de_AMC
 4770763 Wikiproyecto:Guns_N'_Roses/Artículos
 4770788 Wikiproyecto:Voleibol/Artículos
 4770791 Wikiproyecto:Harry_Potter/Artículos
@@ -23292,6 +23321,7 @@
 4782628 Distritos_de_Bihar
 4782816 Anfibios_endémicos_de_Argentina
 4782925 Fauna_de_África_Oriental
+4782945 Fauna_afrotropical
 4782952 Fauna_del_Paleártico
 4782961 Fauna_indomalaya
 4783068 Wikiproyecto:Rugby/Artículos
@@ -23414,6 +23444,7 @@
 4790280 Futbolistas_del_Istanbulspor_AŞ
 4790282 Futbolistas_del_Karabükspor
 4790285 Futbolistas_del_Kayserispor
+4790286 Futbolistas_del_Kocaelispor
 4790292 Futbolistas_del_Samsunspor
 4790294 Futbolistas_del_Sivasspor
 4790296 Futbolistas_del_Trabzonspor
@@ -23479,6 +23510,7 @@
 4799498 Biógrafos_de_Estados_Unidos
 4799536 Autobiógrafos_de_Alemania
 4799867 Publicaciones_fundadas_en_1978
+4799935 Actores_de_voz_de_Perú
 4799945 Locutores_de_radio_de_Perú
 4800259 Sanmarquinos_(siglo_XXI)
 4801103 Anticomunistas_de_Alemania
@@ -23555,7 +23587,6 @@
 4818818 Caravaggistas
 4818907 Partido_de_Coronel_Rosales
 4820236 Precerámico_Andino
-4820484 Futbolistas_de_la_provincia_de_Orense
 4820663 Wikiproyecto:Biografías/Artículos
 4820946 Películas_en_húngaro
 4821421 Deporte_en_Tiflis
@@ -23610,6 +23641,7 @@
 4824885 Futbolistas_del_Football_Club_Metalist_Kharkiv
 4824893 Futbolistas_del_Football_Club_Metalurh_Donetsk
 4824899 Futbolistas_del_Football_Club_Metalurh_Zaporizhya
+4824910 Futbolistas_del_Football_Club_Volyn_Lutsk
 4824915 Futbolistas_del_Football_Club_Vorskla_Poltava
 4824919 Futbolistas_del_Football_Club_Zorya_Luhansk
 4824989 Futbolistas_de_Navarra
@@ -23626,6 +23658,7 @@
 4826487 Departamento_Juárez_Celman
 4826712 Sitios_relevantes_para_la_observación_de_aves_en_Argentina
 4826825 Red_de_carreteras_de_Cantabria
+4827106 Entrenadores_del_Club_Deportivo_Atlético_Baleares
 4827160 Presentadores_de_radio_de_Estados_Unidos
 4827650 Wikipedia:Modelos
 4828435 Deporte_en_Maldonado
@@ -23973,6 +24006,7 @@
 4888469 Bienes_de_interés_cultural_de_la_provincia_de_Lugo
 4888782 Archipiélagos_e_islas_del_mar_Mediterráneo_de_Francia
 4888875 Películas_rodadas_en_Los_Ángeles
+4889047 Nacidos_en_Laredo
 4889114 Conversos_al_catolicismo_desde_el_protestantismo
 4889170 Ingenieros_del_siglo_XX
 4889471 Gran_Cruz_de_la_Orden_Nacional_del_Mérito
@@ -23983,7 +24017,6 @@
 4889609 Propiedad_intelectual
 4889823 Historia_contemporánea_de_México
 4890264 Baloncestistas_del_Club_Basquet_Inca
-4890709 Castro_Urdiales
 4891358 Álbumes_de_2012
 4891776 Monumentos_funerarios
 4892110 Nacidos_en_Reinosa
@@ -24223,7 +24256,6 @@
 4930405 Flora_endémica_de_Chile
 4930503 Bidessini
 4931203 Grupos_de_música_house
-4931270 Wikipedia:Plantillas_por_adaptarse_a_plantilla_genérica
 4931488 Alumnado_de_la_American_University
 4932108 Alumnado_del_Instituto_de_Estudios_Políticos_de_París
 4932278 Localidades_del_municipio_de_Mérida_(Yucatán)
@@ -24302,6 +24334,7 @@
 4941624 Stenolophina
 4941755 Historia_de_Montevideo
 4941782 Entrenadores_del_Club_Atlético_Huracán
+4941832 Mosaiquistas
 4942124 Militares_de_la_Unión_Militar_Republicana_Antifascista
 4942593 Anexos:Composiciones_por_compositor
 4943043 Historiadores_culturales
@@ -24686,6 +24719,7 @@
 4989782 Historia_de_la_provincia_de_Buenos_Aires
 4989794 Gobernadores_de_la_provincia_de_Buenos_Aires
 4989811 Batallas_y_combates_en_la_provincia_de_Buenos_Aires
+4990204 Series_de_televisión_de_Syfy
 4990299 Super_Rugby
 4990605 Programas_de_televisión_de_Corea_del_Sur
 4990850 Edificios_y_estructuras_de_San_Petersburgo
@@ -24732,6 +24766,7 @@
 4994348 Telenovelas_de_Rede_Globo
 4994491 Grabadores_de_Uruguay
 4994495 Editores_de_Colombia
+4994513 Guionistas_de_cine_de_Perú
 4994580 Entrenadores_campeones_de_la_Copa_Libertadores
 4994750 Wikipedia:Plantillas_de_mapas_de_localización_de_China
 4995077 Wikipedia:Plantillas_para_partidos_de_fútbol
@@ -24747,7 +24782,6 @@
 4996320 Cuentistas_de_Costa_Rica
 4996463 Balonmanistas_de_la_selección_de_balonmano_de_España
 4996879 Baloncestistas_de_los_Allentown_Jets
-4997044 Acrenses
 4997137 Memorias
 4997145 Evangelio_de_Mateo
 4997200 Wikipedia:Miembros_del_Wikiproyecto_Chile
@@ -25205,6 +25239,7 @@
 5045748 Gestión_digital_de_derechos
 5045945 Programas_de_televisión_iniciados_en_2012
 5046298 Grupos_de_power_metal_en_español
+5046304 Restos_humanos_(Arqueología)
 5046580 Fitopatólogos_de_Estados_Unidos
 5046724 Wikiproyecto:Thalía/Artículos
 5046776 Episodios_de_Grimm
@@ -25282,6 +25317,7 @@
 5057561 Raperos_de_la_República_Dominicana
 5057600 Profesores_de_la_Universidad_de_Edimburgo
 5057857 Militares_alemanes_de_la_guerra_franco-prusiana
+5057883 Publicaciones_fundadas_en_1911
 5057923 Futbolistas_de_la_selección_de_fútbol_sub-20_de_España
 5057924 Futbolistas_de_la_selección_de_fútbol_sub-19_de_España
 5057977 Grecia_otomana
@@ -25384,6 +25420,7 @@
 5067655 Ciclistas_de_ciclocrós_de_España
 5067685 Sencillos_de_Fangoria
 5068399 Educación_por_tipo
+5068824 The_Voice_(serie_de_televisión)
 5068864 Videojuegos_exclusivos_para_PlayStation_3
 5069048 Sinagogas_de_Italia
 5069113 Programas_educativos
@@ -25400,6 +25437,7 @@
 5069425 Exámenes_y_pruebas
 5069762 Frente_Oriental_(Segunda_Guerra_Mundial)
 5069777 Videojuegos_exclusivos_para_Xbox_360
+5069886 Supremacía_blanca
 5069898 Advocaciones_de_Cristo_en_Canarias
 5069902 Localidades_de_Powys
 5069909 Alemania_en_la_Segunda_Guerra_Mundial
@@ -25870,6 +25908,7 @@
 5122678 Médicos_de_Alemania_del_siglo_XVIII
 5122679 Médicos_de_Alemania_del_siglo_XX
 5122755 Psicólogos_de_Alemania_del_siglo_XX
+5122864 Geólogos_de_Alemania_del_siglo_XX
 5122867 Empresas_fundadas_en_2012
 5122870 Futbolistas_del_FC_Ural_Sverdlovsk_Oblast
 5122879 Físicos_de_Alemania_del_siglo_XX
@@ -26381,6 +26420,7 @@
 5187667 Películas_rodadas_en_Chile
 5187671 Baloncestistas_de_los_Toros_de_Aragua
 5187753 Baloncestistas_de_los_Marinos_de_Anzoátegui
+5187784 Alumnado_de_la_Universidad_de_California_en_Irvine
 5187818 Grupos_de_música_formados_en_1982
 5187883 Mangas_publicados_en_Shūkan_Shōnen_Jump
 5187907 Baloncestistas_de_los_Atléticos_de_San_Germán
@@ -26416,7 +26456,6 @@
 5193114 Escritores_de_Londres
 5193251 Científicos_de_Londres
 5193401 Alumnado_del_Magdalen_College_(Oxford)
-5193590 Cultura_de_Montevideo
 5193860 Baloncestistas_del_Libertad_de_Sunchales
 5193865 Baloncestistas_del_Club_Ferro_Carril_Oeste
 5193866 Baloncestistas_del_Club_de_Regatas_Corrientes
@@ -26486,6 +26525,7 @@
 5198797 Judokas_en_los_Juegos_Olímpicos_de_Atenas_2004
 5198799 Judokas_en_los_Juegos_Olímpicos_de_Atlanta_1996
 5198803 Judokas_en_los_Juegos_Olímpicos_de_Pekín_2008
+5198945 Baloncestistas_del_Club_Sportivo_Ben_Hur
 5198953 Baloncestistas_de_La_Unión_de_Formosa
 5199588 Futbolistas_de_la_selección_de_fútbol_sub-16_de_España
 5199590 Futbolistas_de_la_selección_de_fútbol_sub-17_de_España
@@ -26843,6 +26883,7 @@
 5264961 Parques_nacionales_de_Ucrania
 5265146 Yōkai
 5265210 Álbumes_de_Los_Calchakis
+5265279 Santañí
 5265317 Películas_de_ciencia_ficción_de_Reino_Unido
 5265332 Migjorn
 5265348 Películas_de_ciencia_ficción_de_Francia
@@ -27142,6 +27183,7 @@
 5306906 Publicaciones_fundadas_en_1964
 5306909 Publicaciones_fundadas_en_2005
 5306920 Publicaciones_fundadas_en_1945
+5306944 Publicaciones_fundadas_en_1897
 5306979 Álbumes_debut_de_1990
 5307059 Escritores_de_Noruega_del_siglo_XIX
 5307060 Escritores_de_Noruega_del_siglo_XX
@@ -27484,7 +27526,6 @@
 5354514 Wikipedia:Wikipedistas_con_nivel_experto_de_español
 5354515 Wikipedia:Wikipedistas_con_nivel_experto_de_catalán
 5354763 Geografía_económica
-5354983 Potosinos_(Bolivia)
 5355043 Estaciones_del_Masivo_Integrado_de_Occidente
 5355301 Wikipedia:Wikipedistas_con_nivel_avanzado_de_inglés
 5355303 Wikipedia:Wikipedistas_con_nivel_intermedio_de_portugués
@@ -27535,6 +27576,7 @@
 5366074 Practicantes_de_artes_marciales_mixtas_de_Estados_Unidos
 5366447 Monumentos_históricos_y_arqueológicos_de_Hidalgo
 5366458 Restauradores_y_conservadores_de_arte
+5366467 Arquitectura_de_red
 5366589 Frontera_Costa_Rica-Panamá
 5366661 Frontera_Canadá-Estados_Unidos
 5366729 Futbolistas_del_FK_Rabotnički
@@ -27816,7 +27858,6 @@
 5409484 Países_en_los_Juegos_Paralímpicos_de_Sídney_2000
 5409508 Competiciones_atléticas_populares_en_España
 5410268 Series_de_televisión_iniciadas_en_1984
-5410272 Series_de_televisión_finalizadas_en_1986
 5410440 Álbumes_en_vivo_de_2000
 5410444 Álbumes_en_vivo_de_2001
 5410446 Álbumes_en_vivo_de_2002
@@ -27882,7 +27923,6 @@
 5417559 Presidentes_de_la_Asociación_Médica_Argentina
 5417753 Enfermeros_de_Estados_Unidos
 5417825 Series_de_televisión_iniciadas_en_1991
-5417827 Series_de_televisión_finalizadas_en_1996
 5418014 Archipiélagos_e_islas_de_la_región_de_Dinamarca_Meridional
 5418021 Daneses_del_siglo_XXI
 5418489 Series_de_televisión_de_espionaje
@@ -27891,12 +27931,10 @@
 5418827 Archipiélagos_e_islas_de_la_región_de_Selandia
 5418952 Archipiélagos_e_islas_de_los_estrechos_daneses_de_Dinamarca
 5419019 Políticos_de_la_India_del_siglo_XXI
-5419191 Series_de_televisión_finalizadas_en_2000
 5419421 Series_de_televisión_animadas_de_España
 5419919 Cantantes_de_balada_romántica_de_Perú
 5420046 Series_de_televisión_iniciadas_en_2000
 5420052 Series_de_televisión_iniciadas_en_1989
-5420078 Series_de_televisión_finalizadas_en_2001
 5420090 Temporadas_de_series_de_televisión
 5420191 Activistas_de_Ecuador
 5420262 Rangos_jerárquicos_en_la_Alemania_nazi
@@ -27920,6 +27958,7 @@
 5423616 Profesores_de_la_Universidad_McGill
 5423735 Revistas_científicas_de_Francia
 5423796 Revistas_científicas_de_Brasil
+5424451 Cuadros_de_Julio_Romero_de_Torres
 5425590 Wikipedia:Wikipedistas_con_nivel_básico_de_chino
 5425755 Rally_de_Cantabria
 5425780 Rally_Villa_de_Llanes
@@ -27971,7 +28010,6 @@
 5435260 Arquitectura_mudéjar_en_Andalucía
 5435310 Wikipedia:Wikipedistas_con_nivel_intermedio_de_neerlandés
 5435710 Canciones_producidas_por_David_Bowie
-5435800 Series_de_televisión_finalizadas_en_1987
 5436046 Talmudistas
 5436333 Parque_nacional_Nahuel_Huapi
 5436795 Mammalia_endémica_de_Brasil
@@ -27987,7 +28025,6 @@
 5439194 Químicos_judíos
 5439475 Dramaturgos_de_la_Comunidad_de_Madrid
 5441197 Series_de_televisión_iniciadas_en_1982
-5441203 Series_de_televisión_finalizadas_en_1989
 5441950 Dramaturgos_de_Castilla-La_Mancha
 5442031 Ártico
 5442420 Ganadores_del_Premio_Goncourt
@@ -28000,7 +28037,6 @@
 5443017 Películas_dramáticas_de_Reino_Unido
 5443044 Películas_dramáticas_de_Francia
 5443662 Series_de_televisión_iniciadas_en_1990
-5443667 Series_de_televisión_finalizadas_en_1995
 5444289 Películas_ambientadas_en_la_Antigua_Grecia
 5444373 Académicos_de_Colombia
 5444444 Wikipedia:Usuarios_títeres_expulsados
@@ -28271,7 +28307,6 @@
 5486903 Alumnado_del_Smith_College
 5487193 Futbolistas_del_Sporting_San_Miguelito
 5487854 Castillos_de_la_provincia_de_Barcelona
-5488546 Series_de_televisión_finalizadas_en_1991
 5489077 Concursantes_de_Tu_cara_me_suena
 5489125 Objetos_astronómicos_por_denominación_provisional
 5489140 Ríos_fronterizos_de_África
@@ -28347,7 +28382,6 @@
 5507020 Baloncestistas_del_Zorg_en_Zekerheid_Leiden
 5507768 Alumnado_del_Colegio_del_Uruguay
 5508395 Agentes_secretos_ficticios
-5508550 Series_de_televisión_finalizadas_en_1994
 5508928 Aerolíneas_chárter
 5508934 Aeronaves_de_Túpolev
 5509199 Series_de_televisión_de_Filipinas
@@ -28369,10 +28403,7 @@
 5511795 Sarcopterigios_fósiles
 5513381 Club_de_los_Cien_de_la_FIFA
 5513433 Series_de_televisión_iniciadas_en_1988
-5513439 Series_de_televisión_finalizadas_en_1990
 5513444 Series_de_televisión_iniciadas_en_1987
-5513449 Series_de_televisión_finalizadas_en_1992
-5513455 Series_de_televisión_finalizadas_en_1993
 5513485 Series_de_televisión_iniciadas_en_1992
 5513655 Wikipedia:Wikipedistas_con_conocimientos_de_occitano
 5513656 Wikipedia:Wikipedistas_con_nivel_básico_de_occitano
@@ -28969,6 +29000,7 @@
 5636515 Series_de_televisión_iniciadas_en_1964
 5636517 Series_de_televisión_iniciadas_en_1985
 5636654 Nobles_de_Alemania_del_siglo_XIII
+5636676 Series_de_televisión_iniciadas_en_1963
 5636678 Series_de_televisión_iniciadas_en_1961
 5636680 Participantes_cristianos_en_la_primera_cruzada
 5636686 Series_de_televisión_iniciadas_en_1962
@@ -29184,7 +29216,6 @@
 5683927 Centros_culturales_de_Ciudad_de_México
 5684009 Nobles_de_Rusia_del_siglo_XX
 5684253 Sencillos_de_country
-5684406 Series_de_televisión_finalizadas_en_1988
 5684579 Futbolistas_del_Gainare_Tottori
 5684914 Alumnado_de_la_Universidad_de_Lisboa
 5685017 Escritoras_de_Portugal
@@ -29486,7 +29517,7 @@
 5794113 Localidades_atravesadas_por_el_río_Ebro
 5794261 Torres_defensivas_de_la_provincia_de_Alicante
 5794960 Episodios_de_televisión_de_2013
-5795625 Futbolistas_del_Johor_FC
+5795625 Futbolistas_del_Johor_Darul_Takzim_FC
 5795627 Futbolistas_del_Buriram_United_Football_Club
 5796052 Videojuegos_exclusivos_para_Super_Nintendo
 5796058 Futbolistas_del_Estrella_Roja_de_Belgrado
@@ -29593,7 +29624,6 @@
 5816388 Futbolistas_del_Sparta_Rotterdam_en_los_años_2000
 5816393 Futbolistas_del_Sparta_Rotterdam_en_los_años_2010
 5816731 Anfibios_de_Guatemala
-5817085 Series_de_televisión_finalizadas_en_1981
 5817106 Eventos_deportivos_celebrados_en_Madrid
 5817233 Alumnado_de_Emerson_College
 5817262 Eventos_deportivos_celebrados_en_Barcelona
@@ -29693,13 +29723,11 @@
 5836643 Versalles
 5837647 Medallistas_paralímpicos_de_bronce_de_Argentina
 5837650 Medallistas_paralímpicos_de_plata_de_Argentina
-5837971 Series_de_televisión_finalizadas_en_1980
 5838103 Alumnado_de_la_Universidad_del_Norte_de_Texas
 5838105 Arquitectura_en_Castilla_y_León_en_el_siglo_XX
 5838129 Fortificaciones_en_el_virreinato_de_Nueva_España
 5838163 Fortificaciones_de_la_Capitanía_General_de_Chile
 5838240 Futbolistas_de_la_selección_de_fútbol_de_Kuwait
-5840376 Series_de_televisión_finalizadas_en_1974
 5840490 Temporadas_de_la_Ligue_1
 5841023 Estados_desaparecidos_de_Europa_en_el_siglo_XIX
 5841024 Temporadas_de_la_Tercera_División_de_España_-_Grupo_I
@@ -29839,6 +29867,7 @@
 5876130 Ciudades_de_Filipinas
 5876177 Amblystegiaceae
 5876231 Localidades_de_la_asociación_Los_Pueblos_más_bonitos_de_España
+5876412 Despoblados_de_la_provincia_de_Cáceres
 5876420 Premios_Max
 5876435 Compositores_de_Escocia
 5876615 Invernaderos_de_Japón
@@ -29877,6 +29906,7 @@
 5887895 Futbolistas_del_Paola_Hibernians_Football_Club
 5888320 Deporte_en_México_en_2013
 5888335 Religiosos_católicos_de_Chile
+5888497 Futbolistas_del_Birkirkara_FC
 5888504 Futbolistas_del_Valetta_Football_Club
 5888947 Competiciones_de_rugby_de_Uruguay
 5888986 Entrenadores_de_fútbol_de_Yugoslavia
@@ -29914,6 +29944,7 @@
 5895317 Baloncestistas_de_la_selección_de_Nigeria
 5895600 Álbumes_de_Shrapnel_Records
 5895686 Ediciones_del_Rally_Dakar
+5895756 Series_de_televisión_de_USA_Network
 5895761 Académicos_de_la_Real_Academia_de_Doctores_de_España
 5896445 Congresos_y_Parlamentos_unicamerales
 5896603 Congresos_y_Parlamentos_históricos
@@ -30055,7 +30086,6 @@
 5933105 Medios_digitales
 5933251 Nacidos_en_Kassel
 5933285 Animales_descritos_en_1992
-5933603 Series_de_televisión_finalizadas_en_1985
 5934570 Empresas_fundadas_en_2013
 5934596 Ministros_de_Justicia_de_España_de_la_Restauración
 5934602 Ministros_de_Justicia_de_España_del_reinado_de_Isabel_II
@@ -30114,6 +30144,7 @@
 5949546 Medalla_Max_Planck
 5950663 Televisión_de_Chile_en_2014
 5950737 Lamiinae
+5951378 Guionistas_de_Perú
 5951409 Dismorphiinae
 5951839 Ministros_del_Gobierno_de_Dilma_Rousseff
 5952289 Anexos:Embajadores_de_Chile
@@ -30234,6 +30265,7 @@
 5973665 Localidades_de_Serbia_Central
 5973899 Deportistas_de_Georgia_(Estados_Unidos)
 5973918 Deportistas_de_Virginia
+5974432 Series_de_televisión_de_TNT
 5974448 Premio_Maria_Moors_Cabot
 5974905 Escultores_de_Suiza_del_siglo_XX
 5974991 Escritores_de_Suiza_del_siglo_XXI
@@ -30289,7 +30321,6 @@
 5985577 Pintores_de_Argentina_del_siglo_XX
 5985592 Pintores_de_Argentina_del_siglo_XXI
 5985610 Pintores_de_Colombia_del_siglo_XX
-5985631 Pintores_de_Cuba_del_siglo_XX
 5985644 Miembros_de_la_Royal_Society_of_Canada
 5985719 Nacionalizados_de_Alemania
 5985731 Canciones_sobre_suicidio
@@ -30404,6 +30435,7 @@
 6004185 Futbolistas_del_Pisa_Sporting_Club
 6004192 Futbolistas_de_la_Aurora_Pro_Patria_1919
 6004471 Competiciones_deportivas_mundiales_celebradas_en_Bélgica
+6004740 Títulos_de_la_Antigua_Roma
 6005055 Álbumes_de_Eagle_Records
 6005327 Municipios_de_la_provincia_de_Henao
 6005328 Localidades_de_la_provincia_de_Henao
@@ -30685,6 +30717,7 @@
 6037193 Masacres_en_Ucrania
 6037233 Historia_económica_de_Chile
 6037620 Futbolistas_del_Cambuur_Leeuwarden
+6037666 Futbolistas_del_Club_Deportivo_Coyotes_Neza
 6037670 Futbolistas_del_Club_Irapuato
 6037698 Futbolistas_del_KS_Cracovia
 6037749 Futbolistas_del_Club_Deportivo_Marte
@@ -30943,6 +30976,7 @@
 6080126 Futbolistas_del_Odds_Ballklubb
 6080129 Futbolistas_del_Centro_Deportivo_Olmedo
 6080285 Arquitectura_de_Brasil_del_siglo_XX
+6080326 Edificios_y_estructuras_de_la_Ciudad_de_São_Paulo
 6080901 Equipos_participantes_en_la_Copa_Mundial_de_Fútbol_de_2014
 6081109 Conectores_de_computadora
 6081635 Futbolistas_del_Indy_Eleven
@@ -31004,7 +31038,6 @@
 6086486 Escritores_de_literatura_infantil_de_Francia
 6086504 Equipos_de_fútbol_filiales_de_Alemania
 6086714 Escritoras_de_Canadá
-6086800 Series_de_televisión_finalizadas_en_1983
 6086962 Departamento_San_Jerónimo
 6086966 Artiodáctilos_del_África_subsahariana
 6087019 Departamento_Iriondo
@@ -31113,6 +31146,7 @@
 6106000 Segunda_División_de_México
 6106057 Wikiproyecto:Ciclones_tropicales/Artículos
 6106084 Concursos_de_belleza_en_2014
+6106112 Wikiproyecto:Perros/Artículos
 6106120 Wikiproyecto:Feminismo/Artículos
 6106127 Wikiproyecto:Naciones_Unidas/Artículos
 6106225 Wikiproyecto:Antiguo_Egipto/Artículos
@@ -31197,6 +31231,7 @@
 6111729 Videojuegos_con_motor_Unreal_Engine
 6111777 Misioneros_de_Italia
 6111802 Juristas_del_País_Vasco
+6111842 Series_de_televisión_familiares
 6111946 Videojuegos_basados_en_series_de_televisión
 6112119 Tratados_de_Australia
 6112463 Profesores_de_música_de_Argentina
@@ -31580,6 +31615,7 @@
 6191275 Videojuegos_ambientados_en_China
 6191298 Nobles_de_Hungría_del_siglo_XV
 6191326 Cantantes_de_pop_de_España
+6191331 Videojuegos_ambientados_en_la_India
 6191335 Cantantes_de_pop_de_Argentina
 6191358 Películas_ambientadas_en_Shanghái
 6191477 Películas_ambientadas_en_Japón
@@ -31611,7 +31647,6 @@
 6194939 Representaciones_ficticias_del_Diablo
 6195194 Canciones_de_rock_alternativo
 6195214 Canciones_de_heavy_metal
-6195805 Cultura_en_el_Archipiélago_de_Chiloé
 6195895 Serbios_del_siglo_XIV
 6196069 Canciones_en_japonés
 6196355 Cabos_de_la_provincia_de_Santa_Cruz_(Atlántico)
@@ -31667,6 +31702,7 @@
 6200228 Películas_ambientadas_en_Rusia
 6200235 Videojuegos_ambientados_en_Rusia
 6200398 Obispos_nombrados_por_Francisco
+6200507 Entrenadores_del_Puebla_FC
 6200509 Entrenadores_del_Fútbol_Club_Oporto
 6200510 Entrenadores_del_Club_de_Fútbol_Atlante
 6200512 Entrenadores_del_Querétaro_FC
@@ -31944,7 +31980,6 @@
 6216318 Deporte_en_Reino_Unido_en_2009
 6216433 Gobernadores_de_Bolivia
 6216538 Gagaúzia
-6216544 Personas_del_departamento_del_Beni
 6216692 Plantas_descritas_en_1947
 6216726 Plantas_descritas_en_1980
 6216752 Plantas_descritas_en_1939
@@ -32128,6 +32163,7 @@
 6235928 Neerlandés-marroquí
 6236103 Cantautores_de_Taiwán
 6236203 Wikiproyecto:Telenovelas/Artículos
+6236340 Series_de_televisión_de_Nine_Network
 6236815 Objetos_astronómicos_descubiertos_por_Liudmila_Chernyj
 6236820 Alumnado_de_la_Universidad_de_Cuenca
 6236940 Instituciones_y_organismos_con_sede_en_Albacete
@@ -32385,8 +32421,6 @@
 6267454 Animales_descritos_en_1792
 6267493 Mujeres_de_los_Estados_cruzados
 6267732 Minerales_epónimos
-6267773 Series_de_televisión_finalizadas_en_1977
-6267776 Series_de_televisión_finalizadas_en_1979
 6268083 Plantas_descritas_por_Linnaeus
 6268112 Miembros_de_la_Accademia_Nazionale_dei_Lincei
 6268227 Futbolistas_del_Real_Club_Deportivo_Espanyol_en_los_años_1940
@@ -32417,6 +32451,7 @@
 6269450 Animales_descritos_en_1775
 6269676 Empresas_de_servicios_financieros_de_Estados_Unidos
 6269913 Escritoras_de_Ecuador
+6269928 Ecuatorianas
 6270227 Historia_del_fútbol_de_Uruguay
 6270439 Epónimos_relacionados_con_las_matemáticas
 6270451 Animales_descritos_en_1970
@@ -32485,6 +32520,7 @@
 6281257 Futbolistas_del_FK_Čukarički_Stankom
 6281262 Futbolistas_del_Śląsk_Wrocław
 6282610 Misioneros_de_España
+6282663 Economistas_de_Bolivia
 6283070 Medallistas_olímpicos_de_plata_de_Nueva_Zelanda
 6283277 Animales_descritos_en_1823
 6284200 Capitales_del_Caribe
@@ -32631,12 +32667,15 @@
 6311224 Animales_descritos_en_1923
 6311230 Reptiles_de_Honduras
 6311232 Animales_descritos_en_1969
+6311308 Baloncestistas_del_Karhu_Kauhajoki
 6311368 Series_de_televisión_en_inglés
 6311382 Wikipedia:Miembros_del_Wikiproyecto_Iglesia_católica
 6311389 Series_de_televisión_en_portugués
 6311405 Series_de_televisión_en_francés
 6311419 Series_de_televisión_en_italiano
+6311443 Series_de_televisión_en_ruso
 6311469 Series_de_televisión_en_japonés
+6311477 Series_de_televisión_en_chino_mandarín
 6311481 Series_de_televisión_en_alemán
 6311607 Wikipedia:Wikipedistas_con_conocimientos_de_PHP
 6311640 Cometas_periódicos
@@ -32729,10 +32768,12 @@
 6317634 Animales_descritos_en_1998
 6317727 Futbolistas_del_Club_Deportivo_Mineros_de_Zacatecas
 6318883 Series_de_televisión_en_coreano
+6318922 Programas_de_televisión_en_alemán
 6318930 Programas_de_televisión_en_coreano
 6318933 Programas_de_televisión_en_español
 6318934 Programas_de_televisión_en_francés
 6318936 Programas_de_televisión_en_inglés
+6318938 Programas_de_televisión_en_italiano
 6318945 Programas_de_televisión_en_portugués
 6319012 Series_de_televisión_en_filipino
 6319164 Animales_descritos_en_1800
@@ -32804,6 +32845,7 @@
 6329720 Animales_descritos_en_1867
 6329986 Coleópteros_de_la_Europa_mediterránea
 6330010 Coleópteros_de_Asia_Occidental_paleártica
+6330055 Series_de_televisión_en_sueco
 6330175 Franciscanos_de_España_del_siglo_XX
 6330651 Animales_descritos_en_1968
 6331355 Animales_descritos_en_1853
@@ -32879,8 +32921,6 @@
 6346989 Asia_en_el_siglo_XV_a._C.
 6347147 Asia_en_el_siglo_XIV_a._C.
 6348125 Asia_en_el_siglo_XIII_a._C.
-6348425 Series_de_televisión_finalizadas_en_1984
-6348426 Series_de_televisión_finalizadas_en_1982
 6348760 Actores_de_televisión_de_Dinamarca
 6349036 Entrenadores_del_Guarani_Futebol_Clube
 6349042 Entrenadores_de_la_Associação_Portuguesa_de_Desportos
@@ -32969,6 +33009,7 @@
 6374450 Medallistas_olímpicos_de_plata_de_Bielorrusia
 6374546 Series_de_televisión_románticas
 6374736 Jugadores_de_hockey_sobre_hielo_de_Rusia
+6374740 Jugadores_de_hockey_sobre_hielo_de_Finlandia
 6374846 Montañas_de_las_Islas_Georgias_del_Sur
 6375307 Cantantes_masculinos_de_Australia
 6375374 Personas_de_Daegu
@@ -32989,13 +33030,11 @@
 6383609 Grupos_de_punk_rock_de_Inglaterra
 6383923 Amantes_reales_femeninas
 6384739 Organizaciones_de_extrema_derecha_de_España
-6384747 Partidos_de_extrema_derecha_de_España
 6384762 Extrema_derecha_en_España
 6384988 Dance_Dance_Revolution
 6385717 Ilustradores_de_España_del_siglo_XIX
 6385835 Campeonato_Europeo_de_Atletismo_de_2014
 6386290 Miembros_de_la_Cámara_de_los_Lores
-6386356 Series_de_televisión_finalizadas_en_1960
 6386511 Wikipedia:Miembros_del_Wikiproyecto_Argentina
 6386679 Línea_Ferrol-Gijón
 6386944 Miembros_del_Colegio_de_Francia
@@ -33111,6 +33150,7 @@
 6423286 Grupos_de_visual_kei
 6423516 Reparto_de_Chiquititas
 6423610 Fugitivos_buscados_por_Estados_Unidos
+6423690 Alfarería_y_cerámica_de_Japón
 6424462 Alumnado_de_la_Real_Academia_de_Bellas_Artes_de_San_Fernando
 6424471 Fallecidos_por_insuficiencia_cardíaca
 6424489 Industria_automotriz
@@ -33119,6 +33159,7 @@
 6424621 Isla_Alejandro_I
 6424935 Centro_histórico_de_San_Luis_Potosí
 6425072 Futbolistas_del_Lincoln_Red_Imps_Football_Club
+6425642 Monarcas_ejecutados
 6425873 Línea_Oviedo-Santander
 6426026 Reparto_de_Power_Rangers
 6426110 Ejecutados_de_Italia
@@ -33247,6 +33288,7 @@
 6458029 Animales_descritos_en_1773
 6458327 Animales_descritos_en_1819
 6458340 Académicos_de_la_Academia_Nacional_de_la_Historia_de_la_República_Argentina
+6458362 Alumnado_de_la_Universidad_de_Kioto
 6458625 Profesores_de_la_Universidad_Estatal_de_Ohio
 6458728 Orden_de_la_Guerra_Patria
 6458743 Alumnado_de_la_Universidad_Estatal_de_Ohio
@@ -33332,6 +33374,7 @@
 6476617 Historia_contemporánea_de_Marruecos
 6476724 Anarquistas_de_Aragón
 6476745 Literatura_de_espada_y_brujería
+6476934 Series_de_televisión_de_tokusatsu
 6476935 Películas_tokusatsu
 6477358 Calas_de_España
 6477812 Canciones_de_Nicki_Minaj
@@ -33350,13 +33393,14 @@
 6478730 Escritores_de_Egipto_del_siglo_XX
 6478801 Estaciones_ferroviarias_de_España_en_los_años_1880
 6479308 Series_de_televisión_de_BBC_One
+6479347 Series_de_televisión_de_BBC_Two
+6479451 Monorrieles
 6479469 Miembros_de_Alianza_para_el_Progreso_(Perú)
 6479491 Personas_de_la_prefectura_de_Osaka
 6479661 Senadores_del_XLIX_Período_Legislativo_del_Congreso_Nacional_de_Chile
 6479896 Voleibol_en_2018
 6479914 Series_de_televisión_de_humor_negro
 6479967 Series_de_televisión_de_La_1
-6480050 Comedias_de_situación_de_Estados_Unidos
 6480053 Profesores_de_la_Universidad_Estatal_de_San_Petersburgo
 6480070 Animales_descritos_en_1959
 6480153 Arquitectura_de_Egipto_del_siglo_XX
@@ -33431,6 +33475,7 @@
 6491016 Programas_de_televisión_de_La_Sexta
 6491019 Programas_de_televisión_de_Telemadrid
 6491025 Series_de_televisión_de_The_CW
+6491026 Programas_de_televisión_de_TV3
 6491027 Programas_de_televisión_de_ABS-CBN
 6491031 Programas_de_televisión_de_GMA_Network
 6491033 Series_de_televisión_de_Adult_Swim
@@ -33472,6 +33517,7 @@
 6497078 Senadores_del_LIII_Período_Legislativo_del_Congreso_Nacional_de_Chile
 6497154 Violinistas_clásicos_de_España
 6497384 Guitarristas_clásicos_de_España
+6497964 Emigrantes_italianos_hacia_Venezuela
 6497981 Álbumes_en_vivo_de_2014
 6498134 Fauna_endémica_de_Tanzania
 6498727 Cantantes_infantiles_de_Estados_Unidos
@@ -33487,7 +33533,6 @@
 6501918 Raperos_de_Francia
 6501936 Raperos_de_México
 6501940 Raperos_de_Puerto_Rico
-6502104 Raperos_de_la_Comunidad_de_Madrid
 6502215 Turcos_del_siglo_XX
 6502228 Turcos_del_siglo_XXI
 6502441 Políticos_de_Egipto_del_siglo_XX
@@ -33521,7 +33566,12 @@
 6504644 Fauna_endémica_del_archipiélago_de_Socotra
 6504676 Personas_tuertas
 6504705 Cañones_(artillería)
+6504821 Series_de_televisión_de_Rede_Globo
+6504867 Programas_de_televisión_de_TV_Azteca
+6504950 Insectos_afrotropicales
 6504969 Coleópteros_del_archipiélago_de_Socotra
+6504979 Series_de_televisión_de_RCTV
+6504988 Series_de_televisión_de_Venevisión
 6505161 Arquitectura_en_la_Comunidad_Valenciana_en_el_siglo_XVIII
 6505163 Arquitectura_en_la_Comunidad_de_Madrid_en_el_siglo_XVIII
 6505171 Arquitectura_en_Andalucía_en_el_siglo_XVIII
@@ -33583,6 +33633,7 @@
 6511395 Localidades_de_Boquerón
 6511906 Campeonatos_mundiales_de_piragüismo_en_eslalon
 6511909 Arquitectura_en_la_Comunidad_de_Madrid_en_el_siglo_XX
+6512145 Series_de_televisión_de_RCN_Televisión
 6512225 Series_de_televisión_de_drama_médico_de_Estados_Unidos
 6512248 Iglesias_de_Asturias_del_siglo_XX
 6512250 Arquitectura_en_Asturias_en_el_siglo_XX
@@ -33709,6 +33760,7 @@
 6526479 Castillos_de_España_del_siglo_XVI
 6526510 Iglesias_renacentistas_de_Andalucía
 6526780 Alumnado_de_la_Universidad_de_Montreal
+6526842 Periodistas_de_Ucrania
 6527079 Discapacidad_en_España
 6527168 Iglesias_góticas_de_Andalucía
 6527888 Miembros_del_Partido_Movimiento_Ciudadano
@@ -33741,6 +33793,7 @@
 6532053 Futbolistas_del_Zweigen_Kanazawa
 6532167 Alumnado_de_la_Universidad_del_Zulia
 6532233 Televisión_de_Chile_en_2015
+6532335 Escuelas_de_la_ciudad_de_Buenos_Aires
 6532962 Practicantes_de_taekwondo_de_Taiwán
 6533061 Dinastía_de_los_Grandes_Comnenos
 6533140 Videojuegos_de_hack_and_slash
@@ -33811,6 +33864,7 @@
 6544624 Practicantes_de_taekwondo_de_República_Dominicana
 6544831 Reconquista
 6545091 Diputados_de_Azerbaiyán
+6545276 Tenores_de_Inglaterra
 6545480 Programas_de_televisión_iniciados_en_2015
 6545483 Medallistas_olímpicos_de_bronce_de_Kazajistán
 6545683 Salud_de_la_mujer
@@ -33859,6 +33913,7 @@
 6551220 Iglesias_románicas_de_la_provincia_de_Palencia
 6551281 Series_de_televisión_de_Canal_9_(Buenos_Aires)
 6551285 Series_de_televisión_de_Telefe
+6551292 Series_de_televisión_de_Mega
 6551294 Series_de_televisión_de_Telemundo
 6551403 Películas_de_Open_Road_Films
 6551425 Películas_ambientadas_en_hoteles
@@ -34072,6 +34127,7 @@
 6576795 Futbolistas_del_Club_Deportivo_Universidad_Católica_en_los_años_1960
 6576799 Futbolistas_del_Club_Deportivo_Universidad_Católica_en_los_años_1970
 6577547 Videojuegos_exclusivos_para_GameCube
+6578000 Deporte_en_Francia_en_2015
 6578102 Películas_de_Hammer_Film_Productions
 6578455 Emigrantes_cubanos_hacia_México
 6578465 Emigrantes_cubanos_hacia_Estados_Unidos
@@ -34097,6 +34153,7 @@
 6582183 Feminismo_en_España
 6582203 Feminismo_en_Estados_Unidos
 6582276 Feminismo_en_México
+6582282 Feministas_de_Japón
 6582329 Revistas_satíricas
 6582435 Iglesias_dedicadas_a_San_Pedro
 6582436 Iglesias_dedicadas_a_San_Pablo
@@ -34138,7 +34195,6 @@
 6588075 Arquitectura_de_España_de_1995
 6588088 Museos_de_España_inaugurados_en_1995
 6588131 Películas_de_catástrofes_de_Estados_Unidos
-6588148 Dating_shows_de_España
 6588175 Puentes_de_España_de_los_años_1990
 6588177 Arquitectura_de_España_de_1994
 6588179 Arquitectura_de_España_de_1992
@@ -34151,6 +34207,7 @@
 6589016 Museos_de_historia_de_Perú
 6589213 Arquitectura_de_España_de_1990
 6589368 Lugares_de_importancia_comunitaria_de_Portugal
+6589589 Series_de_televisión_de_drama_sobrenatural
 6589754 Terminología_arqueológica
 6589778 Wikipedia:Votaciones_2015
 6590225 Siria_en_2015
@@ -34533,8 +34590,6 @@
 6643152 Argentinos_nacidos_en_el_exterior
 6643386 Series_de_televisión_de_acción_de_Corea_del_Sur
 6643495 Casa_de_Nassau
-6643504 Series_de_televisión_finalizadas_en_1971
-6643508 Series_de_televisión_finalizadas_en_1973
 6643557 Alumnado_de_la_Universidad_de_Melbourne
 6643721 Baloncestistas_del_Trefl_Sopot
 6643819 Antiguas_colonias_británicas_en_África
@@ -34561,6 +34616,7 @@
 6820998 Palacios_de_Alemania_del_siglo_XIX
 6821410 Temporada_2015-16_de_fútbol_en_Chile
 6821512 Exiliados_venezolanos
+6821739 Series_de_televisión_de_América_TV
 6821762 Celebraciones_del_día_de_Argentina
 6821850 Iglesias_de_Alemania_del_siglo_XVIII
 6821924 Reptiles_de_Guatemala
@@ -34635,7 +34691,6 @@
 6836543 Héroe_de_la_República_de_Cuba
 6836547 Parques_de_esculturas
 6836619 Orden_Carlos_Manuel_de_Céspedes
-6836625 Series_de_televisión_de_comedia_dramática_de_Estados_Unidos
 6836647 Edificios_y_estructuras_terminadas_en_1912
 6836648 Edificios_y_estructuras_terminadas_en_1925
 6836650 Edificios_y_estructuras_terminadas_en_1927
@@ -34643,7 +34698,6 @@
 6836887 Senadores_de_Chile_en_el_siglo_XIX
 6837042 Biatletas_de_Francia
 6837402 Biatletas_de_Rusia
-6837590 Series_de_televisión_de_tokusatsu_de_Japón
 6837806 Biatletas_de_Bielorrusia
 6837815 Biatletas_de_Ucrania
 6837822 Jardines_por_tipo
@@ -34728,11 +34782,13 @@
 6859955 Cantantes_femeninas_de_Venezuela
 6859972 Profesores_de_investigación_del_CSIC
 6860259 Series_de_televisión_de_detectives
+6860772 Series_de_televisión_del_universo_cinematográfico_de_Marvel
 6860775 Películas_de_2017
 6860816 Senadores_de_la_Legislatura_Constituyente_de_España
 6861066 Personas_de_la_prefectura_de_Kioto
 6861410 Investigadores_científicos_del_CSIC
 6861631 Selecciones_masculinas_de_voleibol_de_Europa
+6861669 Series_de_televisión_de_MTV
 6862090 Dominicanas
 6862798 Senadores_de_la_X_Legislatura_de_España
 6862818 Senadores_de_la_IX_Legislatura_de_España
@@ -34817,14 +34873,6 @@
 6880236 Terratenientes_de_Colombia
 6880312 Orden_Teutónica
 6880636 Organistas_de_Aragón
-6880706 Series_de_televisión_finalizadas_en_1966
-6880707 Series_de_televisión_finalizadas_en_1967
-6880709 Series_de_televisión_finalizadas_en_1968
-6880710 Series_de_televisión_finalizadas_en_1969
-6880713 Series_de_televisión_finalizadas_en_1972
-6880714 Series_de_televisión_finalizadas_en_1975
-6880715 Series_de_televisión_finalizadas_en_1976
-6880717 Series_de_televisión_finalizadas_en_1978
 6880929 Concejales_de_Bogotá
 6881087 Periodistas_de_Francia_del_siglo_XIX
 6881139 Cantantes_femeninas_de_Brasil
@@ -34851,6 +34899,7 @@
 6886374 Estaciones_de_ferrocarril_de_Estados_Unidos_inauguradas_en_1915
 6886379 Edificios_y_estructuras_terminadas_en_1915
 6886387 Arquitectura_de_Estados_Unidos_de_1915
+6886636 Arquitectura_de_Estados_Unidos_de_1907
 6886648 Arquitectura_de_España_de_1900
 6886706 Arquitectura_de_Estados_Unidos_de_1902
 6886716 Equipos_de_fútbol_desaparecidos_en_2015
@@ -34957,6 +35006,7 @@
 6895060 Fauna_endémica_del_subcontinente_indio
 6895236 Músicos_zurdos
 6895402 Alumnado_de_la_Universidad_de_Oklahoma
+6895486 Alumnado_de_la_Universidad_de_Teherán
 6895536 Películas_de_animación_de_México
 6895614 Películas_ambientadas_en_1968
 6895746 Instalaciones_deportivas_de_Estados_Unidos_de_los_años_1990
@@ -35195,6 +35245,7 @@
 6940821 Filósofos_tomistas
 6941037 Políticos_de_Tlaxcala
 6941065 Médicos_de_la_Ciudad_de_México
+6941097 Abogados_de_Querétaro
 6941557 Canales_de_pago_de_Movistar_Plus+
 6941580 Acoso
 6941669 Orden_de_Tomáš_Garrigue_Masaryk
@@ -35247,6 +35298,7 @@
 6951954 Wikipedia:Plantillas_de_mapas_de_localización_de_Rusia_por_sujeto_federal
 6952129 Deportistas_LGBT_de_Estados_Unidos
 6952199 Personas_LGBT_de_Nueva_York
+6952202 Personas_LGBT_de_Pensilvania
 6952216 Personas_LGBT_de_California
 6952219 Wikiproyecto:Corea/Artículos
 6952411 Reparto_de_The_Flash
@@ -35781,6 +35833,7 @@
 7071531 Profesores_de_la_Universidad_Politécnica_de_Madrid
 7071603 Miembros_de_la_Comisión_Teológica_Internacional
 7072005 Monumentos_de_Cali
+7072183 Rebeldes_del_Imperio_bizantino
 7072265 Grupos_de_punk_rock_de_España
 7072269 Grupos_de_punk_rock_de_Argentina
 7072965 España_en_2016
@@ -35807,7 +35860,6 @@
 7081359 Nacidos_en_New_Haven_(Connecticut)
 7081634 Diputados_de_la_XI_Legislatura_del_Parlamento_de_Cataluña
 7081819 Participantes_en_Eurovisión_2016
-7083330 Personas_de_Puerto_Príncipe
 7083774 Cantones_suprimidos_de_Pirineos_Atlánticos
 7084257 Castillos_de_Francia_inscritos_monumento_histórico
 7084727 Novelas_ambientadas_en_la_Edad_Media
@@ -35890,7 +35942,6 @@
 7131122 Ministros_de_Bienestar_Social_de_Argentina
 7131446 Películas_ambientadas_en_Venecia
 7132303 Novelas_ambientadas_en_la_Antigua_Roma
-7132532 Novelas_ambientadas_en_China
 7133404 Películas_que_utilizan_imágenes_generadas_por_computadora
 7133680 Películas_animadas_de_Estados_Unidos_de_los_años_2010
 7134848 Competiciones_de_baloncesto_de_Argentina
@@ -35926,6 +35977,7 @@
 7149445 Iglesias_historicistas_de_España
 7149574 Iglesias_de_España_de_los_años_1960
 7149930 Fauna_endémica_de_América_del_Sur
+7150481 Iglesias_de_estilo_moderno_de_España
 7150683 Programas_de_televisión_de_reportajes_de_España
 7150863 Iglesias_de_España_de_los_años_1950
 7150866 Premio_Fastenrath
@@ -36026,6 +36078,7 @@
 7206447 Películas_ambientadas_en_Noruega
 7207304 Escritores_LGBT_de_Francia
 7207715 Álbumes_de_2016
+7208006 Programas_de_televisión_de_divulgación
 7208050 Estadios_de_fútbol_de_Francia_del_siglo_XX
 7208155 Futbolistas_del_Club_Deportivo_Palestino_en_los_años_1980
 7208351 Animales_extintos_descritos_en_2015
@@ -36394,6 +36447,7 @@
 7271544 Videojuegos_financiados_a_través_de_micromecenazgo
 7271671 Colecciones_de_la_Pinacoteca_Antigua_de_Múnich
 7272017 Insectos_descritos_en_1983
+7272175 Tunecinos_del_siglo_XX
 7272290 Insectos_descritos_en_1911
 7272298 Insectos_descritos_en_1978
 7272300 Insectos_descritos_en_1944
@@ -36573,7 +36627,7 @@
 7303785 Selecciones_de_fútbol_sala_de_Europa
 7304410 Anime_y_manga_de_misterio
 7304417 Anime_y_manga_trágico
-7304680 Futbolistas_del_Guayaquil_Sport_Club
+7304680 Futbolistas_del_Búhos_ULVR_Fútbol_Club
 7304704 Voleibolistas_en_los_Juegos_Olímpicos_de_Moscú_1980
 7304760 Equipos_de_fútbol_fundados_en_2016
 7305130 Edificios_y_estructuras_de_Liverpool
@@ -36672,6 +36726,7 @@
 7325300 Wikipedia:Editatonas
 7325510 Hechos_de_violencia_de_las_FARC-EP
 7326097 Anexos:Especies_de_Fusulinida
+7327576 Pintoras_de_Colombia
 7327608 Deportistas_femeninas_de_Colombia
 7328160 Futbolistas_de_las_inferiores_del_Club_Atlético_Rosario_Central
 7328171 Futbolistas_del_Gimnasia_y_Esgrima_de_Jujuy_en_los_años_1990
@@ -36890,6 +36945,7 @@
 7360806 Taxones_descritos_por_Henri_Milne-Edwards
 7360907 Miembros_de_la_Organización_Europea_de_Biología_Molecular
 7361099 81_Produce
+7361130 Películas_de_República_Popular_China
 7361638 Pigmentos_minerales
 7361732 Medalla_Goethe
 7361830 Ganadores_de_la_Medalla_del_CEC_al_mejor_actor
@@ -36909,9 +36965,9 @@
 7363829 Futbolistas_del_Club_Deportes_Concepción_en_los_años_1990
 7363856 Minerales_descubiertos_en_la_Unión_Soviética
 7363857 Minerales_descubiertos_en_Rusia_en_el_siglo_XX
-7363858 Ciencia_y_tecnología_de_Rusia_del_siglo_XX
 7363859 Pintoras_de_los_Países_Bajos
 7364154 Cantones_suprimidos_de_Ille_y_Vilaine
+7364497 Series_de_televisión_de_India
 7364655 Emigrantes_ingleses_hacia_Canadá
 7364682 Futbolistas_del_Club_Deportivo_Unión_San_Felipe_en_los_años_2000
 7364726 Políticos_católicos_de_Colombia
@@ -37033,6 +37089,7 @@
 7396441 Álbumes_de_Sony_Music_Latin
 7396554 Baloncestistas_del_Club_Baloncesto_Ciudad_de_Valladolid
 7396560 Baloncestistas_de_la_Liga_Nacional_de_Baloncesto_Profesional_de_México
+7396563 Baloncestistas_de_la_Korisliiga
 7396578 Baloncestistas_de_la_Liga_Națională_Rumana
 7397474 Historiadoras_de_Argentina
 7397510 Objetos_2MASS
@@ -37135,6 +37192,7 @@
 7420372 Jefes_provinciales_del_Movimiento
 7421505 Anexos:Esquemas_de_líneas_de_ferrocarril_de_España
 7421587 Cañones_antitanque
+7421662 Competiciones_deportivas_mundiales_celebradas_en_Australia
 7421666 Temporada_2016-17_de_fútbol_en_España
 7422291 Militantes_de_Revolución_Democrática
 7422648 Arácnidos_descritos_en_1934
@@ -37222,6 +37280,7 @@
 7453017 Fútbol_en_Argentina_en_2017
 7453019 Deporte_en_Argentina_en_2017
 7453021 Argentina_en_2017
+7453057 Documentales_deportivos
 7453711 Historicidad_de_Jesús_de_Nazaret
 7453920 Futbolistas_del_Manisaspor
 7453927 Futbolistas_del_İstanbul_Başakşehir_Futbol_Kulübü
@@ -37351,6 +37410,7 @@
 7474987 Insectos_descritos_en_2004
 7475150 Antiguos_voivodatos_de_Polonia_(siglo_XIV-1795)
 7475968 Voleibolistas_de_la_selección_femenina_de_voleibol_de_Perú
+7476111 Series_de_televisión_de_Freeform
 7476317 Alumnado_del_Royal_College_of_Music
 7476411 Judokas_de_Sudáfrica
 7476487 Futbolistas_del_Deportivo_Saprissa_en_los_años_2010
@@ -37626,6 +37686,7 @@
 7535711 Localidades_de_la_Comuna_de_Panguipulli
 7535750 Localidades_de_la_Comuna_de_Los_Lagos
 7535973 Objetos_astronómicos_descubiertos_desde_el_Kushiro_Marsh_Observatory
+7536328 Acción_directa
 7536412 Álbumes_de_España_de_1984
 7536450 Álbumes_de_España_de_1990
 7536478 Álbumes_de_España_de_1983
@@ -37938,6 +37999,7 @@
 7616181 Historia_de_la_Iglesia_católica_en_España
 7616324 Poetisas_del_Reino_Unido
 7616621 Historia_de_la_Iglesia_católica_en_Inglaterra
+7617309 Baloncestistas_de_los_Rayos_de_Hermosillo
 7617748 Composiciones_de_música_clásica_publicadas_póstumamente
 7617951 Taxones_descritos_por_Wilhelm_Peters
 7617969 Taxones_descritos_por_Émile_Oustalet
@@ -38346,7 +38408,6 @@
 7714990 Series_de_televisión_finalizadas_en_2017
 7715165 Condado_de_Korçë
 7715552 Armamento_de_Brasil
-7715634 Instituciones_educativas_establecidas_en_1993
 7715718 Peronismo_revolucionario
 7716139 Flora_endémica_de_Angola
 7716364 Condado_de_Vlorë
@@ -38363,6 +38424,7 @@
 7717955 Álbumes_de_Machete_Music
 7718490 Títulos_nobiliarios_del_virreinato_de_Nueva_España
 7718495 Flora_endémica_de_Venezuela
+7718746 Competiciones_de_baloncesto_en_curso
 7718928 Sencillos_de_2017
 7719085 Tecnología_adecuada
 7719268 Televisión_de_Chile_en_2017
@@ -38408,6 +38470,7 @@
 7725994 Derechos_humanos_en_Rosario_(Argentina)
 7726501 Actrices_de_Indonesia
 7726799 Wikiproyecto:UNAM/Artículos
+7726900 Películas_dirigidas_por_Ignacio_F._Iquino
 7727014 Presentadores_de_televisión_de_Corea_del_Sur
 7727241 Compositores_de_España_del_siglo_XVII
 7727411 Galardonados_con_la_Orden_del_Mérito_de_Baviera
@@ -38722,6 +38785,7 @@
 7812498 Películas_protagonizadas_por_Isabelle_Huppert
 7814078 Grupos_de_new_wave_de_Inglaterra
 7814116 Grupos_de_new_wave_de_Estados_Unidos
+7814232 Familia_Samper
 7814940 Poblados_del_extinguido_Estado_de_Los_Altos
 7815270 Baloncestistas_del_Excelsior_Brussels
 7815331 Aviones_de_transporte_militar_de_los_años_1930_de_los_Estados_Unidos
@@ -38800,6 +38864,7 @@
 7835949 Revistas_de_la_ciudad_de_Nueva_York
 7836045 Alumnado_de_Bryn_Mawr_College
 7836127 Escritores_de_Ucrania_del_siglo_XX
+7836133 Escritores_de_Ucrania_del_siglo_XXI
 7836905 Misiones_Pedagógicas
 7837007 Condado_de_Hiiu
 7837030 Condado_de_Lääne
@@ -38846,7 +38911,6 @@
 7845006 Futbolistas_de_la_selección_de_fútbol_de_Escocia_en_los_años_2010
 7845328 Actores_afroestadounidenses
 7845365 Canciones_de_Spinetta_y_los_Socios_del_Desierto
-7845586 Médicas_de_México
 7845657 Grupos_de_rock_psicodélico_de_Estados_Unidos
 7845745 Grupos_de_rock_psicodélico_de_Inglaterra
 7845966 Artistas_de_Mercury_Records
@@ -39329,6 +39393,7 @@
 7988322 Investigadoras_de_Argentina
 7988401 Toreros_de_Sevilla
 7989138 Deportes_en_los_Juegos_Olímpicos_de_Tokio_2020
+7989390 Localidades_del_distrito_de_Mehedinți
 7989599 Bienes_de_interés_cultural_inmateriales_de_España
 7990290 Bodegas_de_Chile
 7990505 Países_en_los_Juegos_Olímpicos_de_Tokio_2020
@@ -39375,7 +39440,6 @@
 8002952 Anexos:Episodios_de_series_de_televisión_animadas_de_Estados_Unidos
 8002984 Anexos:Episodios_de_series_de_televisión_de_Disney
 8003064 Videojuegos_de_2018
-8003559 Películas_en_islandés
 8003633 Premiados_en_el_festival_de_cine_de_Sundance
 8004541 Futbolistas_del_SC_Sagamihara
 8004803 Primer_Gobierno_de_Perón
@@ -39442,6 +39506,7 @@
 8024852 Futbolistas_del_Nagoya_Grampus
 8025014 Conjunto_Histórico_de_Melilla
 8025948 Estaciones_del_Servicio_Regional_Chaco
+8027053 Documentales_de_2017
 8027185 Casa_de_Zähringen
 8027686 Taxones_descritos_por_Adolf_Bernhard_Meyer
 8028125 Campeonatos_internacionales_entre_clubes_de_fútbol_organizados_por_Japón
@@ -39681,7 +39746,6 @@
 8142842 Libreros_de_España
 8142915 Italia_en_los_Juegos_Paralímpicos
 8143160 Álbumes_de_metal_industrial
-8143673 Personas_de_Haedo
 8144744 Comisarios_del_Ejército_Popular_de_la_República
 8145963 Baloncestistas_de_los_Capitanes_de_la_Ciudad_de_México
 8145979 Poetisas_de_India
@@ -39837,6 +39901,7 @@
 8219950 Bancos_centrales_de_Europa
 8219959 Bancos_centrales_de_África
 8219969 Militantes_de_la_Federación_Juvenil_Comunista_de_Argentina
+8221013 Esculturas_en_bronce_de_Italia
 8221018 Esculturas_en_bronce_de_España
 8221098 Esculturas_en_bronce_del_Reino_Unido
 8221105 Bancos_centrales_de_Asia
@@ -39945,7 +40010,6 @@
 8272643 Localidades_de_la_provincia_de_Cerdeña_del_Sur
 8274005 Competiciones_deportivas_europeas_celebradas_en_Suiza
 8274011 Competiciones_deportivas_mundiales_celebradas_en_Suiza
-8274382 Fear_the_Walking_Dead
 8274402 Lugares_de_Buenos_Aires_con_nombres_de_personas
 8275698 Competiciones_deportivas_europeas_celebradas_en_Polonia
 8276907 Arquitectura_de_Francia_del_siglo_XIX
@@ -39987,6 +40051,7 @@
 8283772 Alumnos_de_Medicina_de_la_Universidad_de_Zaragoza
 8283776 Alumnos_de_Historia_de_la_Universidad_de_Zaragoza
 8283794 Alumnos_de_Filología_de_la_Universidad_de_Zaragoza
+8283796 Alumnos_de_Química_de_la_Universidad_de_Zaragoza
 8283846 Alumnos_de_Derecho_de_la_Universidad_de_Navarra
 8283847 Alumnos_de_Filosofía_y_Letras_de_la_Universidad_de_Navarra
 8283850 Alumnos_de_Ciencias_de_la_Información_de_la_Universidad_de_Navarra
@@ -40307,6 +40372,7 @@
 8417803 Litógrafos_de_España_del_siglo_XIX
 8417840 Arquitectura_de_Azerbaiyán_del_siglo_XX
 8418286 Institutos_del_CONICET
+8418863 Actores_masculinos_de_Argentina
 8419155 Edificios_y_estructuras_inacabados
 8419495 Actores_masculinos_de_Australia
 8419985 Pinturas_de_guerra
@@ -40482,7 +40548,6 @@
 8474966 Personajes_creados_por_Chris_Claremont
 8475692 Personajes_creados_por_Dave_Cockrum
 8475845 Wikipedia:Títeres_bloqueados_de_Luis_camilo_álvarez_vega
-8476045 Personas_de_Renania_del_Norte-Westfalia
 8476436 Fallecidos_en_Zaragoza
 8476467 Fallecidos_en_Madrid
 8476473 Fallecidos_en_Barcelona
@@ -40536,13 +40601,11 @@
 8499910 Actrices_de_Rusia_del_siglo_XX
 8499913 Rusas_del_siglo_XX
 8500387 Faros_de_Marruecos_en_el_océano_Atlántico
-8502095 Organizaciones_provida
 8502714 Cordilleras_de_los_Alpes
 8502783 Empresas_con_sede_en_París
 8505020 Diputados_por_Colchagua
 8505281 Lagos_de_Brandeburgo
 8505582 Futbolistas_de_la_selección_de_fútbol_sub-21_de_Escocia
-8505883 Wikipedia:Miembros_del_Wikiproyecto_Marxismo
 8505940 Nuevas_versiones_de_videojuegos
 8506092 Constructores_de_Fórmula_1
 8506424 Populismo_de_izquierda
@@ -40626,7 +40689,6 @@
 8523426 Marchas_militares_de_Alemania
 8523481 Coptops
 8523488 Localidades_del_distrito_de_Weimarer_Land
-8523498 Accidentes_geográficos_de_ladera
 8524510 Obispos_franciscanos
 8524527 Obispos_dominicos
 8524581 Santos_católicos_de_España_del_siglo_IX
@@ -40655,6 +40717,7 @@
 8527253 La_Candelaria_(Medellín)
 8527534 Localidades_del_distrito_de_Rotemburgo_del_Wumme
 8527640 Localidades_del_distrito_de_Schaumburg
+8527998 Pintores_retratistas_de_Flandes
 8528002 Localidades_del_distrito_de_Stade
 8528195 Krausistas
 8528649 Películas_en_blanco_y_negro_de_Francia
@@ -40742,6 +40805,7 @@
 8546887 Poetas_de_Ecuador_del_siglo_XX
 8546890 Poetas_de_Ecuador_del_siglo_XXI
 8546928 Batallas_de_la_Corona_de_Castilla_del_siglo_XIV
+8547306 Programas_de_televisión_de_espectáculos
 8547697 Escritores_de_Uruguay_del_siglo_XX
 8548467 Profesionales_de_la_bioética
 8549335 Localidades_del_distrito_de_Rin-Neckar
@@ -40800,6 +40864,7 @@
 8563754 Artistas_de_Johnny_&_Associates
 8566005 Exposiciones_de_arte
 8566530 Arquitectura_prerrománica
+8566591 Youtubers_LGBT
 8567206 Miembros_de_la_Academia_de_Ciencias_de_América_Latina
 8567383 Localidades_a_orillas_del_río_Ohio
 8567409 Pilotos_del_Campeonato_Mundial_de_Rallycross_de_la_FIA
@@ -41032,6 +41097,7 @@
 8627028 Árabes_del_siglo_IX
 8628200 Pintores_de_Azerbaiyán_del_siglo_XX
 8628210 Pintores_de_Azerbaiyán_del_siglo_XXI
+8628529 Entrenadores_de_la_Real_Balompédica_Linense
 8628716 Aplicación_de_la_ley
 8629692 Futbolistas_del_Kagoshima_United_FC
 8629962 Provincia_de_Møre_og_Romsdal
@@ -41643,6 +41709,7 @@
 8768918 Futbolistas_de_la_Copa_Asiática_2015
 8768920 Futbolistas_de_la_Copa_Asiática_2019
 8769019 Deportistas_femeninas_de_Filipinas
+8769473 Condecorados_con_la_Orden_de_Boyacá
 8769562 Modelos_femeninas_de_Filipinas
 8769606 Deportistas_femeninas_de_Finlandia
 8769719 Películas_musicales_de_los_años_2010
@@ -41784,6 +41851,7 @@
 8801931 Deporte_en_México_en_2020
 8801933 México_en_2020
 8802351 Mujeres_científicas_antárticas
+8802857 Actrices_pornográficas_de_Italia
 8802862 Actrices_pornográficas_de_Alemania
 8802868 Actrices_pornográficas_de_Hungría
 8803030 Crisis_presidencial_de_Venezuela
@@ -41879,6 +41947,7 @@
 8840682 Batallas_de_Gran_Bretaña
 8840725 Sencillos_de_Bad_Bunny
 8841150 Futbolistas_del_Inter_Club_d'Escaldes
+8841196 Acontecimientos_futuros_de_ciclismo
 8841235 Películas_biográficas_de_Estados_Unidos
 8841315 Películas_bélicas_de_Estados_Unidos
 8841370 Atletas_de_Alemania_en_los_Juegos_Olímpicos_de_Río_de_Janeiro_2016
@@ -42109,6 +42178,7 @@
 8887611 Pintores_retratistas_de_Estados_Unidos
 8889115 Grupos_de_música_de_K-pop
 8890758 Historia_de_la_inteligencia_artificial
+8892601 Negacionismo_del_cambio_climático
 8892897 Problemas_matemáticos_no_resueltos
 8892902 Genetistas_ficticios
 8893216 Localidades_de_Boimorto
@@ -42201,6 +42271,7 @@
 8928263 Relaciones_Japón-Unión_Soviética
 8928799 Películas_ambientadas_en_barcos
 8929044 Tratados_de_la_Guerra_Fría
+8930474 Cantantes_judías
 8930568 Novelas_alemanas_adaptadas_al_cine
 8930966 Nacionalistas_de_Argentina
 8932531 Divisiones_de_Pakistán
@@ -42356,6 +42427,7 @@
 9008513 Anime_de_2020
 9008834 Pakrac
 9008881 Videojuegos_de_mazmorras
+9008929 Series_de_televisión_en_hindi
 9009104 Diputados_de_las_Cortes_constituyentes_de_España_(1869-1871)
 9009110 Videojuegos_de_karts
 9009187 Futbolistas_del_Club_Deportivo_Leganés_"B"
@@ -42365,7 +42437,9 @@
 9010285 Tunecinas_del_siglo_XXI
 9010404 Baloncestistas_de_los_Phillips_66ers
 9010441 Canciones_de_rock_and_roll
+9010611 Ugandesas_del_siglo_XXI
 9010892 República_romana_en_el_siglo_I_a._C.
+9011205 Futbolistas_del_Hartford_Athletic
 9012158 Políticos_de_Zimbabue_del_siglo_XX
 9012161 Políticos_de_Zimbabue_del_siglo_XXI
 9012338 Activistas_ficticios
@@ -42375,6 +42449,7 @@
 9013425 Turcas_del_siglo_XXI
 9014858 Alumnos_de_la_École_des_Chartes
 9015002 Deporte_en_España_en_2021
+9015004 España_en_2021
 9015473 Fallecidos_por_sida_de_Estados_Unidos
 9016265 Memorialistas_de_Estados_Unidos
 9016292 Modelos_femeninas_de_Turquía
@@ -42408,6 +42483,7 @@
 9024499 Escudos_con_águilas
 9024500 Escudos_con_aves
 9024501 Aves_en_el_arte
+9025798 Insectos_en_el_arte
 9026259 Jugadores_de_fútbol_americano_de_Ohio
 9027465 Mujeres_de_Vietnam_del_siglo_XXI
 9027810 Futbolistas_de_Valparaíso
@@ -42424,6 +42500,7 @@
 9033914 Películas_de_Alfredo_Landa
 9033932 Películas_de_Concha_Velasco
 9034207 Actrices_de_cine_de_la_República_Checa
+9035790 Películas_de_Antonio_Ozores
 9036377 Peces_en_el_arte
 9036435 Águilas
 9036534 Ciudades_de_la_Liga_Hanseática
@@ -42517,6 +42594,7 @@
 9071988 Santuarios_de_la_naturaleza_de_Chile
 9072698 Himnos_LGBT
 9073290 Series_de_televisión_de_antología_estadounidenses
+9073383 Series_de_televisión_de_antología
 9074401 Sitios_de_especial_interés_científico
 9074426 Geología_de_Antártida
 9074810 Wikipedia:Títeres_bloqueados_de_Editant
@@ -42586,6 +42664,7 @@
 9107367 Series_de_televisión_de_Apple_TV+
 9107610 Emprendedores
 9107630 Santos_del_Imperio_bizantino_del_siglo_V
+9108258 Youtubers_de_México
 9108667 Asesinatos_sin_resolver
 9109657 Copa_de_la_Reina_de_baloncesto
 9110008 Localidades_del_condado_de_Brod-Posavina
@@ -42616,6 +42695,7 @@
 9126824 Supervillanas_de_DC_Comics
 9126921 Baloncestistas_del_Larisa
 9127715 Manga_y_anime_sobre_samuráis
+9128232 Pieds-noirs
 9128384 Alumnado_de_la_ESAP
 9128545 Temporadas_de_series_de_televisión_de_Estados_Unidos_de_2020
 9128914 Futbolistas_del_Callao
@@ -43370,7 +43450,7 @@
 9333976 Nacidos_en_Brașov
 9333983 Nacidos_en_Brăila
 9333994 Nacidos_en_Sibiu
-9334025 Nacidos_en_Rávena
+9334025 Nacidos_en_Ravena
 9334029 Nacidos_en_Livorno
 9334036 Nacidos_en_Perugia
 9334046 Nacidos_en_Salerno
@@ -43394,7 +43474,6 @@
 9334743 Nacidos_en_Shizuoka
 9334748 Nacidos_en_Matsuyama
 9334750 Alumnado_de_la_Universidad_KU_Leuven
-9335024 Niños_superhéroes_de_Marvel_Comics
 9335053 Alumnado_de_la_Facultad_de_Ciencias_Políticas_y_Sociales_de_la_Universidad_Nacional_Autónoma_de_México
 9335170 Nacidos_en_Lübeck
 9335174 Nacidos_en_Halle_(Sajonia-Anhalt)
@@ -43793,7 +43872,6 @@
 9372314 Grupos_de_emo_de_Estados_Unidos
 9372604 Tomoplagia
 9373996 Videojuegos_de_beat_'em_up
-9374147 Futbolistas_del_1._FSV_Maguncia_05_II
 9374285 Rugby_Americas_North_Sevens
 9374480 Activistas_provida_de_Argentina
 9374752 Melanoplinae
@@ -43818,7 +43896,6 @@
 9378755 Personas_de_East_Orange
 9379035 Activistas_por_los_derechos_de_las_mujeres_de_España
 9380497 Hijas_de_duques_del_Reino_Unido
-9380541 Episodios_de_Fear_the_Walking_Dead
 9381122 Wikipedia:Títeres_bloqueados_de_92claudia94
 9381311 Familia_Arboleda
 9381485 Pabellones_en_la_Bienal_de_Venecia
@@ -44015,6 +44092,7 @@
 9412444 Envenenadores
 9413191 Sevens_Grand_Prix_Series
 9413611 Aves_de_la_selva_tropical_africana
+9413939 Nacidos_en_Seo_de_Urgel
 9415316 Campeonato_Europeo_de_Rugby_League
 9416310 Wikipedia:Títeres_bloqueados_de_CarlosArrimadas
 9416914 Manzana_de_mesa_de_Cataluña
@@ -44043,6 +44121,7 @@
 9424488 Nacidos_en_Aviñón
 9424696 Pintores_paisajistas_de_Francia
 9424729 Nacidos_en_San_Antonio_(Texas)
+9424734 Pintores_paisajistas_de_Flandes
 9424762 Pintores_paisajistas_del_Reino_Unido
 9424784 Pintores_paisajistas_de_los_Países_Bajos
 9424857 Pintores_paisajistas_de_Estados_Unidos
@@ -44157,6 +44236,7 @@
 9458201 Nacidos_en_Saskatoon
 9459410 Videojuegos_de_superhéroes
 9459829 Nacidos_en_Tennessee
+9460068 Nacidos_en_Canberra
 9460076 Nacidos_en_Ciudad_del_Cabo
 9460081 Futbolistas_de_la_Asociación_Deportiva_Limonense
 9460093 Nacidos_en_Johannesburgo
@@ -44169,6 +44249,7 @@
 9460772 Nacidos_en_Kabul
 9460940 Nacidos_en_Luxemburgo_(ciudad)
 9461372 Nacidos_en_Salt_Lake_City
+9461664 Fallecidos_por_acción_policial
 9461859 Actrices_de_cine_de_Perú
 9462409 Sepultados_en_el_Cementerio_El_Ángel
 9462692 Nacidos_en_el_estado_de_Washington
@@ -44182,6 +44263,7 @@
 9466037 Sencillos_número_uno_en_World_Digital_Songs
 9468187 Eutreta
 9468241 Generales_ficticios
+9468388 Nacidos_en_Alberta
 9470439 Nacidos_en_Oporto
 9470544 Bibliotecarias_de_Estados_Unidos
 9470834 Telenovelas_de_Turquía
@@ -44327,6 +44409,7 @@
 9526978 Películas_con_música_de_Roque_Baños
 9527008 Películas_con_música_de_John_Barry
 9527068 Películas_con_música_de_Carmelo_Bernaola
+9527104 Futbolistas_del_Charlotte_Football_Club
 9527357 Astrónomas_de_Estados_Unidos
 9528301 Historia_de_Detroit
 9528316 Ministerios_desaparecidos_de_Argentina
@@ -44616,6 +44699,7 @@
 9604919 Cuchillos_de_combate
 9605093 Futbolistas_del_Mumbai_City_Football_Club
 9605110 Cuchillos_étnicos
+9605194 Estados_mentales
 9605469 Futbolistas_de_la_ciudad_de_Mendoza
 9605493 Videojuegos_ambientados_en_Grecia
 9605583 Pilotos_de_motociclismo_del_Reino_Unido
@@ -44680,6 +44764,8 @@
 9620157 Fallecidos_por_pandemia_de_COVID-19_en_Colombia
 9620220 Bibliotecas_de_Argentina_del_siglo_XX
 9620418 Fallecidos_por_pandemia_de_COVID-19_en_España
+9620539 Fallecidos_en_Caracas
+9620663 Futbolistas_de_la_selección_de_fútbol_sub-18_de_Islandia
 9620672 Fallecidos_en_Pamplona
 9620710 Nacidos_en_Dalian
 9621116 MasterChef
@@ -44756,9 +44842,7 @@
 9625484 Nacidos_en_Urbino
 9625501 Fallecidos_en_Nashville
 9625505 Nacidos_en_Sajonia
-9625506 Nacidos_en_Turingia
 9625510 Nacidos_en_Kiel
-9625525 Nacidos_en_Brandeburgo
 9625527 Nacidos_en_Potsdam
 9625530 Nacidos_en_Cottbus
 9625534 Nacidos_en_Sajonia-Anhalt
@@ -44926,11 +45010,11 @@
 9645476 Fallecidos_en_Pensilvania
 9645545 Letras_georgianas
 9647099 Wikipedia:Títeres_bloqueados_de_Francisco_Javier_Montoya_Gomez
-9647536 Ex_on_the_Beach
 9647547 Pilotos_de_A1_Grand_Prix
 9647582 Jugadores_de_Las_Vegas_Raiders
 9648068 Estados_Unidos_en_2022
 9648387 Actrices_de_Míchigan
+9648704 Bizantinos_de_las_guerras_árabo-bizantinas
 9648871 Alumnado_de_Física_de_la_Universidad_de_Barcelona
 9648880 Fallecidos_en_Dublín
 9648892 Fallecidos_en_Stuttgart
@@ -44941,7 +45025,6 @@
 9650112 Arquitectura_postmoderna_en_Estados_Unidos
 9650218 Relieves
 9650351 Fallecidos_en_Monza
-9650404 Nacidos_en_Legnica
 9650727 Canales_y_estaciones_de_televisión_desaparecidos_en_2020
 9651004 Fallecidos_en_Glasgow
 9651019 Fallecidos_en_Normandía
@@ -45016,7 +45099,6 @@
 9667141 Programas_de_televisión_de_espectáculos_de_Argentina
 9667313 Medallistas_paralímpicos_de_plata_de_Hungría
 9667507 Fallecidos_en_New_Haven_(Connecticut)
-9667558 Fallecidos_en_Rávena
 9667613 Nacidos_en_Connecticut
 9667675 Nacidos_en_Des_Moines
 9667690 Nacidos_en_Iowa
@@ -45138,6 +45220,7 @@
 9695528 Fallecidos_en_Trieste
 9695535 Fallecidos_en_Montreal
 9695550 Fallecidos_en_Toronto
+9695552 Fallecidos_en_Ontario
 9695566 Fallecidos_en_Gdansk
 9695590 Fallecidos_en_Pekín
 9695934 Nacidos_en_Pasadena_(California)
@@ -45191,6 +45274,7 @@
 9709432 Actrices_de_Nueva_York
 9709489 Ganadores_del_Premio_Ciudad_de_Alcalá
 9710026 Deporte_en_Brasil_en_2021
+9710148 Alumnado_de_la_Universidad_de_Brighton
 9710376 Fallecidos_en_Liubliana
 9711223 Alumnado_de_la_Universidad_de_Newcastle_upon_Tyne
 9711486 Nacidos_en_Túnez_(ciudad)
@@ -45222,6 +45306,7 @@
 9715839 Películas_ambientadas_en_1999
 9716120 Crunchyroll
 9716368 Exploradores_del_Ártico_del_Reino_Unido_del_siglo_XIX
+9717378 Nacidos_en_Oregón
 9717513 Premiados_con_la_Gran_medalla_de_oro_de_las_exploraciones_y_viajes_de_descubrimiento
 9718511 Nacidos_en_Burriana
 9718966 Escuela_de_Chicago_(arquitectura)
@@ -45237,6 +45322,7 @@
 9721683 Alumnado_de_la_Universidad_Nueva_de_Lisboa
 9721912 Arácnidos_descritos_en_1977
 9722018 Escritores_de_Quito
+9722039 Software_con_licencia_GPL
 9722411 Videojuegos_con_motor_RenderWare
 9722565 Nacidos_en_Alcira
 9722792 Fallecidos_en_Lugano
@@ -45255,6 +45341,7 @@
 9728018 Nacidos_en_Ponferrada
 9728682 Actores_masculinos_de_Colombia
 9728686 Futbolistas_del_Fatih_Karagümrük_SK
+9728715 Nacidos_en_Jyväskylä
 9728825 Wikipedia:Userboxes_de_animé
 9728956 Futbolistas_del_Gaziantep_FK
 9729074 Futbolistas_del_VfB_Stuttgart_en_los_años_1990
@@ -45271,7 +45358,6 @@
 9732153 Futbolistas_del_VfB_Stuttgart_en_los_años_2020
 9732234 Wikipedia:Userboxes_de_ciudades
 9732732 Perú_en_2023
-9732840 Series_de_televisión_de_drama_de_Australia
 9732850 Parroquias_de_Friol
 9732917 Empresas_con_sede_en_Santiago_de_Chile
 9733176 Nacidos_en_Croacia
@@ -45298,7 +45384,6 @@
 9735164 Jinetes_en_los_Juegos_Olímpicos_de_Montreal_1976
 9735165 Jinetes_en_los_Juegos_Olímpicos_de_Múnich_1972
 9735421 Ganadores_del_Premio_Pulitzer_de_Música
-9736968 Maestros_de_capilla_de_España
 9737314 Obispos_católicos_del_siglo_XIX
 9737464 Fallecidos_en_2021
 9737922 Eclipses_solares_del_siglo_XXI
@@ -45324,7 +45409,6 @@
 9741111 Series_de_televisión_de_Star_TV_(Turquía)
 9741118 Series_de_televisión_de_Kanal_D
 9741562 Series_de_televisión_finalizadas_en_2021
-9741571 Programas_de_televisión_finalizados_en_2021
 9741573 Programas_de_televisión_iniciados_en_2021
 9741628 Nacidos_en_Valdepeñas_(Ciudad_Real)
 9741772 Fallecidos_en_Mendoza_(Argentina)
@@ -45401,6 +45485,7 @@
 9760987 Gabinete_de_Mauricio_Macri
 9761011 Premio_Iris_de_Uruguay
 9761064 Ciclismo_en_Francia_en_2021
+9761434 Series_de_televisión_de_France_3
 9761538 Anexos:Fútbol_de_Escocia
 9763305 Portal:OTAN
 9763522 Novelistas_de_México_del_siglo_XX
@@ -45774,6 +45859,7 @@
 9855174 Nacidos_en_Bolzano
 9855325 Nacidos_en_Umeå
 9855637 Wikiproyecto:Universidad_Nacional_Mayor_de_San_Marcos/Artículos
+9856223 Ministros_de_Trabajo_de_Colombia
 9856265 Temporadas_de_series_de_televisión_de_Japón_de_2021
 9856884 Nacidos_en_Osuna
 9856973 Gabinete_de_Juan_Domingo_Perón
@@ -45993,6 +46079,7 @@
 9922745 Leptogenys
 9922944 Alumnado_de_la_Universidad_de_Alabama
 9923025 Masacres_de_musulmanes
+9923060 Fallecidos_en_Cochabamba
 9923321 Actrices_de_Connecticut
 9924150 Actrices_de_Illinois
 9924361 Aeronaves_de_Miles
@@ -46187,6 +46274,7 @@
 9966232 Canciones_de_art_rock
 9966342 Fallecidos_en_San_Luis_(Misuri)
 9966693 Jinetes_en_los_Juegos_Olímpicos_de_Tokio_2020
+9967177 Series_de_televisión_de_TBS
 9967228 Pintores_prerrafaelitas
 9967796 Nacidos_en_Mülheim_an_der_Ruhr
 9968122 Luchadores_de_la_NJPW
@@ -46441,6 +46529,8 @@
 10017581 Carreras_del_UCI_Europe_Tour_en_Italia
 10017702 Nacidos_en_Medellín
 10017745 Nacidos_en_Cortrique
+10018262 Patricii
+10018275 Gobernadores_bizantinos
 10018478 Hell's_Kitchen_(Manhattan)
 10019053 Administración_Bush
 10019059 Controversias_de_la_administración_Bush
@@ -46462,7 +46552,9 @@
 10022743 Eventos_de_salud_pública_en_curso
 10023633 Futbolistas_de_Primera_División_de_Perú
 10023958 Platos_con_pan
+10024577 Videojuegos_con_música_de_David_Wise
 10026417 Videojuegos_publicados_comercialmente_con_DOSBox
+10026692 Nacidos_en_Caracas
 10027932 Marcas_israelíes
 10027947 Videojuegos_ambientados_en_Florida
 10029809 Funimation
@@ -46604,6 +46696,7 @@
 10072157 Baloncestistas_de_los_Motor_City_Cruise
 10072191 Héroes_extraterrestres_de_Marvel_Comics
 10072471 Villanos_extraterrestres_de_Marvel_Comics
+10074548 Baloncestistas_de_los_Cleveland_Charge
 10075750 Empresas_de_tuning
 10076035 Afroestadounidenses_del_siglo_XXI
 10076037 Afroestadounidenses_del_siglo_XX
@@ -46724,6 +46817,7 @@
 10114373 Personajes_femeninos_en_anime_y_manga
 10114708 Orquestas_sinfónicas_de_España
 10114764 Orquestas_sinfónicas_de_Estados_Unidos
+10114868 Fútbol_en_2025
 10115869 Películas_con_temática_LGBT_de_2021
 10115879 Películas_con_temática_LGBT_de_2020
 10115928 Películas_con_temática_LGBT_de_2019
@@ -46764,7 +46858,6 @@
 10123406 Películas_de_Italia_presentadas_para_el_Óscar_a_la_mejor_película_internacional
 10123409 Videojuegos_de_extraterrestres
 10123681 Series_de_televisión_finalizadas_en_2022
-10123682 Programas_de_televisión_finalizados_en_2022
 10123726 Remeros_de_Checoslovaquia
 10123967 Anthaxia
 10123974 Canciones_de_2022
@@ -47025,6 +47118,7 @@
 10181944 Pilotos_de_bobsleigh_en_los_Juegos_Olímpicos_de_Garmisch-Partenkirchen_1936
 10182165 Legislaturas_del_Congreso_del_Estado_de_Campeche
 10182732 Nacidos_en_Narbona
+10183086 Nacidos_en_Baden-Baden
 10183317 Localidades_del_distrito_de_Edineț
 10183339 Elecciones_de_México_de_2024
 10183527 Videojuegos_multijugador_en_pantalla_dividida
@@ -47421,6 +47515,8 @@
 10288013 Arcos_y_puertas_con_escudos
 10288047 Arcos_y_puertas_con_esculturas
 10288382 Colobothea
+10288488 Nacidos_en_Puerto_España
+10288772 Eodorcadion
 10289402 Sobrevivientes_del_campo_de_concentración_de_Auschwitz
 10289481 Vehículos_de_tracción_trasera
 10289495 Exocentrus
@@ -47439,6 +47535,7 @@
 10292720 Ría_de_Bilbao
 10292724 Nacidos_en_Mexicali
 10292738 Nacidos_en_Córdoba_(México)
+10292835 Columnistas_de_Estados_Unidos
 10292959 Guaranismos
 10293240 Olenecamptus
 10293711 Conflicto_armado_interno_de_Perú
@@ -47457,6 +47554,8 @@
 10299566 Puntos_más_altos_de_los_países_de_América
 10299642 Barcos_construidos_en_Pascagoula_(Misisipi)
 10299645 Barcos_construidos_en_Bath_(Maine)
+10299698 Barcos_construidos_en_Belfast
+10299706 Barcos_construidos_en_el_río_Tyne
 10299716 Barcos_construidos_en_Newport_News_(Virginia)
 10300280 Ochthebius
 10300857 Futbolistas_del_Tlaxcala_Fútbol_Club
@@ -47466,6 +47565,7 @@
 10302385 Personas_de_género_fluido
 10303134 Subsecretarios_de_la_Presidencia_(España)
 10304305 Giras_musicales_de_2023
+10304517 LGBT_en_2019
 10304524 Temporadas_de_Regional_Preferente_de_La_Rioja
 10304527 LGBT_en_2012
 10304532 LGBT_en_2014
@@ -47500,6 +47600,7 @@
 10315279 Candidatos_al_Premio_Luces
 10317001 Países_en_los_Juegos_Europeos_de_Cracovia_2023
 10317900 Voleibol_en_2023
+10318832 Nacidos_en_Grasse
 10319788 Stigmatomma
 10319958 Fútbol_en_Argentina_en_2023
 10319959 Deporte_en_Argentina_en_2023
@@ -47589,7 +47690,6 @@
 10342502 Remeros_de_Estados_Unidos_en_los_Juegos_Olímpicos_de_Tokio_2020
 10342511 Remeros_de_Australia_en_los_Juegos_Olímpicos_de_Tokio_2020
 10342710 Nacidos_en_Springfield_(Massachusetts)
-10342826 Futbolistas_de_la_selección_de_fútbol_sub-17_de_Argentina
 10342920 Nacidos_en_Saint-Malo
 10343035 Medallistas_olímpicos_de_oro_de_la_República_Popular_China
 10343036 Medallistas_olímpicos_de_plata_de_la_República_Popular_China
@@ -47634,6 +47734,7 @@
 10350835 Cultura_LGBT_en_España
 10351243 Representaciones_culturales_de_Napoleón_Bonaparte
 10351571 Concursos_de_belleza_en_2023
+10351766 Nacidos_en_Oldham
 10351828 Ciruelas_de_Inglaterra
 10352625 Fútbol_playa_en_Brasil
 10352929 Futbolistas_del_Club_de_Deportes_Recoleta_en_los_años_2020
@@ -47755,6 +47856,7 @@
 10392432 Dick's_Picks_(serie)
 10392596 Músicos_LGBT_de_Estados_Unidos
 10392787 Personas_LGBT_del_siglo_XXI
+10392999 Bactra
 10393296 Federación_Internacional_del_Automóvil
 10393557 Cantantes_LGBT_de_Estados_Unidos
 10393621 Consortes_de_sultanes_otomanos
@@ -47884,7 +47986,7 @@
 10423432 Nacidos_en_Celaya
 10423435 Nacidos_en_Pachuca_de_Soto
 10423578 Nacidos_en_Chetumal
-10424121 Programas_de_televisión_finalizados_en_2023
+10423596 Nacidos_en_Sucre
 10424397 Exluchadores_de_NJPW
 10424714 Deportistas_en_los_Juegos_Asiáticos_de_1986
 10424884 Irredentismo_ruso
@@ -48102,6 +48204,7 @@
 10484438 Aves_descritas_en_1758
 10484529 Lugares_poblados_en_Kladanj
 10485536 Remeros_de_Suecia
+10486226 Remeros_de_los_Países_Bajos_en_los_Juegos_Olímpicos_de_Atlanta_1996
 10486506 Menesia
 10487196 Cantantes_femeninas_del_País_Vasco
 10487801 Patinadoras_de_velocidad
@@ -48116,7 +48219,6 @@
 10489355 Baloncestistas_de_Castilla_y_León
 10489431 Wikipedia:Títeres_bloqueados_de_Jonh92
 10490189 Santos_luteranos
-10490262 Pentatletas_modernos
 10490315 Nacidos_en_Cochabamba
 10490502 Ganadores_del_Crunchyroll_Anime_Awards
 10490721 Nacidos_en_el_Tirol_(Austria)
@@ -48132,6 +48234,7 @@
 10493143 Remeros_de_Alemania_en_los_Juegos_Olímpicos_de_Atlanta_1996
 10493390 Nacidos_en_Beauvais
 10494175 Tiradoras
+10494688 Nacidos_en_Granada_(Nicaragua)
 10494717 Fútbol_femenino_en_2024
 10494741 Luchadoras_profesionales_de_Estados_Unidos
 10496238 Nacidos_en_Saint-Germain-en-Laye
@@ -48372,6 +48475,7 @@
 10602081 Wikipedia:Títeres_bloqueados_de_Spivaw
 10602923 Músicos_de_Estados_Unidos_del_siglo_XXI
 10602933 Cantantes_femeninas_de_Estados_Unidos_del_siglo_XXI
+10602941 Cantantes_de_Estados_Unidos_del_siglo_XXI
 10603758 Sitios_web_fundados_en_2005
 10603812 Actores_masculinos_de_Inglaterra_del_siglo_XXI
 10604252 Actores_masculinos_de_cine_de_Inglaterra
@@ -48468,6 +48572,7 @@
 10627059 Memoria_histórica_de_la_guerra_civil_española_y_de_la_dictadura_franquista_en_Francia
 10627294 Nacidos_en_Corrientes_(ciudad)
 10628309 Campeones_del_TNA/Impact_X_Division_Championship
+10630264 Series_de_televisión_de_YTV
 10630611 Localidades_de_Couva-Tabaquite-Talparo
 10630629 Localidades_de_Diego_Martín
 10630705 Temporadas_de_series_de_televisión_de_Japón_de_2022
@@ -48478,8 +48583,10 @@
 10633160 Guardametas_de_fútbol_de_Italia
 10633163 Guardametas_de_fútbol_de_Bélgica
 10633166 Guardametas_de_fútbol_de_Polonia
+10633167 Guardametas_de_fútbol_de_Suiza
 10633172 Guardametas_de_fútbol_de_Japón
 10633337 Temporada_2024_de_fútbol_en_Chile
+10633601 Programas_de_televisión_de_PBS
 10633746 Pilotos_de_Fórmula_BMW
 10633780 Guardametas_de_fútbol_de_Alemania
 10633801 Guardametas_de_fútbol_de_Suecia
@@ -48498,6 +48605,7 @@
 10634048 Futbolistas_del_Club_León_en_los_años_1990
 10634095 Futbolistas_de_los_Tigres_de_la_UANL_en_los_años_1990
 10634360 Consonantes_eyectivas
+10634556 Guardametas_de_fútbol_de_Ucrania
 10634628 Guardametas_de_fútbol_de_Rusia
 10634956 Guardametas_de_fútbol_de_Francia
 10635224 Nacidos_en_el_Callao
@@ -48517,6 +48625,7 @@
 10638981 Familia_Errázuriz
 10638987 Familia_Larraín
 10639334 Guardametas_de_fútbol_de_Argentina
+10640182 Guardametas_de_fútbol_de_Irán
 10640541 Familia_Vial
 10641409 Nacidos_en_Merseburg
 10642722 Terminología_paranormal
@@ -48613,6 +48722,8 @@
 10673097 Taxones_descritos_por_Henry_Frederick_Strohecker
 10673193 Políticos_asesinados_de_la_Antigua_Roma
 10673806 Taxones_descritos_por_Henry_Stephen_Gorham
+10675524 Participantes_en_Eurovisión_2024
+10677281 Series_de_televisión_de_Corea_del_Sur_finalizadas_en_2024
 10677573 Taxones_descritos_por_Norman_I._Platnick
 10678943 Películas_sobre_automóviles
 10680996 Familia_Pinto_(Chile)
@@ -48658,6 +48769,7 @@
 10696520 Taxones_descritos_por_Ermanno_Giglio-Tos
 10697381 Futbolistas_de_la_Copa_Africana_de_Naciones_1986
 10697736 Lenguas_amenazadas_de_América
+10697743 Álbumes_de_2024
 10698184 Taxones_descritos_por_Morgan_Hebard
 10698990 Baloncestistas_serbios_en_la_NBA
 10699266 Personas_no_binarias_de_Estados_Unidos
@@ -48770,6 +48882,7 @@
 10754601 Taxones_descritos_por_Ernst_Ahl
 10754948 Wikipedia:Encuentros_en_2024
 10755465 Empresas_estatales_desaparecidas_de_Argentina
+10755874 Lugares_poblados_en_Jajce
 10756012 Nacidos_en_Villarrica_(Paraguay)
 10756019 Guaireños_(Venezuela)
 10756290 Futbolistas_del_Club_Atlético_de_San_Luis_en_los_años_2020
@@ -48787,6 +48900,7 @@
 10758622 Futbolistas_del_Club_Santos_Laguna_en_los_años_2010
 10758623 Futbolistas_del_Club_Santos_Laguna_en_los_años_2000
 10758625 Futbolistas_del_Club_Santos_Laguna_en_los_años_1990
+10759552 Sencillos_de_2024
 10759898 Wikipedia:Votaciones_2024
 10760189 Presidentes_de_Perú_nacidos_en_provincia
 10760355 Buques_hundidos_por_explosiones_internas_no_relacionadas_con_el_combate
@@ -48813,6 +48927,7 @@
 10766129 Nacidos_en_Morón_(Argentina)
 10766350 Taxones_descritos_por_Zoltán_Kaszab
 10767230 Gestión_de_claves
+10769020 Bacterias_descritas_en_2013
 10769025 Bacterias_descritas_en_2016
 10769070 Políticos_de_Colombia_en_el_Siglo_XIX
 10769094 Militares_de_Colombia_del_siglo_XIX
@@ -48826,11 +48941,14 @@
 10769648 Despoblados_de_Vitoria
 10769995 Senadores_de_Colombia_en_el_Siglo_XIX
 10770345 Esculturas_en_mármol_de_Gian_Lorenzo_Bernini
+10771101 Físicos_de_Estados_Unidos_del_siglo_XX
+10771109 Físicos_de_Estados_Unidos_del_siglo_XXI
 10771126 Miembros_de_la_Sociedad_Estadounidense_de_Física
 10771441 Personas_con_esclerosis_múltiple
 10772204 Nacidos_en_Bahía_Blanca
 10772781 Inocuidad_alimentaria
 10772838 Nacidos_en_San_Isidro_(Buenos_Aires)
+10772903 Xixuthrus
 10772921 Nacidos_en_Mérida_(Venezuela)
 10773517 Taxones_descritos_por_William_Sharp_Macleay
 10773706 Nacidos_en_Lanús
@@ -48898,9 +49016,11 @@
 10790775 Delanteros_de_fútbol_de_Costa_Rica
 10791334 Taxones_descritos_por_Robert_Walter_Campbell_Shelford
 10791843 Miembros_de_la_Acción_Católica_Argentina
+10791879 Masacres_que_involucran_a_policías_o_fuerzas_de_seguridad
 10792132 Nacidos_en_Lomas_de_Zamora
 10793134 Defensas_de_fútbol_de_México
 10794016 Tratados_de_Bahamas
+10795266 Políticas_del_Partido_Peronista_Femenino
 10795816 Nacidos_en_San_Fernando_(Buenos_Aires)
 10795930 Futbolistas_del_Puntarenas_Fútbol_Club_en_los_años_2020
 10796023 Crímenes_de_guerra_de_Israel
@@ -48936,21 +49056,28 @@
 10807244 Futbolistas_de_Argentina_de_la_FA_Premier_League
 10807279 Futbolistas_de_Inglaterra_de_la_FA_Premier_League
 10807281 Futbolistas_de_Brasil_de_la_FA_Premier_League
+10807300 Futbolistas_de_Bélgica_de_la_FA_Premier_League
+10807341 Futbolistas_de_Irlanda_de_la_FA_Premier_League
+10807394 Futbolistas_de_Costa_de_Marfil_de_la_FA_Premier_League
 10807829 Miembros_de_la_Cámara_de_Representantes_de_Colombia_en_el_siglo_XX
 10807838 Miembros_de_la_Cámara_de_Representantes_de_Colombia_por_Antioquia
 10808318 Senadores_de_Colombia_en_el_Siglo_XX
 10808557 Lycidae
 10808644 Escudos_departamentales_de_Colombia
 10808812 Nacidos_en_Posadas
-10808857 Cantantes_de_latin_pop
 10808906 Antisionistas_de_Estados_Unidos
 10809106 Futbolistas_de_Navarra_de_la_Primera_División_de_España
+10809111 Futbolistas_de_la_Primera_División_de_España
 10809554 Futbolistas_de_Francia_de_la_Primera_División_de_España
 10809606 Futbolistas_de_la_Comunidad_de_Madrid_de_la_Primera_División_de_España
 10809628 Futbolistas_de_Argentina_de_la_Primera_División_de_España
+10809976 Futbolistas_de_Uruguay_de_la_Primera_División_de_España
 10809981 Futbolistas_de_Brasil_de_la_Primera_División_de_España
 10810026 Futbolistas_de_Asturias_de_la_Primera_División_de_España
 10810226 Futbolistas_de_Portugal_de_la_Primera_División_de_España
+10810242 Futbolistas_de_Serbia_de_la_Primera_División_de_España
+10810364 Futbolistas_de_Marruecos_de_la_Primera_División_de_España
+10810419 Futbolistas_de_la_Región_de_Murcia_de_la_Primera_División_de_España
 10810904 Futbolistas_de_los_Países_Bajos_de_la_Primera_División_de_España
 10810948 Futbolistas_de_Ghana_de_la_Primera_División_de_España
 10811393 Futbolistas_de_Alemania_de_la_Primera_División_de_España
@@ -48962,4 +49089,29 @@
 10815338 Futbolistas_de_la_provincia_de_Gerona_de_la_Primera_División_de_España
 10815347 Futbolistas_de_Vizcaya_de_la_Primera_División_de_España
 10815352 Futbolistas_de_Guipúzcoa_de_la_Primera_División_de_España
+10816383 Endothenia
+10816389 Cryptaspasma
+10816394 Neocalyptis
+10816407 Phalonidia
+10816696 Futbolistas_de_la_provincia_de_Sevilla_de_la_Primera_División_de_España
+10816717 Futbolistas_de_la_provincia_de_Ciudad_Real_de_la_Primera_División_de_España
 10816731 Futbolistas_de_la_provincia_de_Valencia_de_la_Primera_División_de_España
+10816735 Futbolistas_de_la_provincia_de_Alicante_de_la_Primera_División_de_España
+10822875 Nacidos_en_Tarija
+10823669 Listas_léxicas_sobre_el_idioma_español
+10824428 Nacidos_en_Oruro
+10824916 Nacidos_en_San_Martín_(Buenos_Aires)
+10825141 Nacidos_en_Potosí
+10825352 Bizantinos_ejecutados
+10826062 Fallecidos_en_Rávena
+10826275 Críticos_literarios_del_Reino_Unido
+10826326 Nacidos_en_Villa_Mercedes_(San_Luis)
+10826372 Nacidos_en_Haedo
+10826391 Antropólogas_de_Argentina
+10827437 Películas_de_Perú_de_los_años_2020
+10827439 Películas_de_Perú_de_los_años_2010
+10827448 Películas_de_Perú_de_los_años_2000
+10829649 Localidades_del_distrito_de_Anse_La_Raye
+10830226 Guardametas_del_Real_Club_Deportivo_Mallorca
+10831907 Personalidades_del_ecumenismo
+10832963 Doctores_honorarios_de_la_HEC_Paris

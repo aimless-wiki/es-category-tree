@@ -1,1 +1,1 @@
-{"name": "Alcaloides", "id": 52203, "predecessors": [{"name": "Biomoléculas", "id": 51802}, {"name": "Metabolismo", "id": 214309}, {"name": "Compuestos_de_nitrógeno", "id": 2528656}, {"name": "Adicciones", "id": 2117673}], "successors": []}
+{"name": "Alcaloides", "id": 52203, "predecessors": [{"name": "Metabolismo_del_nitrógeno", "id": 2383553}, {"name": "Biomoléculas", "id": 51802}, {"name": "Compuestos_de_nitrógeno", "id": 2528656}, {"name": "Adicciones", "id": 2117673}], "successors": []}

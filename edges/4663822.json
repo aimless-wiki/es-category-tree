@@ -1,1 +1,1 @@
-{"name": "Películas_censuradas", "id": 4663822, "predecessors": [{"name": "Censura", "id": 1521457}, {"name": "Cine", "id": 50592}], "successors": []}
+{"name": "Películas_censuradas", "id": 4663822, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Censura", "id": 1521457}], "successors": []}

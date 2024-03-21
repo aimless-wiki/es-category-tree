@@ -1,1 +1,1 @@
-{"name": "Platos_con_tomate", "id": 9957061, "predecessors": [{"name": "Frutas", "id": 51203}, {"name": "Agricultura_mesoamericana", "id": 353328}], "successors": []}
+{"name": "Platos_con_tomate", "id": 9957061, "predecessors": [{"name": "Frutas", "id": 51203}, {"name": "Agricultura_mesoamericana", "id": 353328}], "successors": [{"name": "Pizza", "id": 4129047}]}
