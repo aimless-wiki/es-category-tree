@@ -1,1 +1,1 @@
-{"name": "Familias_de_Lepidoptera", "id": 9089034, "predecessors": [{"name": "Familias_de_insectos", "id": 8422167}, {"name": "Lepidoptera", "id": 335156}], "successors": []}
+{"name": "Familias_de_Lepidoptera", "id": 9089034, "predecessors": [{"name": "Lepidoptera", "id": 335156}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Illiberis", "id": 9892815}, {"name": "Acropteris", "id": 9897939}, {"name": "Artona", "id": 9888950}, {"name": "Saliunca", "id": 9891194}, {"name": "Clelea", "id": 9892250}]}

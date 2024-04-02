@@ -1,1 +1,1 @@
-{"name": "Fiat_Group", "id": 3191153, "predecessors": [{"name": "Empresas_de_Italia", "id": 141198}, {"name": "Empresas_multinacionales", "id": 559459}, {"name": "Empresas", "id": 62409}], "successors": [{"name": "Iveco", "id": 1581099}, {"name": "Modelos_de_AMC", "id": 4440976}]}
+{"name": "Fiat_Group", "id": 3191153, "predecessors": [{"name": "Empresas_de_Italia", "id": 141198}, {"name": "Empresas_multinacionales", "id": 559459}, {"name": "Empresas", "id": 62409}], "successors": [{"name": "Iveco", "id": 1581099}]}
