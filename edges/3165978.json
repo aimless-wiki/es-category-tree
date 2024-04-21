@@ -1,1 +1,1 @@
-{"name": "Voluntariado", "id": 3165978, "predecessors": [{"name": "Organizaciones", "id": 93348}, {"name": "Teorías_éticas", "id": 5076684}, {"name": "Conceptos_de_ética", "id": 6124901}], "successors": [{"name": "Cruz_Roja", "id": 289000}, {"name": "Bomberos_de_Chile", "id": 1335628}]}
+{"name": "Voluntariado", "id": 3165978, "predecessors": [{"name": "Administración", "id": 3417332}, {"name": "Teorías_éticas", "id": 5076684}, {"name": "Conceptos_de_ética", "id": 6124901}], "successors": [{"name": "Cruz_Roja", "id": 289000}, {"name": "Bomberos_de_Chile", "id": 1335628}]}

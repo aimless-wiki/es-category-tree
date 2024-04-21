@@ -1,1 +1,1 @@
-{"name": "Misioneros_católicos", "id": 4401646, "predecessors": [{"name": "Activistas_católicos", "id": 4708249}, {"name": "Cristianismo", "id": 51116}, {"name": "Eclesiología", "id": 531663}], "successors": [{"name": "Misioneros_católicos_en_China", "id": 4989435}]}
+{"name": "Misioneros_católicos", "id": 4401646, "predecessors": [{"name": "Activistas_católicos", "id": 4708249}, {"name": "Cristianismo", "id": 51116}, {"name": "Iglesia_católica", "id": 55670}], "successors": [{"name": "Misioneros_católicos_en_China", "id": 4989435}]}

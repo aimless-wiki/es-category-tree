@@ -1,1 +1,1 @@
-{"name": "Agentes_secretos_ficticios", "id": 5508395, "predecessors": [{"name": "Espionaje", "id": 118967}], "successors": [{"name": "Ninjas_en_la_ficción", "id": 8881350}, {"name": "Historietas_de_Mortadelo_y_Filemón", "id": 2506627}]}
+{"name": "Agentes_secretos_ficticios", "id": 5508395, "predecessors": [{"name": "Espionaje", "id": 118967}, {"name": "Organizaciones_ficticias", "id": 343338}], "successors": [{"name": "Ninjas_en_la_ficción", "id": 8881350}, {"name": "Historietas_de_Mortadelo_y_Filemón", "id": 2506627}]}
