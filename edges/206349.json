@@ -1,1 +1,1 @@
-{"name": "Sopas", "id": 206349, "predecessors": [{"name": "Alimentos", "id": 51176}], "successors": [{"name": "Sopas_y_estofados_de_Corea", "id": 2567407}, {"name": "Sopas_de_China", "id": 2894243}, {"name": "Sopas_de_Perú", "id": 3204432}, {"name": "Sopas_y_estofados_de_España", "id": 4203235}]}
+{"name": "Sopas", "id": 206349, "predecessors": [{"name": "Gastronomía", "id": 51198}], "successors": []}

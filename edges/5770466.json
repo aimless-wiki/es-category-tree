@@ -1,1 +1,1 @@
-{"name": "Platos_de_verdura", "id": 5770466, "predecessors": [{"name": "Verduras", "id": 133676}, {"name": "Hogar", "id": 106882}], "successors": [{"name": "Platos_con_berenjena", "id": 4215107}]}
+{"name": "Platos_de_verdura", "id": 5770466, "predecessors": [{"name": "Verduras", "id": 133676}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Platos_con_berenjena", "id": 4215107}]}

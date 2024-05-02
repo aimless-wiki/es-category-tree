@@ -1,1 +1,1 @@
-{"name": "Franquicias_de_comida_rápida", "id": 2522119, "predecessors": [{"name": "Comida_rápida", "id": 266796}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": []}
+{"name": "Franquicias_de_comida_rápida", "id": 2522119, "predecessors": [{"name": "Comida_rápida", "id": 266796}, {"name": "Industria", "id": 70145}, {"name": "Marcas_comerciales", "id": 1188838}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Salsas", "id": 72429, "predecessors": [{"name": "Condimentos", "id": 1909115}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Salsas_picantes", "id": 864411}, {"name": "Salsas_de_España", "id": 864388}, {"name": "Salsas_de_Francia", "id": 864390}]}
+{"name": "Salsas", "id": 72429, "predecessors": [{"name": "Condimentos", "id": 1909115}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Gemas", "id": 2945498, "predecessors": [{"name": "Joyería", "id": 87932}, {"name": "Minerales", "id": 1132313}, {"name": "Talla_de_piedra", "id": 7620472}, {"name": "Ingreso", "id": 3055537}, {"name": "Geología", "id": 50639}], "successors": [{"name": "Cuarzo", "id": 3541926}]}
+{"name": "Gemas", "id": 2945498, "predecessors": [{"name": "Joyería", "id": 87932}, {"name": "Minerales", "id": 1132313}, {"name": "Ingreso", "id": 3055537}, {"name": "Artes_decorativas", "id": 4065301}, {"name": "Geología", "id": 50639}], "successors": [{"name": "Cuarzo", "id": 3541926}]}

@@ -1,1 +1,1 @@
-{"name": "Islas_disputadas_en_Asia", "id": 6919923, "predecessors": [{"name": "Territorios_disputados_en_Asia", "id": 6917377}, {"name": "Diplomacia", "id": 55419}], "successors": [{"name": "Islas_Spratly", "id": 4014221}]}
+{"name": "Islas_disputadas_en_Asia", "id": 6919923, "predecessors": [{"name": "Diplomacia", "id": 55419}, {"name": "Geografía", "id": 50649}], "successors": [{"name": "Islas_Spratly", "id": 4014221}]}

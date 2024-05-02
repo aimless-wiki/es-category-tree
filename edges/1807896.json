@@ -1,1 +1,1 @@
-{"name": "Sondas_espaciales_de_la_Luna", "id": 1807896, "predecessors": [{"name": "Exploración_de_la_Luna", "id": 1061803}, {"name": "Sondas_espaciales", "id": 926482}, {"name": "Luna", "id": 309363}], "successors": []}
+{"name": "Sondas_espaciales_de_la_Luna", "id": 1807896, "predecessors": [{"name": "Exploración_de_la_Luna", "id": 1061803}, {"name": "Misiones_a_la_Luna", "id": 10862681}, {"name": "Sondas_espaciales", "id": 926482}, {"name": "Luna", "id": 309363}], "successors": []}
