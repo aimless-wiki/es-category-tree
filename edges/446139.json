@@ -1,1 +1,1 @@
-{"name": "Antenas", "id": 446139, "predecessors": [{"name": "Radiodifusión", "id": 1009319}, {"name": "Aparatos_electrónicos", "id": 667955}, {"name": "Ingeniería", "id": 65205}, {"name": "Radio", "id": 127481}], "successors": []}
+{"name": "Antenas", "id": 446139, "predecessors": [{"name": "Radiodifusión", "id": 1009319}, {"name": "Telecomunicaciones", "id": 52300}, {"name": "Aparatos_electrónicos", "id": 667955}, {"name": "Radio", "id": 127481}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Minerales_de_aluminio", "id": 1824822, "predecessors": [{"name": "Minerales", "id": 1132313}, {"name": "Edad_Contemporánea", "id": 441788}], "successors": [{"name": "Zeolitas", "id": 7822891}]}
+{"name": "Minerales_de_aluminio", "id": 1824822, "predecessors": [{"name": "Minerales", "id": 1132313}, {"name": "Química", "id": 50641}], "successors": [{"name": "Zeolitas", "id": 7822891}]}

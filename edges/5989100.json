@@ -1,1 +1,1 @@
-{"name": "Ingeniería_de_la_edificación", "id": 5989100, "predecessors": [{"name": "Arquitectura", "id": 50594}, {"name": "Ingeniería", "id": 65205}], "successors": [{"name": "Elementos_estructurales", "id": 731448}, {"name": "Cubiertas", "id": 8870640}]}
+{"name": "Ingeniería_de_la_edificación", "id": 5989100, "predecessors": [{"name": "Arquitectura", "id": 50594}], "successors": [{"name": "Elementos_estructurales", "id": 731448}, {"name": "Cubiertas", "id": 8870640}]}

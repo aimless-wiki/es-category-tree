@@ -1,1 +1,1 @@
-{"name": "Experimentos_físicos", "id": 211408, "predecessors": [{"name": "Historia_de_la_física", "id": 211411}, {"name": "Exámenes_y_pruebas", "id": 5069425}], "successors": [{"name": "Paradojas_físicas", "id": 3330655}]}
+{"name": "Experimentos_físicos", "id": 211408, "predecessors": [{"name": "Historia_de_la_física", "id": 211411}, {"name": "Física", "id": 50638}, {"name": "Exámenes_y_pruebas", "id": 5069425}], "successors": [{"name": "Paradojas_físicas", "id": 3330655}]}

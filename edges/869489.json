@@ -1,1 +1,1 @@
-{"name": "Fenómenos_astronómicos", "id": 869489, "predecessors": [{"name": "Academia", "id": 1704568}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Eclipses_de_luna", "id": 1980383}]}
+{"name": "Fenómenos_astronómicos", "id": 869489, "predecessors": [{"name": "Academia", "id": 1704568}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Fenómenos_solares", "id": 10883375}, {"name": "Eclipses_de_luna", "id": 1980383}]}

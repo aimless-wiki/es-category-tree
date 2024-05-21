@@ -1,1 +1,1 @@
-{"name": "Terminología_electrónica", "id": 3020114, "predecessors": [{"name": "Terminología", "id": 1036234}, {"name": "Tecnología", "id": 50822}], "successors": [{"name": "Circuitos_integrados", "id": 1054324}, {"name": "Conceptos_electrónicos", "id": 8807372}]}
+{"name": "Terminología_electrónica", "id": 3020114, "predecessors": [{"name": "Terminología", "id": 1036234}, {"name": "Electromagnetismo", "id": 68082}], "successors": [{"name": "Circuitos_integrados", "id": 1054324}, {"name": "Conceptos_electrónicos", "id": 8807372}]}

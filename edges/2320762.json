@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_azufre", "id": 2320762, "predecessors": [{"name": "Elementos_químicos", "id": 74308}], "successors": [{"name": "Sulfatos", "id": 329969}, {"name": "Sulfuros", "id": 1654223}]}
+{"name": "Compuestos_de_azufre", "id": 2320762, "predecessors": [{"name": "Elementos_químicos", "id": 74308}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Sulfatos", "id": 329969}, {"name": "Sulfuros", "id": 1654223}]}

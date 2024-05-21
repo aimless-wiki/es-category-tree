@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_fósforo", "id": 2320739, "predecessors": [{"name": "Biomoléculas", "id": 51802}], "successors": [{"name": "Fosfonatos", "id": 758687}, {"name": "Organofosfatos", "id": 1190001}, {"name": "Minerales_fosfatos", "id": 4641673}]}
+{"name": "Compuestos_de_fósforo", "id": 2320739, "predecessors": [{"name": "Compuestos_químicos", "id": 112512}, {"name": "Biomoléculas", "id": 51802}], "successors": [{"name": "Fosfonatos", "id": 758687}, {"name": "Organofosfatos", "id": 1190001}, {"name": "Minerales_fosfatos", "id": 4641673}]}

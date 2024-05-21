@@ -1,1 +1,1 @@
-{"name": "Aves_de_ficción", "id": 2589905, "predecessors": [{"name": "Fósiles", "id": 554861}, {"name": "Animales_de_ficción", "id": 340643}], "successors": [{"name": "Películas_sobre_aves", "id": 5011622}]}
+{"name": "Aves_de_ficción", "id": 2589905, "predecessors": [{"name": "Animales", "id": 55378}, {"name": "Animales_de_ficción", "id": 340643}], "successors": [{"name": "Películas_sobre_aves", "id": 5011622}]}
