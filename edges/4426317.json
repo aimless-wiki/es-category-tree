@@ -1,1 +1,1 @@
-{"name": "Cantantes_de_zarzuela", "id": 4426317, "predecessors": [{"name": "Géneros_musicales", "id": 116276}, {"name": "Artes_escénicas", "id": 55382}], "successors": []}
+{"name": "Cantantes_de_zarzuela", "id": 4426317, "predecessors": [{"name": "Músicos", "id": 53131}, {"name": "Géneros_musicales", "id": 116276}], "successors": []}

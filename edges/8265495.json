@@ -1,1 +1,1 @@
-{"name": "Humanoides_ficticios", "id": 8265495, "predecessors": [{"name": "Folclore", "id": 72433}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Criaturas_humanoides", "id": 758255}, {"name": "Brujos_ficticios", "id": 1871567}, {"name": "Kryptonianos", "id": 9394047}]}
+{"name": "Humanoides_ficticios", "id": 8265495, "predecessors": [{"name": "Folclore", "id": 72433}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Criaturas_humanoides", "id": 758255}, {"name": "Brujos_ficticios", "id": 1871567}, {"name": "Kryptonianos", "id": 9394047}]}

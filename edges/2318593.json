@@ -1,1 +1,1 @@
-{"name": "Compuestos_de_boro", "id": 2318593, "predecessors": [{"name": "Compuestos_químicos", "id": 112512}, {"name": "Química", "id": 50641}], "successors": [{"name": "Minerales_boratos", "id": 4642778}]}
+{"name": "Compuestos_de_boro", "id": 2318593, "predecessors": [{"name": "Cronología", "id": 407929}], "successors": [{"name": "Minerales_boratos", "id": 4642778}]}

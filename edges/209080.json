@@ -1,1 +1,1 @@
-{"name": "Carbón", "id": 209080, "predecessors": [{"name": "Combustibles_fósiles", "id": 54651}, {"name": "Rocas_sedimentarias", "id": 874080}, {"name": "Química", "id": 50641}], "successors": []}
+{"name": "Carbón", "id": 209080, "predecessors": [{"name": "Combustibles_fósiles", "id": 54651}, {"name": "Rocas_sedimentarias", "id": 874080}, {"name": "Biomoléculas", "id": 51802}], "successors": []}

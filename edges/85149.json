@@ -1,1 +1,1 @@
-{"name": "Física_nuclear_y_de_partículas", "id": 85149, "predecessors": [{"name": "Conocimiento", "id": 703218}, {"name": "Física", "id": 50638}], "successors": [{"name": "Física_atómica", "id": 369291}, {"name": "Física_de_partículas", "id": 710038}, {"name": "Física_nuclear", "id": 710042}]}
+{"name": "Física_nuclear_y_de_partículas", "id": 85149, "predecessors": [{"name": "Conocimiento", "id": 703218}], "successors": [{"name": "Física_atómica", "id": 369291}, {"name": "Física_de_partículas", "id": 710038}, {"name": "Física_nuclear", "id": 710042}]}

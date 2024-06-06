@@ -1,1 +1,1 @@
-{"name": "Procesos_de_separación", "id": 1826272, "predecessors": [{"name": "Técnicas_de_laboratorio", "id": 1828839}, {"name": "Procesos_termodinámicos", "id": 1074128}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Destilación", "id": 354946}]}
+{"name": "Procesos_de_separación", "id": 1826272, "predecessors": [{"name": "Ingeniería_química", "id": 319565}, {"name": "Técnicas_de_laboratorio", "id": 1828839}, {"name": "Procesos_termodinámicos", "id": 1074128}], "successors": [{"name": "Destilación", "id": 354946}]}

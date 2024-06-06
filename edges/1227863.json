@@ -1,1 +1,1 @@
-{"name": "Planetología", "id": 1227863, "predecessors": [{"name": "Academia", "id": 1704568}, {"name": "Física", "id": 50638}], "successors": [{"name": "Ciencias_de_la_Tierra", "id": 52306}, {"name": "Astrogeología", "id": 1227941}]}
+{"name": "Planetología", "id": 1227863, "predecessors": [{"name": "Academia", "id": 1704568}, {"name": "Ingeniería", "id": 65205}], "successors": [{"name": "Ciencias_de_la_Tierra", "id": 52306}, {"name": "Astrogeología", "id": 1227941}]}

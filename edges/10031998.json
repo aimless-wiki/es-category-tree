@@ -1,1 +1,1 @@
-{"name": "Crustáceos_comestibles", "id": 10031998, "predecessors": [{"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Arthropoda", "id": 601168}], "successors": [{"name": "Marisco", "id": 2045033}]}
+{"name": "Crustáceos_comestibles", "id": 10031998, "predecessors": [{"name": "Antropología", "id": 50642}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Marisco", "id": 2045033}]}

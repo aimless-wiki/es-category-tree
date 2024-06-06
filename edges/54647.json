@@ -1,1 +1,1 @@
-{"name": "Energías_renovables", "id": 54647, "predecessors": [{"name": "Energía", "id": 51341}, {"name": "Sostenibilidad", "id": 5347295}], "successors": [{"name": "Energía_solar", "id": 321818}, {"name": "Siemens_AG", "id": 3012787}]}
+{"name": "Energías_renovables", "id": 54647, "predecessors": [{"name": "Energía", "id": 51341}], "successors": [{"name": "Energía_solar", "id": 321818}, {"name": "Siemens_AG", "id": 3012787}]}

@@ -1,1 +1,1 @@
-{"name": "Gravedad", "id": 1851009, "predecessors": [{"name": "Fuerza", "id": 1850966}, {"name": "Mecánica_celeste", "id": 148979}, {"name": "Física", "id": 50638}], "successors": [{"name": "Gravedad_cuántica", "id": 3462703}, {"name": "Relatividad_general", "id": 165022}]}
+{"name": "Gravedad", "id": 1851009, "predecessors": [{"name": "Fuerza", "id": 1850966}, {"name": "Mecánica_celeste", "id": 148979}, {"name": "Ingeniería", "id": 65205}], "successors": [{"name": "Gravedad_cuántica", "id": 3462703}, {"name": "Relatividad_general", "id": 165022}]}

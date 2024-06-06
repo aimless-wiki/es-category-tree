@@ -1,1 +1,1 @@
-{"name": "Cometas", "id": 112422, "predecessors": [{"name": "Sistema_solar", "id": 723879}], "successors": [{"name": "Descubridores_de_cometas", "id": 2565796}]}
+{"name": "Cometas", "id": 112422, "predecessors": [{"name": "Sistema_solar", "id": 723879}], "successors": [{"name": "Descubridores_de_cometas", "id": 2565796}, {"name": "Cometas_periódicos", "id": 6311640}, {"name": "Cometas_no_periódicos", "id": 7706362}]}

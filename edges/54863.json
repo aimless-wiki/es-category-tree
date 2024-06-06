@@ -1,1 +1,1 @@
-{"name": "Química_orgánica", "id": 54863, "predecessors": [{"name": "Polímeros", "id": 208984}, {"name": "Química", "id": 50641}], "successors": [{"name": "Compuestos_orgánicos", "id": 209021}, {"name": "Reacciones_orgánicas", "id": 5258685}]}
+{"name": "Química_orgánica", "id": 54863, "predecessors": [{"name": "Polímeros", "id": 208984}, {"name": "Ingeniería_química", "id": 319565}], "successors": [{"name": "Compuestos_orgánicos", "id": 209021}, {"name": "Reacciones_orgánicas", "id": 5258685}]}

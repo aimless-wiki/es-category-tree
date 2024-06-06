@@ -1,1 +1,1 @@
-{"name": "Informática_cuántica", "id": 65818, "predecessors": [{"name": "Informática_teórica", "id": 375078}, {"name": "Mecánica_cuántica", "id": 75575}, {"name": "Virtualización", "id": 746202}], "successors": [{"name": "Información_cuántica", "id": 8811033}]}
+{"name": "Informática_cuántica", "id": 65818, "predecessors": [{"name": "Informática_teórica", "id": 375078}, {"name": "Virtualización", "id": 746202}], "successors": [{"name": "Información_cuántica", "id": 8811033}]}
