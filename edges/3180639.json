@@ -1,1 +1,1 @@
-{"name": "Terremotos_en_México", "id": 3180639, "predecessors": [{"name": "Desastres_naturales", "id": 166966}, {"name": "Geología", "id": 50639}, {"name": "Desastres", "id": 166962}, {"name": "Geografía_física", "id": 741956}], "successors": []}
+{"name": "Terremotos_en_México", "id": 3180639, "predecessors": [{"name": "Desastres_naturales_en_México", "id": 1688910}, {"name": "Desastres_naturales", "id": 166966}, {"name": "Geología", "id": 50639}, {"name": "Geografía_física", "id": 741956}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pintura_románica", "id": 1618660, "predecessors": [{"name": "Historia_de_la_pintura", "id": 257154}, {"name": "Arte_medieval", "id": 701130}, {"name": "Arte_cristiano", "id": 549036}], "successors": []}
+{"name": "Pintura_románica", "id": 1618660, "predecessors": [{"name": "Historia_de_la_pintura", "id": 257154}, {"name": "Cultura", "id": 51310}, {"name": "Arte_cristiano", "id": 549036}], "successors": []}
