@@ -1,1 +1,1 @@
-{"name": "Inmunoensayos", "id": 4760286, "predecessors": [{"name": "Inmunología", "id": 102552}], "successors": []}
+{"name": "Inmunoensayos", "id": 4760286, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Métodos_bioquímicos", "id": 1829825}, {"name": "Técnicas_de_laboratorio", "id": 1828839}], "successors": []}

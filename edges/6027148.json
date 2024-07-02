@@ -1,1 +1,1 @@
-{"name": "Casas_de_Chile", "id": 6027148, "predecessors": [{"name": "Arquitectura", "id": 50594}, {"name": "Casas", "id": 1412257}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Casas_de_Santiago_de_Chile", "id": 9009726}]}
+{"name": "Casas_de_Chile", "id": 6027148, "predecessors": [{"name": "Arquitectura_de_Chile", "id": 195708}, {"name": "Arquitectura", "id": 50594}, {"name": "Casas", "id": 1412257}], "successors": [{"name": "Casas_de_Santiago_de_Chile", "id": 9009726}]}

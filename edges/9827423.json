@@ -1,1 +1,1 @@
-{"name": "Empresas_minoristas_multinacionales", "id": 9827423, "predecessors": [{"name": "Distribución_comercial", "id": 81477}, {"name": "Empresas_multinacionales", "id": 559459}], "successors": []}
+{"name": "Empresas_minoristas_multinacionales", "id": 9827423, "predecessors": [{"name": "Venta_minorista", "id": 5892539}, {"name": "Empresas_multinacionales", "id": 559459}], "successors": []}
