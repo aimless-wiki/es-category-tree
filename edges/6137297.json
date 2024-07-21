@@ -1,1 +1,1 @@
-{"name": "Ingredientes_de_perfume", "id": 6137297, "predecessors": [{"name": "Perfumería", "id": 73678}, {"name": "Cosméticos", "id": 313878}], "successors": [{"name": "Aceite_esencial", "id": 899794}]}
+{"name": "Ingredientes_de_perfume", "id": 6137297, "predecessors": [{"name": "Perfumería", "id": 73678}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Aceite_esencial", "id": 899794}]}

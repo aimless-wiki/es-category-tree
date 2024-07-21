@@ -1,1 +1,1 @@
-{"name": "Escudos_con_torres", "id": 9069000, "predecessors": [{"name": "Escudos_con_edificios", "id": 9048366}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}, {"name": "Heráldica", "id": 76064}], "successors": []}
+{"name": "Escudos_con_torres", "id": 9069000, "predecessors": [{"name": "Escudos_con_edificios", "id": 9048366}, {"name": "Figuras_geométricas", "id": 1217364}, {"name": "Heráldica", "id": 76064}], "successors": []}

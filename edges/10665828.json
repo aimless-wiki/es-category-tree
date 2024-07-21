@@ -1,1 +1,1 @@
-{"name": "Empresarios_circenses", "id": 10665828, "predecessors": [{"name": "Circo", "id": 296166}], "successors": []}
+{"name": "Empresarios_circenses", "id": 10665828, "predecessors": [{"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": [{"name": "Empresarios_circenses_de_España", "id": 10831307}]}

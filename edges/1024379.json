@@ -1,1 +1,1 @@
-{"name": "Sedimentología", "id": 1024379, "predecessors": [{"name": "Geología", "id": 50639}], "successors": [{"name": "Rocas_sedimentarias", "id": 874080}, {"name": "Dunas", "id": 1092651}]}
+{"name": "Sedimentología", "id": 1024379, "predecessors": [{"name": "Disciplinas_auxiliares_usadas_en_arqueología", "id": 664987}, {"name": "Geología", "id": 50639}], "successors": [{"name": "Rocas_sedimentarias", "id": 874080}, {"name": "Dunas", "id": 1092651}]}

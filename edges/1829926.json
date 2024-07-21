@@ -1,1 +1,1 @@
-{"name": "Microscopía", "id": 1829926, "predecessors": [{"name": "Óptica", "id": 58668}, {"name": "Técnicas_de_laboratorio", "id": 1828839}], "successors": [{"name": "Microscopios", "id": 323557}, {"name": "Tinciones", "id": 750223}]}
+{"name": "Microscopía", "id": 1829926, "predecessors": [{"name": "Óptica", "id": 58668}, {"name": "Conocimiento", "id": 703218}], "successors": [{"name": "Microbiología", "id": 68208}, {"name": "Microscopios", "id": 323557}, {"name": "Tinciones", "id": 750223}]}

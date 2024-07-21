@@ -1,1 +1,1 @@
-{"name": "Maderas", "id": 321311, "predecessors": [{"name": "Materiales", "id": 74562}, {"name": "Comercio", "id": 85125}], "successors": [{"name": "Construcción_con_madera", "id": 8137500}, {"name": "Resinas", "id": 265857}, {"name": "Papel", "id": 3221545}]}
+{"name": "Maderas", "id": 321311, "predecessors": [{"name": "Cuestiones_ambientales", "id": 6069493}, {"name": "Mercadotecnia", "id": 56015}], "successors": [{"name": "Construcción_con_madera", "id": 8137500}]}

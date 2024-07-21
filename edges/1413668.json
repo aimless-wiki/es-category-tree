@@ -1,1 +1,1 @@
-{"name": "Estaciones_del_Ferrocarril_Domingo_Faustino_Sarmiento", "id": 1413668, "predecessors": [{"name": "Economía", "id": 50645}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": [{"name": "Estaciones_de_la_Línea_Sarmiento", "id": 5821759}]}
+{"name": "Estaciones_del_Ferrocarril_Domingo_Faustino_Sarmiento", "id": 1413668, "predecessors": [{"name": "Ferrocarriles_por_país", "id": 1008930}, {"name": "Economía", "id": 50645}], "successors": [{"name": "Estaciones_de_la_Línea_Sarmiento", "id": 5821759}]}

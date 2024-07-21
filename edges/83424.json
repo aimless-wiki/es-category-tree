@@ -1,1 +1,1 @@
-{"name": "Banda_ancha", "id": 83424, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Edad_Contemporánea", "id": 441788}, {"name": "Ingeniería_electrónica", "id": 123446}], "successors": []}
+{"name": "Banda_ancha", "id": 83424, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Medios_digitales", "id": 5933105}, {"name": "Ingeniería_electrónica", "id": 123446}], "successors": []}

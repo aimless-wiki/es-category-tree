@@ -1,1 +1,1 @@
-{"name": "Patología", "id": 379789, "predecessors": [{"name": "Medicina", "id": 49474}], "successors": [{"name": "Anatomía_patológica", "id": 106914}]}
+{"name": "Patología", "id": 379789, "predecessors": [{"name": "Medicina", "id": 49474}], "successors": [{"name": "Anatomía_patológica", "id": 106914}, {"name": "Fitopatología", "id": 8904188}]}

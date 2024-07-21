@@ -1,1 +1,1 @@
-{"name": "Dispositivos_Android", "id": 4601763, "predecessors": [{"name": "Android", "id": 3590018}, {"name": "Ingeniería_electrónica", "id": 123446}], "successors": [{"name": "Samsung_Galaxy", "id": 7412040}]}
+{"name": "Dispositivos_Android", "id": 4601763, "predecessors": [{"name": "Android", "id": 3590018}, {"name": "Datos_informáticos", "id": 1100312}], "successors": [{"name": "Samsung_Galaxy", "id": 7412040}]}

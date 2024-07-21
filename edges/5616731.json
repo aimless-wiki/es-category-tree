@@ -1,1 +1,1 @@
-{"name": "Castillos_cruzados", "id": 5616731, "predecessors": [{"name": "Castillos_por_tipo", "id": 5616738}, {"name": "Cruzadas", "id": 139419}], "successors": [{"name": "Castillos_templarios", "id": 4660858}]}
+{"name": "Castillos_cruzados", "id": 5616731, "predecessors": [{"name": "Cruzadas", "id": 139419}], "successors": [{"name": "Castillos_templarios", "id": 4660858}]}

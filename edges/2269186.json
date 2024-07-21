@@ -1,1 +1,1 @@
-{"name": "Alcaldes_de_Perú", "id": 2269186, "predecessors": [{"name": "Políticos_de_Perú", "id": 111917}, {"name": "Administración_local", "id": 567144}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Alcaldes_de_Lima", "id": 151253}]}
+{"name": "Alcaldes_de_Perú", "id": 2269186, "predecessors": [{"name": "Políticos_de_Perú", "id": 111917}, {"name": "Gobierno", "id": 234634}, {"name": "Administración_local", "id": 567144}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Alcaldes_de_Lima", "id": 151253}]}

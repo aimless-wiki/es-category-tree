@@ -1,1 +1,1 @@
-{"name": "Combinatoria", "id": 4511848, "predecessors": [{"name": "Matemáticas", "id": 800384}], "successors": [{"name": "Permutaciones", "id": 1525295}, {"name": "Teoría_de_juegos_combinatorios", "id": 9764986}, {"name": "Temas_factoriales_y_binomiales", "id": 10336260}]}
+{"name": "Combinatoria", "id": 4511848, "predecessors": [{"name": "Academia", "id": 1704568}], "successors": [{"name": "Permutaciones", "id": 1525295}, {"name": "Teoría_de_juegos_combinatorios", "id": 9764986}, {"name": "Temas_factoriales_y_binomiales", "id": 10336260}]}

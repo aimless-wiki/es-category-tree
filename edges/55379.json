@@ -1,1 +1,1 @@
-{"name": "Antibióticos", "id": 55379, "predecessors": [{"name": "Farmacia", "id": 842638}, {"name": "Contaminación_acuática", "id": 1781175}, {"name": "Biomoléculas", "id": 51802}], "successors": []}
+{"name": "Antibióticos", "id": 55379, "predecessors": [{"name": "Bacteriología", "id": 423745}, {"name": "Farmacia", "id": 842638}, {"name": "Contaminación_acuática", "id": 1781175}, {"name": "Biomoléculas", "id": 51802}], "successors": []}

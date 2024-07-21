@@ -1,1 +1,1 @@
-{"name": "Científicas_de_Argentina", "id": 5693228, "predecessors": [{"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Médicas_de_Argentina", "id": 7699771}, {"name": "Arqueólogas_de_Argentina", "id": 9102274}]}
+{"name": "Científicas_de_Argentina", "id": 5693228, "predecessors": [{"name": "Científicas", "id": 5142698}, {"name": "Filosofía_política", "id": 329706}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Médicas_de_Argentina", "id": 7699771}, {"name": "Arqueólogas_de_Argentina", "id": 9102274}]}

@@ -1,1 +1,1 @@
-{"name": "Técnicas_agrícolas", "id": 3332097, "predecessors": [{"name": "Agronomía", "id": 444313}, {"name": "Aprendizaje", "id": 1831331}], "successors": [{"name": "Riego", "id": 324693}, {"name": "Fertilizantes", "id": 514229}]}
+{"name": "Técnicas_agrícolas", "id": 3332097, "predecessors": [{"name": "Agronomía", "id": 444313}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Riego", "id": 324693}, {"name": "Fertilizantes", "id": 514229}]}

@@ -1,1 +1,1 @@
-{"name": "Comida_callejera", "id": 5358867, "predecessors": [{"name": "Gastronomía", "id": 51198}, {"name": "Infraestructuras_de_transporte", "id": 318244}, {"name": "Comida_rápida", "id": 266796}], "successors": [{"name": "Sándwiches_de_Estados_Unidos", "id": 667008}]}
+{"name": "Comida_callejera", "id": 5358867, "predecessors": [{"name": "Gastronomía", "id": 51198}, {"name": "Comida_rápida", "id": 266796}], "successors": [{"name": "Sándwiches_de_Estados_Unidos", "id": 667008}]}

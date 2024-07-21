@@ -1,1 +1,1 @@
-{"name": "Tipos_de_células", "id": 1130181, "predecessors": [{"name": "Célula", "id": 51460}], "successors": [{"name": "Células_animales", "id": 1129378}]}
+{"name": "Tipos_de_células", "id": 1130181, "predecessors": [{"name": "Célula", "id": 51460}, {"name": "Histología", "id": 75570}], "successors": [{"name": "Células_animales", "id": 1129378}]}

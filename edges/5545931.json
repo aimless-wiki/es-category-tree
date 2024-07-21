@@ -1,1 +1,1 @@
-{"name": "Fármacos_que_carecen_de_Código_ATC", "id": 5545931, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Adicciones", "id": 2117673}], "successors": []}
+{"name": "Fármacos_que_carecen_de_Código_ATC", "id": 5545931, "predecessors": [{"name": "Drogas", "id": 55410}], "successors": []}

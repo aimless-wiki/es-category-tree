@@ -1,1 +1,1 @@
-{"name": "Radioafición", "id": 52508, "predecessors": [{"name": "Radio", "id": 127481}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Emisoras_de_radio_de_onda_corta", "id": 1249088}]}
+{"name": "Radioafición", "id": 52508, "predecessors": [{"name": "Radio", "id": 127481}], "successors": [{"name": "Emisoras_de_radio_de_onda_corta", "id": 1249088}]}

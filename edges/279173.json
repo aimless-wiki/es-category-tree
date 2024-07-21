@@ -1,1 +1,1 @@
-{"name": "Espeleología", "id": 279173, "predecessors": [{"name": "Geología", "id": 50639}], "successors": [{"name": "Espeleotemas", "id": 5319391}, {"name": "Pozos_y_simas", "id": 5476244}]}
+{"name": "Espeleología", "id": 279173, "predecessors": [{"name": "Disciplinas_auxiliares_usadas_en_arqueología", "id": 664987}, {"name": "Geología", "id": 50639}], "successors": [{"name": "Espeleotemas", "id": 5319391}, {"name": "Pozos_y_simas", "id": 5476244}]}

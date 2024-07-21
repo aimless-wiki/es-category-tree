@@ -1,1 +1,1 @@
-{"name": "Libros_inacabados", "id": 5280210, "predecessors": [{"name": "Libros_por_tipo", "id": 5280211}, {"name": "Estrategia", "id": 4124348}], "successors": []}
+{"name": "Libros_inacabados", "id": 5280210, "predecessors": [{"name": "Libros_por_tipo", "id": 5280211}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Novelas_inacabadas", "id": 4179189}]}

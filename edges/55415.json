@@ -1,1 +1,1 @@
-{"name": "Estimulantes", "id": 55415, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Adicciones", "id": 2117673}], "successors": [{"name": "Tabaco", "id": 91926}, {"name": "Cocaína", "id": 4162081}]}
+{"name": "Estimulantes", "id": 55415, "predecessors": [{"name": "Drogas", "id": 55410}], "successors": [{"name": "Tabaco", "id": 91926}, {"name": "Cocaína", "id": 4162081}, {"name": "Café", "id": 311232}, {"name": "Té", "id": 384018}]}

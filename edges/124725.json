@@ -1,1 +1,1 @@
-{"name": "Objetos_litúrgicos", "id": 124725, "predecessors": [{"name": "Liturgia_cristiana", "id": 542836}], "successors": [{"name": "Relicarios", "id": 2366949}]}
+{"name": "Objetos_litúrgicos", "id": 124725, "predecessors": [{"name": "Liturgia_cristiana", "id": 542836}, {"name": "Símbolos", "id": 66915}], "successors": [{"name": "Relicarios", "id": 2366949}]}

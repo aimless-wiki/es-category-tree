@@ -1,1 +1,1 @@
-{"name": "Libros_de_música", "id": 1468794, "predecessors": [{"name": "Teoría_musical", "id": 169871}, {"name": "Música", "id": 50615}, {"name": "Libros", "id": 158006}, {"name": "Industria_musical", "id": 1761956}], "successors": []}
+{"name": "Libros_de_música", "id": 1468794, "predecessors": [{"name": "Teoría_musical", "id": 169871}, {"name": "Crítica_literaria", "id": 4332207}, {"name": "Libros", "id": 158006}, {"name": "Industria_musical", "id": 1761956}], "successors": [{"name": "Fuentes_musicales_de_la_Edad_Media", "id": 3268231}]}

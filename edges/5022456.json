@@ -1,1 +1,1 @@
-{"name": "Software_criptográfico", "id": 5022456, "predecessors": [{"name": "Criptografía", "id": 55406}, {"name": "Software_matemático", "id": 384198}, {"name": "Aplicaciones_informáticas", "id": 54102}], "successors": []}
+{"name": "Software_criptográfico", "id": 5022456, "predecessors": [{"name": "Criptografía", "id": 55406}, {"name": "Software_matemático", "id": 384198}, {"name": "Seguridad_informática", "id": 105215}], "successors": []}

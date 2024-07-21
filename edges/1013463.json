@@ -1,1 +1,1 @@
-{"name": "Museos_Vaticanos", "id": 1013463, "predecessors": [{"name": "Museos_de_Roma", "id": 806253}, {"name": "Instituciones_de_cultura", "id": 791545}, {"name": "Cultura", "id": 51310}, {"name": "Geografía_física", "id": 741956}], "successors": []}
+{"name": "Museos_Vaticanos", "id": 1013463, "predecessors": [{"name": "Museos_de_Roma", "id": 806253}, {"name": "Cuadros", "id": 102806}, {"name": "Cultura", "id": 51310}, {"name": "Geografía_física", "id": 741956}], "successors": []}

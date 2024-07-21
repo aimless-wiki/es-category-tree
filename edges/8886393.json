@@ -1,1 +1,1 @@
-{"name": "Biólogas_de_España", "id": 8886393, "predecessors": [{"name": "Científicas_de_España", "id": 5691536}, {"name": "Científicos_de_España", "id": 103163}], "successors": [{"name": "Botánicas_de_España", "id": 9429150}, {"name": "Bioquímicas_de_España", "id": 9525098}]}
+{"name": "Biólogas_de_España", "id": 8886393, "predecessors": [{"name": "Científicas_de_España", "id": 5691536}, {"name": "Biología", "id": 49848}, {"name": "Biólogas", "id": 5366735}], "successors": [{"name": "Botánicas_de_España", "id": 9429150}, {"name": "Bioquímicas_de_España", "id": 9525098}]}

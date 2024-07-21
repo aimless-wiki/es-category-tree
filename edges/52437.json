@@ -1,1 +1,1 @@
-{"name": "KDE", "id": 52437, "predecessors": [{"name": "Organizaciones_informáticas", "id": 520783}, {"name": "Software_libre", "id": 51355}], "successors": [{"name": "Freedesktop.org", "id": 1468250}]}
+{"name": "KDE", "id": 52437, "predecessors": [{"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "Organizaciones_informáticas", "id": 520783}], "successors": [{"name": "Freedesktop.org", "id": 1468250}]}

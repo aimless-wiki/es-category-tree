@@ -1,1 +1,1 @@
-{"name": "Diabetes", "id": 1510407, "predecessors": [{"name": "Enfermedades_endocrinas", "id": 509905}, {"name": "Enfermedades_metabólicas", "id": 62025}, {"name": "Aparato_digestivo", "id": 51109}], "successors": [{"name": "Personas_diabéticas", "id": 3072423}]}
+{"name": "Diabetes", "id": 1510407, "predecessors": [{"name": "Enfermedades_endocrinas", "id": 509905}, {"name": "Enfermedades_metabólicas", "id": 62025}, {"name": "Anatomía_animal", "id": 210561}], "successors": [{"name": "Personas_diabéticas", "id": 3072423}]}

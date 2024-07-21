@@ -1,1 +1,1 @@
-{"name": "Plantas_ornamentales", "id": 1237695, "predecessors": [{"name": "Jardinería", "id": 66989}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Plantas_de_flor", "id": 97273}]}
+{"name": "Plantas_ornamentales", "id": 1237695, "predecessors": [{"name": "Jardinería", "id": 66989}, {"name": "Botánica", "id": 54344}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Plantas_de_flor", "id": 97273}]}

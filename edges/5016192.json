@@ -1,1 +1,1 @@
-{"name": "Fuerzas_Aéreas_por_país", "id": 5016192, "predecessors": [{"name": "Aviación_militar", "id": 4399984}, {"name": "Fuerzas_armadas", "id": 68565}], "successors": [{"name": "Ejército_del_Aire_y_del_Espacio_(España)", "id": 481835}, {"name": "Fuerza_Aérea_de_Chile", "id": 631122}]}
+{"name": "Fuerzas_Aéreas_por_país", "id": 5016192, "predecessors": [{"name": "Fuerzas_armadas", "id": 68565}], "successors": [{"name": "Ejército_del_Aire_y_del_Espacio_(España)", "id": 481835}, {"name": "Fuerza_Aérea_de_Chile", "id": 631122}]}

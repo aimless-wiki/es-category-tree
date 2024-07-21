@@ -1,1 +1,1 @@
-{"name": "Leche", "id": 1156292, "predecessors": [{"name": "Bebidas", "id": 51303}, {"name": "Lácteos", "id": 51212}, {"name": "Productos_animales", "id": 5464993}], "successors": [{"name": "Lactancia_materna", "id": 1740750}, {"name": "Bebidas_con_leche", "id": 10008090}]}
+{"name": "Leche", "id": 1156292, "predecessors": [{"name": "Lácteos", "id": 51212}, {"name": "Productos_animales", "id": 5464993}], "successors": [{"name": "Lactancia_materna", "id": 1740750}, {"name": "Bebidas_con_leche", "id": 10008090}]}

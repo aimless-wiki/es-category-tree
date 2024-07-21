@@ -1,1 +1,1 @@
-{"name": "Hospitales", "id": 155839, "predecessors": [{"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}, {"name": "Medicina", "id": 49474}], "successors": [{"name": "Hospitales_clausurados_de_España", "id": 5706472}]}
+{"name": "Hospitales", "id": 155839, "predecessors": [{"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}, {"name": "Medicina", "id": 49474}, {"name": "Economía_de_la_salud", "id": 5536627}], "successors": [{"name": "Hospitales_clausurados_de_España", "id": 5706472}]}

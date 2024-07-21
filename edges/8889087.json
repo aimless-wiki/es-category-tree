@@ -1,1 +1,1 @@
-{"name": "Elementos_de_unión", "id": 8889087, "predecessors": [{"name": "Elementos_de_máquinas", "id": 1133040}, {"name": "Materiales_de_construcción", "id": 75194}, {"name": "Procesos_industriales", "id": 666998}], "successors": []}
+{"name": "Elementos_de_unión", "id": 8889087, "predecessors": [{"name": "Materiales_de_construcción", "id": 75194}, {"name": "Procesos_industriales", "id": 666998}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Emuladores", "id": 63657, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Archivística", "id": 3107852}], "successors": [{"name": "Emuladores_para_Linux", "id": 1262187}, {"name": "Emuladores_para_Windows", "id": 7051279}]}
+{"name": "Emuladores", "id": 63657, "predecessors": [{"name": "Archivística", "id": 3107852}], "successors": [{"name": "Emuladores_para_Linux", "id": 1262187}, {"name": "Emuladores_para_Windows", "id": 7051279}]}

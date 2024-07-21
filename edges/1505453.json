@@ -1,1 +1,1 @@
-{"name": "Periodistas_ficticios", "id": 1505453, "predecessors": [{"name": "Medios_de_comunicación", "id": 142719}], "successors": [{"name": "Superman", "id": 126340}]}
+{"name": "Periodistas_ficticios", "id": 1505453, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Medios_de_comunicación", "id": 142719}], "successors": [{"name": "Superman", "id": 126340}]}

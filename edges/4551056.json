@@ -1,1 +1,1 @@
-{"name": "Números_enteros", "id": 4551056, "predecessors": [{"name": "Teoría_de_números_elemental", "id": 4537584}, {"name": "Teoría_de_números_algebraicos", "id": 1449135}], "successors": [{"name": "Números_primos", "id": 1618350}, {"name": "Sucesiones_de_números_enteros", "id": 4525113}]}
+{"name": "Números_enteros", "id": 4551056, "predecessors": [{"name": "Terminología_matemática", "id": 1178388}, {"name": "Teoría_de_números_algebraicos", "id": 1449135}], "successors": [{"name": "Números_primos", "id": 1618350}, {"name": "Sucesiones_de_números_enteros", "id": 4525113}]}

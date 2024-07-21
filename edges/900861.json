@@ -1,1 +1,1 @@
-{"name": "Antídotos", "id": 900861, "predecessors": [{"name": "Toxicología", "id": 129853}, {"name": "Farmacología", "id": 55416}, {"name": "Tratamientos_en_medicina", "id": 74857}], "successors": []}
+{"name": "Antídotos", "id": 900861, "predecessors": [{"name": "Fármacos", "id": 54550}], "successors": []}

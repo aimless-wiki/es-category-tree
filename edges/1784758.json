@@ -1,1 +1,1 @@
-{"name": "Testículo", "id": 1784758, "predecessors": [{"name": "Aparato_reproductor_masculino", "id": 331286}, {"name": "Anatomía_humana", "id": 91674}], "successors": []}
+{"name": "Testículo", "id": 1784758, "predecessors": [{"name": "Aparato_reproductor_masculino", "id": 331286}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Fisiología", "id": 51229}], "successors": []}

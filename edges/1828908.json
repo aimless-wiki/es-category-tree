@@ -1,1 +1,1 @@
-{"name": "Técnicas_científicas", "id": 1828908, "predecessors": [{"name": "Aprendizaje", "id": 1831331}], "successors": [{"name": "Representación_del_conocimiento", "id": 208591}, {"name": "Técnicas_de_laboratorio", "id": 1828839}]}
+{"name": "Técnicas_científicas", "id": 1828908, "predecessors": [{"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Representación_del_conocimiento", "id": 208591}, {"name": "Técnicas_de_laboratorio", "id": 1828839}]}

@@ -1,1 +1,1 @@
-{"name": "Restos_humanos_(Arqueología)", "id": 5046304, "predecessors": [{"name": "Ceremonias_funerarias", "id": 221090}], "successors": [{"name": "Momias", "id": 1175749}]}
+{"name": "Restos_humanos_(Arqueología)", "id": 5046304, "predecessors": [{"name": "Restos_arqueológicos", "id": 1175750}, {"name": "Ceremonias_funerarias", "id": 221090}], "successors": [{"name": "Momias", "id": 1175749}]}

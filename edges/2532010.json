@@ -1,1 +1,1 @@
-{"name": "Ministros_de_Bolivia", "id": 2532010, "predecessors": [{"name": "Políticos_de_Bolivia", "id": 126044}, {"name": "Funcionarios_administrativos", "id": 620626}, {"name": "Gobierno", "id": 234634}], "successors": [{"name": "Viceministros_de_Bolivia", "id": 7220798}]}
+{"name": "Ministros_de_Bolivia", "id": 2532010, "predecessors": [{"name": "Políticos_de_Bolivia", "id": 126044}, {"name": "Gobierno", "id": 234634}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Viceministros_de_Bolivia", "id": 7220798}]}

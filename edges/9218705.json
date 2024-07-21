@@ -1,1 +1,1 @@
-{"name": "Competiciones_deportivas_mundiales_en_2023", "id": 9218705, "predecessors": [{"name": "Competiciones_deportivas_mundiales", "id": 8306955}], "successors": [{"name": "UCI_WorldTour_2023", "id": 10410749}, {"name": "UCI_ProSeries_2023", "id": 10429882}]}
+{"name": "Competiciones_deportivas_mundiales_en_2023", "id": 9218705, "predecessors": [{"name": "Índice_de_categorías", "id": 55702}, {"name": "Competiciones_deportivas_mundiales", "id": 8306955}], "successors": [{"name": "UCI_WorldTour_2023", "id": 10410749}, {"name": "UCI_ProSeries_2023", "id": 10429882}]}

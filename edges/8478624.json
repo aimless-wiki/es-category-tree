@@ -1,1 +1,1 @@
-{"name": "Luchadores_de_la_AAA", "id": 8478624, "predecessors": [{"name": "Empresas_fundadas_en_1992", "id": 3199054}], "successors": [{"name": "Campeones_Mundiales_en_Parejas_de_AAA", "id": 10798152}]}
+{"name": "Luchadores_de_la_AAA", "id": 8478624, "predecessors": [{"name": "Promociones_de_lucha_libre_profesional", "id": 1579372}, {"name": "Artes_escénicas", "id": 55382}], "successors": [{"name": "Campeones_Mundiales_en_Parejas_de_AAA", "id": 10798152}]}

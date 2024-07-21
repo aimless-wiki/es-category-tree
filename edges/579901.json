@@ -1,1 +1,1 @@
-{"name": "Sistemas_informáticos", "id": 579901, "predecessors": [{"name": "Informática", "id": 65343}, {"name": "Sistemas", "id": 4539548}, {"name": "Edad_Contemporánea", "id": 441788}], "successors": [{"name": "Mainframes", "id": 313034}, {"name": "Aplicaciones_web", "id": 478533}, {"name": "Web_2.0", "id": 1489913}, {"name": "Computación_en_nube", "id": 4417989}, {"name": "X_Window_System", "id": 613985}]}
+{"name": "Sistemas_informáticos", "id": 579901, "predecessors": [{"name": "Informática", "id": 65343}, {"name": "Sistemas", "id": 4539548}], "successors": []}

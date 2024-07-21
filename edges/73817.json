@@ -1,1 +1,1 @@
-{"name": "Enfermedades_autoinmunitarias", "id": 73817, "predecessors": [{"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Fallecidos_por_esclerosis_múltiple", "id": 5032862}, {"name": "Personas_con_esclerosis_múltiple", "id": 10771441}]}
+{"name": "Enfermedades_autoinmunitarias", "id": 73817, "predecessors": [{"name": "Enfermedades", "id": 50842}], "successors": []}

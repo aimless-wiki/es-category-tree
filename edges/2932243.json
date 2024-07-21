@@ -1,1 +1,1 @@
-{"name": "Software_de_audio_libre", "id": 2932243, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Software_libre", "id": 51355}], "successors": []}
+{"name": "Software_de_audio_libre", "id": 2932243, "predecessors": [{"name": "Audio_digital", "id": 221028}, {"name": "Software_libre", "id": 51355}], "successors": []}

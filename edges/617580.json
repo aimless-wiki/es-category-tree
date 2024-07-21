@@ -1,1 +1,1 @@
-{"name": "Ministros_de_la_Suprema_Corte_de_Justicia_de_la_Nación", "id": 617580, "predecessors": [{"name": "Tribunales_supremos", "id": 218104}, {"name": "Administración_pública", "id": 827010}], "successors": [{"name": "Presidentes_de_la_Suprema_Corte_de_Justicia_de_la_Nación", "id": 5251994}]}
+{"name": "Ministros_de_la_Suprema_Corte_de_Justicia_de_la_Nación", "id": 617580, "predecessors": [{"name": "Tribunales_supremos", "id": 218104}, {"name": "Gobierno", "id": 234634}], "successors": [{"name": "Presidentes_de_la_Suprema_Corte_de_Justicia_de_la_Nación", "id": 5251994}]}

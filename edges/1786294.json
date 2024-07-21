@@ -1,1 +1,1 @@
-{"name": "Triángulos", "id": 1786294, "predecessors": [{"name": "Polígonos", "id": 236629}, {"name": "Geometría_elemental", "id": 1804789}], "successors": [{"name": "Trigonometría", "id": 83660}, {"name": "Geometría_del_triángulo", "id": 4538638}]}
+{"name": "Triángulos", "id": 1786294, "predecessors": [{"name": "Polígonos", "id": 236629}, {"name": "Figuras_geométricas", "id": 1217364}], "successors": [{"name": "Trigonometría", "id": 83660}, {"name": "Geometría_del_triángulo", "id": 4538638}]}

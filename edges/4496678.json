@@ -1,1 +1,1 @@
-{"name": "Tests_psicológicos", "id": 4496678, "predecessors": [{"name": "Exámenes_y_pruebas", "id": 5069425}, {"name": "Psicología", "id": 50651}], "successors": []}
+{"name": "Tests_psicológicos", "id": 4496678, "predecessors": [{"name": "Psicología", "id": 50651}], "successors": []}

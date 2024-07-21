@@ -1,1 +1,1 @@
-{"name": "Críticos_musicales", "id": 5066609, "predecessors": [{"name": "Ocupaciones_musicales", "id": 5070941}, {"name": "Escritores_didácticos", "id": 5705001}, {"name": "Música", "id": 50615}], "successors": [{"name": "Críticos_musicales_de_España", "id": 4552843}]}
+{"name": "Críticos_musicales", "id": 5066609, "predecessors": [{"name": "Ocupaciones_musicales", "id": 5070941}, {"name": "Música", "id": 50615}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Críticos_musicales_de_España", "id": 4552843}]}

@@ -1,1 +1,1 @@
-{"name": "Directores_ejecutivos", "id": 2950532, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Directores_de_museos", "id": 3990920}, {"name": "Donald_Trump", "id": 7654556}]}
+{"name": "Directores_ejecutivos", "id": 2950532, "predecessors": [{"name": "Puestos_en_una_empresa", "id": 2178501}], "successors": [{"name": "Directores_de_museos", "id": 3990920}, {"name": "Donald_Trump", "id": 7654556}]}

@@ -1,1 +1,1 @@
-{"name": "Tormentas", "id": 167032, "predecessors": [{"name": "Desastres_naturales", "id": 166966}, {"name": "Atmósfera", "id": 99035}], "successors": []}
+{"name": "Tormentas", "id": 167032, "predecessors": [{"name": "Desastres_naturales", "id": 166966}, {"name": "Fenómenos_electromagnéticos", "id": 2570339}], "successors": []}

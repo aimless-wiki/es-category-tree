@@ -1,1 +1,1 @@
-{"name": "Laudistas", "id": 4177703, "predecessors": [{"name": "Músicos", "id": 53131}], "successors": [{"name": "Guitarristas", "id": 104586}, {"name": "Violonchelistas_clásicos", "id": 306935}, {"name": "Mujeres_violonchelistas", "id": 9075223}]}
+{"name": "Laudistas", "id": 4177703, "predecessors": [{"name": "Instrumentos_de_cuerda_pulsada", "id": 964865}, {"name": "Músicos", "id": 53131}], "successors": [{"name": "Guitarristas", "id": 104586}, {"name": "Violonchelistas_clásicos", "id": 306935}, {"name": "Mujeres_violonchelistas", "id": 9075223}]}

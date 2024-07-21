@@ -1,1 +1,1 @@
-{"name": "Spam", "id": 1816040, "predecessors": [{"name": "Correo_electrónico", "id": 432225}, {"name": "Problemas_de_seguridad_informática", "id": 516901}, {"name": "Tecnología", "id": 50822}], "successors": []}
+{"name": "Spam", "id": 1816040, "predecessors": [{"name": "Correo_electrónico", "id": 432225}, {"name": "Problemas_de_seguridad_informática", "id": 516901}, {"name": "Filosofía_de_la_ciencia", "id": 264658}], "successors": []}

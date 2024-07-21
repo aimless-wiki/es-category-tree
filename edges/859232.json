@@ -1,1 +1,1 @@
-{"name": "Citoesqueleto", "id": 859232, "predecessors": [{"name": "Célula", "id": 51460}, {"name": "Proteínas", "id": 208870}], "successors": []}
+{"name": "Citoesqueleto", "id": 859232, "predecessors": [{"name": "Biología_celular", "id": 75820}, {"name": "Célula", "id": 51460}, {"name": "Proteínas", "id": 208870}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Carnaval", "id": 105936, "predecessors": [{"name": "Festividades_cristianas", "id": 4322666}, {"name": "Fiestas", "id": 107935}], "successors": [{"name": "Carnaval_en_Uruguay", "id": 954710}, {"name": "Candombe", "id": 1659769}]}
+{"name": "Carnaval", "id": 105936, "predecessors": [{"name": "Desfiles_y_marchas", "id": 749528}, {"name": "Festividades_cristianas", "id": 4322666}, {"name": "Fiestas", "id": 107935}], "successors": [{"name": "Carnaval_en_Uruguay", "id": 954710}, {"name": "Candombe", "id": 1659769}]}

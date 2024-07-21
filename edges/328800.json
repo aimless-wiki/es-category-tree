@@ -1,1 +1,1 @@
-{"name": "Químicos_del_Reino_Unido", "id": 328800, "predecessors": [{"name": "Científicos_del_Reino_Unido", "id": 75834}], "successors": [{"name": "Bioquímicos_del_Reino_Unido_del_siglo_XX", "id": 5142366}]}
+{"name": "Químicos_del_Reino_Unido", "id": 328800, "predecessors": [{"name": "Científicos_del_Reino_Unido", "id": 75834}, {"name": "Química", "id": 50641}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Restos_arqueológicos_egipcios", "id": 4965121, "predecessors": [{"name": "Arte_del_Antiguo_Egipto", "id": 2597687}, {"name": "Antiguo_Oriente_Próximo", "id": 640146}], "successors": [{"name": "Momias_del_Antiguo_Egipto", "id": 5279305}]}
+{"name": "Restos_arqueológicos_egipcios", "id": 4965121, "predecessors": [{"name": "Arte_del_Antiguo_Egipto", "id": 2597687}, {"name": "Restos_arqueológicos", "id": 1175750}, {"name": "Antiguo_Oriente_Próximo", "id": 640146}], "successors": [{"name": "Momias_del_Antiguo_Egipto", "id": 5279305}]}

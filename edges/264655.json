@@ -1,1 +1,1 @@
-{"name": "Protista", "id": 264655, "predecessors": [{"name": "Célula", "id": 51460}, {"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Algas", "id": 68250}]}
+{"name": "Protista", "id": 264655, "predecessors": [{"name": "Microbiología", "id": 68208}, {"name": "Célula", "id": 51460}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Algas", "id": 68250}, {"name": "Amoebozoa", "id": 1499404}]}

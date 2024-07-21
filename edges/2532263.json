@@ -1,1 +1,1 @@
-{"name": "Secretarios_de_Estado_de_Reino_Unido", "id": 2532263, "predecessors": [{"name": "Funcionarios_administrativos", "id": 620626}, {"name": "Personalidad", "id": 4496858}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Primeros_ministros_del_Reino_Unido", "id": 610198}]}
+{"name": "Secretarios_de_Estado_de_Reino_Unido", "id": 2532263, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Primeros_ministros_del_Reino_Unido", "id": 610198}]}

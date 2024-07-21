@@ -1,1 +1,1 @@
-{"name": "Drogas_disociativas", "id": 278451, "predecessors": [{"name": "Alucinógenos", "id": 2065182}, {"name": "Farmacología", "id": 55416}, {"name": "Anestesia", "id": 9373466}, {"name": "Adicciones", "id": 2117673}], "successors": []}
+{"name": "Drogas_disociativas", "id": 278451, "predecessors": [{"name": "Alucinógenos", "id": 2065182}, {"name": "Anestesia", "id": 9373466}, {"name": "Drogas", "id": 55410}], "successors": []}

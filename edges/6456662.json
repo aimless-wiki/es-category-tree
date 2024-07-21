@@ -1,1 +1,1 @@
-{"name": "Juristas_de_Aragón", "id": 6456662, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Abogados_de_Aragón", "id": 6920707}, {"name": "Juristas_de_Zaragoza", "id": 6961793}]}
+{"name": "Juristas_de_Aragón", "id": 6456662, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Personalidad", "id": 4496858}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Abogados_de_Aragón", "id": 6920707}, {"name": "Juristas_de_Zaragoza", "id": 6961793}]}

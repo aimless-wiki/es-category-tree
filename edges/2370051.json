@@ -1,1 +1,1 @@
-{"name": "Eventos_de_historieta", "id": 2370051, "predecessors": [{"name": "Eventos_artísticos", "id": 1830571}, {"name": "Historieta", "id": 50608}], "successors": []}
+{"name": "Eventos_de_historieta", "id": 2370051, "predecessors": [{"name": "Eventos_artísticos", "id": 1830571}, {"name": "Historieta", "id": 50608}], "successors": [{"name": "Ganadores_del_premio_Eisner", "id": 5341791}]}

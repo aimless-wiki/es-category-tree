@@ -1,1 +1,1 @@
-{"name": "Insectos_no_amenazados", "id": 4254193, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}, {"name": "Célula", "id": 51460}], "successors": []}
+{"name": "Insectos_no_amenazados", "id": 4254193, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}, {"name": "Disciplinas_de_la_biología", "id": 8994238}], "successors": []}

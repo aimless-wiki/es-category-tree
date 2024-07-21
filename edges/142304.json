@@ -1,1 +1,1 @@
-{"name": "Empresas_de_Suiza", "id": 142304, "predecessors": [{"name": "Economía", "id": 50645}, {"name": "Administración", "id": 3417332}], "successors": [{"name": "Empresarios_de_Suiza", "id": 697642}, {"name": "Empresas_relojeras_de_Suiza", "id": 3181174}]}
+{"name": "Empresas_de_Suiza", "id": 142304, "predecessors": [{"name": "Economía", "id": 50645}, {"name": "Organizaciones", "id": 93348}], "successors": [{"name": "Empresarios_de_Suiza", "id": 697642}, {"name": "Empresas_relojeras_de_Suiza", "id": 3181174}]}

@@ -1,1 +1,1 @@
-{"name": "Mecánica_clásica", "id": 639829, "predecessors": [{"name": "Mecánica", "id": 292958}], "successors": [{"name": "Mecánica_de_medios_continuos", "id": 385891}, {"name": "Simetría_rotacional", "id": 1815472}, {"name": "Masa", "id": 4033404}]}
+{"name": "Mecánica_clásica", "id": 639829, "predecessors": [{"name": "Mecánica", "id": 292958}], "successors": [{"name": "Mecánica_de_medios_continuos", "id": 385891}, {"name": "Simetría_rotacional", "id": 1815472}, {"name": "Masa", "id": 4033404}, {"name": "Ruedas", "id": 9280931}]}

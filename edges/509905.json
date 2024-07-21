@@ -1,1 +1,1 @@
-{"name": "Enfermedades_endocrinas", "id": 509905, "predecessors": [{"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Diabetes", "id": 1510407}, {"name": "Obesidad", "id": 1773108}]}
+{"name": "Enfermedades_endocrinas", "id": 509905, "predecessors": [{"name": "Fisiología", "id": 51229}], "successors": [{"name": "Diabetes", "id": 1510407}, {"name": "Obesidad", "id": 1773108}]}

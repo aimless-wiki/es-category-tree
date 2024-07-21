@@ -1,1 +1,1 @@
-{"name": "Lactancia_materna", "id": 1740750, "predecessors": [{"name": "Leche", "id": 1156292}, {"name": "Pediatría", "id": 444547}, {"name": "Antropología_del_parentesco", "id": 675908}, {"name": "Infancia", "id": 115619}, {"name": "Anatomía_animal", "id": 210561}], "successors": []}
+{"name": "Lactancia_materna", "id": 1740750, "predecessors": [{"name": "Leche", "id": 1156292}, {"name": "Antropología_del_parentesco", "id": 675908}, {"name": "Anatomía_animal", "id": 210561}], "successors": []}

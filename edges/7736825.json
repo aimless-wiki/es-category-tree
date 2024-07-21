@@ -1,1 +1,1 @@
-{"name": "Aviones_tractores_bimotores", "id": 7736825, "predecessors": [{"name": "Ingeniería_aeroespacial", "id": 2366303}], "successors": []}
+{"name": "Aviones_tractores_bimotores", "id": 7736825, "predecessors": [{"name": "Ingeniería_aeroespacial", "id": 2366303}, {"name": "Vehículos", "id": 66642}], "successors": []}

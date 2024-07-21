@@ -1,1 +1,1 @@
-{"name": "Puentes_de_carretera_de_España", "id": 6459482, "predecessors": [{"name": "Infraestructuras_de_transporte", "id": 318244}, {"name": "Arquitectura", "id": 50594}], "successors": []}
+{"name": "Puentes_de_carretera_de_España", "id": 6459482, "predecessors": [{"name": "Transporte_por_carretera", "id": 73767}, {"name": "Arquitectura", "id": 50594}], "successors": []}

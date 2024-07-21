@@ -1,1 +1,1 @@
-{"name": "Personas_con_esclerosis_múltiple", "id": 10771441, "predecessors": [{"name": "Enfermedades_autoinmunitarias", "id": 73817}, {"name": "Discapacidad", "id": 122973}, {"name": "Personalidad", "id": 4496858}], "successors": []}
+{"name": "Personas_con_esclerosis_múltiple", "id": 10771441, "predecessors": [{"name": "Discapacidad", "id": 122973}, {"name": "Enfermedades", "id": 50842}, {"name": "Virología", "id": 214919}], "successors": []}

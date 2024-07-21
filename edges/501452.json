@@ -1,1 +1,1 @@
-{"name": "Bioinformática", "id": 501452, "predecessors": [{"name": "Biotecnología", "id": 217303}, {"name": "Aprendizaje", "id": 1831331}, {"name": "Edad_Contemporánea", "id": 441788}, {"name": "Biofísica", "id": 992256}], "successors": [{"name": "Genómica", "id": 808231}]}
+{"name": "Bioinformática", "id": 501452, "predecessors": [{"name": "Biotecnología", "id": 217303}, {"name": "Disciplinas_de_la_biología", "id": 8994238}, {"name": "Conceptos_metafísicos", "id": 7230564}, {"name": "Biofísica", "id": 992256}], "successors": [{"name": "Genómica", "id": 808231}]}

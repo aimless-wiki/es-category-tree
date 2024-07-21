@@ -1,1 +1,1 @@
-{"name": "Dinosaurios_del_Cretácico", "id": 402485, "predecessors": [{"name": "Fósiles", "id": 554861}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Dinosaurios_del_Cretácico_Inferior", "id": 9979865}, {"name": "Dinosaurios_del_Cretácico_Superior", "id": 9979875}]}
+{"name": "Dinosaurios_del_Cretácico", "id": 402485, "predecessors": [{"name": "Fósiles", "id": 554861}, {"name": "Historia_de_la_ciencia", "id": 85069}], "successors": [{"name": "Dinosaurios_del_Cretácico_Inferior", "id": 9979865}, {"name": "Dinosaurios_del_Cretácico_Superior", "id": 9979875}]}

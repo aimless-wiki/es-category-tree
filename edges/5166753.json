@@ -1,1 +1,1 @@
-{"name": "Recipientes_de_metal", "id": 5166753, "predecessors": [{"name": "Metalurgia", "id": 66619}], "successors": [{"name": "Jarras", "id": 7345235}, {"name": "Vasijas", "id": 7345432}]}
+{"name": "Recipientes_de_metal", "id": 5166753, "predecessors": [{"name": "Metalurgia", "id": 66619}, {"name": "Recipientes", "id": 545874}], "successors": [{"name": "Jarras", "id": 7345235}, {"name": "Vasijas", "id": 7345432}]}

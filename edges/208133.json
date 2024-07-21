@@ -1,1 +1,1 @@
-{"name": "Tejidos", "id": 208133, "predecessors": [{"name": "Materiales", "id": 74562}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Moda", "id": 68097}], "successors": [{"name": "Industria_textil", "id": 72127}, {"name": "Telas_tejidas", "id": 10333795}]}
+{"name": "Tejidos", "id": 208133, "predecessors": [{"name": "Anatomía_humana", "id": 91674}, {"name": "Moda", "id": 68097}], "successors": [{"name": "Industria_textil", "id": 72127}, {"name": "Telas_tejidas", "id": 10333795}]}

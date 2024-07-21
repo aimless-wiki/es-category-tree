@@ -1,1 +1,1 @@
-{"name": "Plantas_bulbosas", "id": 97285, "predecessors": [{"name": "Plantas_de_jardín", "id": 2911196}], "successors": [{"name": "Medalla_Herbert", "id": 3205953}]}
+{"name": "Plantas_bulbosas", "id": 97285, "predecessors": [{"name": "Plantas_de_jardín", "id": 2911196}], "successors": [{"name": "Allium", "id": 1386672}, {"name": "Narcissus", "id": 1982100}, {"name": "Crocus", "id": 3562190}, {"name": "Gladiolus", "id": 3562456}, {"name": "Iris", "id": 3562688}]}

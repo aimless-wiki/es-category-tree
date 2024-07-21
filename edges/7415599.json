@@ -1,1 +1,1 @@
-{"name": "Ingenieras", "id": 7415599, "predecessors": [{"name": "Ingeniería", "id": 65205}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Ingenieras_de_España", "id": 9343685}, {"name": "Ingenieras_de_México", "id": 9740921}, {"name": "Ingenieras_de_Chile", "id": 9753317}]}
+{"name": "Ingenieras", "id": 7415599, "predecessors": [{"name": "Ingeniería", "id": 65205}, {"name": "Ocupaciones", "id": 77994}, {"name": "Científicas", "id": 5142698}], "successors": []}

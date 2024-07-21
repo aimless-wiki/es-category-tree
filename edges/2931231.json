@@ -1,1 +1,1 @@
-{"name": "Editores_de_texto_libres", "id": 2931231, "predecessors": [{"name": "Herramientas_de_desarrollo_de_software", "id": 6373064}, {"name": "Aplicaciones_informáticas", "id": 54102}], "successors": []}
+{"name": "Editores_de_texto_libres", "id": 2931231, "predecessors": [{"name": "Herramientas_de_desarrollo_de_software", "id": 6373064}, {"name": "Software_libre", "id": 51355}], "successors": []}

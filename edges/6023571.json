@@ -1,1 +1,1 @@
-{"name": "Conectores_eléctricos", "id": 6023571, "predecessors": [{"name": "Componentes_electrónicos", "id": 52194}, {"name": "Ingeniería_mecánica", "id": 188796}], "successors": [{"name": "Buses", "id": 66982}]}
+{"name": "Conectores_eléctricos", "id": 6023571, "predecessors": [{"name": "Componentes_electrónicos", "id": 52194}, {"name": "Telecomunicaciones", "id": 52300}, {"name": "Ingeniería_mecánica", "id": 188796}], "successors": [{"name": "Buses", "id": 66982}]}

@@ -1,1 +1,1 @@
-{"name": "Crecimiento_económico", "id": 5346337, "predecessors": [{"name": "Indicadores_económicos", "id": 192198}, {"name": "Macroeconomía", "id": 413704}, {"name": "Economía_social", "id": 276471}, {"name": "Economía", "id": 50645}], "successors": [{"name": "Vida_sencilla", "id": 4693230}]}
+{"name": "Crecimiento_económico", "id": 5346337, "predecessors": [{"name": "Indicadores_económicos", "id": 192198}, {"name": "Economía_social", "id": 276471}], "successors": [{"name": "Vida_sencilla", "id": 4693230}]}

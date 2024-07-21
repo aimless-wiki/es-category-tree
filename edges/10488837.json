@@ -1,1 +1,1 @@
-{"name": "Espíritus_del_agua", "id": 10488837, "predecessors": [{"name": "Criaturas_humanoides", "id": 758255}, {"name": "Críptidos", "id": 118848}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Oceánides", "id": 120635}, {"name": "Náyades", "id": 4682180}]}
+{"name": "Espíritus_del_agua", "id": 10488837, "predecessors": [{"name": "Criaturas_humanoides", "id": 758255}, {"name": "Críptidos", "id": 118848}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Oceánides", "id": 120635}, {"name": "Náyades", "id": 4682180}]}

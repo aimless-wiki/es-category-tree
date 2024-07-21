@@ -1,1 +1,1 @@
-{"name": "Sistemas_operativos_móviles", "id": 5990140, "predecessors": [{"name": "Sistemas_operativos", "id": 54097}, {"name": "Software_móvil", "id": 5813480}], "successors": [{"name": "Android", "id": 3590018}, {"name": "IOS_(Apple)", "id": 6147190}, {"name": "Videojuegos_para_BlackBerry", "id": 5403448}]}
+{"name": "Sistemas_operativos_móviles", "id": 5990140, "predecessors": [{"name": "Software_móvil", "id": 5813480}], "successors": [{"name": "Android", "id": 3590018}]}

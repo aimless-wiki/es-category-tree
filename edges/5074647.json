@@ -1,1 +1,1 @@
-{"name": "Pinacotecas_de_España", "id": 5074647, "predecessors": [{"name": "Museos_de_arte_de_España", "id": 5055785}], "successors": [{"name": "Museo_del_Prado", "id": 102836}]}
+{"name": "Pinacotecas_de_España", "id": 5074647, "predecessors": [{"name": "Museos_de_arte_de_España", "id": 5055785}, {"name": "Museos_de_arte", "id": 964903}], "successors": [{"name": "Museo_del_Prado", "id": 102836}]}

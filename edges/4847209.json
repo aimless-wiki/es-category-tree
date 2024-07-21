@@ -1,1 +1,1 @@
-{"name": "Implantes", "id": 4847209, "predecessors": [{"name": "Cirugía", "id": 238187}, {"name": "Modificación_corporal", "id": 1473902}, {"name": "Tecnologías_sanitarias", "id": 2552753}, {"name": "Universo", "id": 1474905}, {"name": "Ingeniería_química", "id": 319565}], "successors": []}
+{"name": "Implantes", "id": 4847209, "predecessors": [{"name": "Modificación_corporal", "id": 1473902}, {"name": "Tecnologías_sanitarias", "id": 2552753}, {"name": "Universo", "id": 1474905}, {"name": "Biología_celular", "id": 75820}], "successors": []}

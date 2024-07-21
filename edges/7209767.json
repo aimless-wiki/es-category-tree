@@ -1,1 +1,1 @@
-{"name": "Enfermos_de_alzhéimer", "id": 7209767, "predecessors": [{"name": "Enfermedad_de_Alzheimer", "id": 971146}, {"name": "Personalidad", "id": 4496858}], "successors": []}
+{"name": "Enfermos_de_alzhéimer", "id": 7209767, "predecessors": [{"name": "Cognición", "id": 1831370}, {"name": "Enfermedades", "id": 50842}], "successors": []}

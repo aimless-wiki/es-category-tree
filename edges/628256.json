@@ -1,1 +1,1 @@
-{"name": "Personas_de_Alicante", "id": 628256, "predecessors": [{"name": "Sistemas_de_clasificación", "id": 1706604}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": [{"name": "Nacidos_en_Alicante", "id": 9571797}, {"name": "Fallecidos_en_Alicante", "id": 9622065}]}
+{"name": "Personas_de_Alicante", "id": 628256, "predecessors": [{"name": "Asentamientos", "id": 2374179}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": [{"name": "Nacidos_en_Alicante", "id": 9571797}, {"name": "Fallecidos_en_Alicante", "id": 9622065}]}

@@ -1,1 +1,1 @@
-{"name": "Frutos_secos", "id": 129058, "predecessors": [{"name": "Gastronomía_vegetariana", "id": 3151274}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Alimentos", "id": 51176}], "successors": []}
+{"name": "Frutos_secos", "id": 129058, "predecessors": [{"name": "Gastronomía_vegetariana", "id": 3151274}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Morfología_vegetal", "id": 416986}, {"name": "Alimentos", "id": 51176}], "successors": []}

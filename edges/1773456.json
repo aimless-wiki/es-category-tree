@@ -1,1 +1,1 @@
-{"name": "Bebidas_alcohólicas_de_Chile", "id": 1773456, "predecessors": [{"name": "Bebidas_alcohólicas", "id": 51293}, {"name": "Gastronomía_de_Chile", "id": 149534}, {"name": "Adicciones", "id": 2117673}], "successors": [{"name": "Bodegas_de_Chile", "id": 7990290}]}
+{"name": "Bebidas_alcohólicas_de_Chile", "id": 1773456, "predecessors": [{"name": "Gastronomía_de_Chile", "id": 149534}, {"name": "Drogas", "id": 55410}], "successors": [{"name": "Bodegas_de_Chile", "id": 7990290}]}
