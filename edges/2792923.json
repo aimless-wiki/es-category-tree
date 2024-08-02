@@ -1,1 +1,1 @@
-{"name": "Videojuegos_humorísticos", "id": 2792923, "predecessors": [{"name": "Humor", "id": 79774}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Videojuegos_de_Looney_Tunes", "id": 4192445}]}
+{"name": "Videojuegos_humorísticos", "id": 2792923, "predecessors": [{"name": "Humor", "id": 79774}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Videojuegos_de_Lego", "id": 4087440}, {"name": "Videojuegos_de_Looney_Tunes", "id": 4192445}]}

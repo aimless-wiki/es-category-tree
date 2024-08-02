@@ -1,1 +1,1 @@
-{"name": "Desastres_contaminantes", "id": 197844, "predecessors": [{"name": "Cuestiones_ambientales", "id": 6069493}, {"name": "Términos_de_ecología", "id": 1800449}], "successors": [{"name": "Accidentes_nucleares", "id": 330932}]}
+{"name": "Desastres_contaminantes", "id": 197844, "predecessors": [{"name": "Contaminación", "id": 90182}, {"name": "Términos_de_ecología", "id": 1800449}], "successors": [{"name": "Accidentes_nucleares", "id": 330932}]}

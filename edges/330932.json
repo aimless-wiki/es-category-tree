@@ -1,1 +1,1 @@
-{"name": "Accidentes_nucleares", "id": 330932, "predecessors": [{"name": "Desastres_contaminantes", "id": 197844}, {"name": "Desastres", "id": 166962}, {"name": "Cuestiones_ambientales", "id": 6069493}], "successors": [{"name": "Accidente_de_Chernóbil", "id": 3300482}]}
+{"name": "Accidentes_nucleares", "id": 330932, "predecessors": [{"name": "Desastres_contaminantes", "id": 197844}, {"name": "Desastres", "id": 166962}, {"name": "Contaminación", "id": 90182}], "successors": [{"name": "Accidente_de_Chernóbil", "id": 3300482}]}
