@@ -1,1 +1,1 @@
-{"name": "Vehículos_militares_de_Alemania", "id": 1737612, "predecessors": [{"name": "Fuerzas_armadas", "id": 68565}], "successors": [{"name": "Carros_de_combate_de_la_Segunda_Guerra_Mundial_de_Alemania", "id": 4506240}]}
+{"name": "Vehículos_militares_de_Alemania", "id": 1737612, "predecessors": [{"name": "Armamento", "id": 68567}, {"name": "Fuerzas_armadas", "id": 68565}], "successors": [{"name": "Carros_de_combate_de_la_Segunda_Guerra_Mundial_de_Alemania", "id": 4506240}]}

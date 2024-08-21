@@ -1,1 +1,1 @@
-{"name": "Modelos_de_automóviles_del_segmento_F", "id": 768472, "predecessors": [{"name": "Tipos_de_automóvil", "id": 781065}], "successors": [{"name": "Modelos_de_Packard", "id": 9786259}]}
+{"name": "Modelos_de_automóviles_del_segmento_F", "id": 768472, "predecessors": [{"name": "Tipos_de_automóvil", "id": 781065}], "successors": [{"name": "Modelos_de_Alfa_Romeo", "id": 855191}, {"name": "Modelos_de_Packard", "id": 9786259}]}

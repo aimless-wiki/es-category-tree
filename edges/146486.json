@@ -1,1 +1,1 @@
-{"name": "Pistolas", "id": 146486, "predecessors": [{"name": "Armas_de_fuego", "id": 125471}, {"name": "Armas", "id": 650148}], "successors": [{"name": "Pistolas_semiautomáticas", "id": 5824524}]}
+{"name": "Pistolas", "id": 146486, "predecessors": [{"name": "Armas_de_fuego", "id": 125471}], "successors": [{"name": "Pistolas_semiautomáticas", "id": 5824524}]}

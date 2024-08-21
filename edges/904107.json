@@ -1,1 +1,1 @@
-{"name": "Aves_migratorias", "id": 904107, "predecessors": [{"name": "Biología", "id": 49848}, {"name": "Fósiles", "id": 554861}], "successors": [{"name": "Aves_migratorias_del_hemisferio_oriental", "id": 2456985}, {"name": "Aves_migratorias_del_hemisferio_occidental", "id": 2456987}]}
+{"name": "Aves_migratorias", "id": 904107, "predecessors": [{"name": "Biología", "id": 49848}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Aves_migratorias_del_hemisferio_oriental", "id": 2456985}, {"name": "Aves_migratorias_del_hemisferio_occidental", "id": 2456987}]}

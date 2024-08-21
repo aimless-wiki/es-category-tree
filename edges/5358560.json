@@ -1,1 +1,1 @@
-{"name": "Accidentes_e_incidentes_aéreos_causados_por_meteorología_adversa", "id": 5358560, "predecessors": [{"name": "Meteorología", "id": 52249}, {"name": "Accidentes_e_incidentes_aéreos", "id": 1690753}], "successors": []}
+{"name": "Accidentes_e_incidentes_aéreos_causados_por_meteorología_adversa", "id": 5358560, "predecessors": [{"name": "Meteorología", "id": 52249}, {"name": "Transporte", "id": 55371}], "successors": []}

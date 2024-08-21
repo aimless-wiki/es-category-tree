@@ -1,1 +1,1 @@
-{"name": "Agencias_del_Gobierno_de_Colombia", "id": 9996802, "predecessors": [{"name": "Estado_de_Colombia", "id": 602288}, {"name": "Administración_pública", "id": 827010}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Policías_de_Colombia", "id": 2209810}]}
+{"name": "Agencias_del_Gobierno_de_Colombia", "id": 9996802, "predecessors": [{"name": "Administración_pública", "id": 827010}, {"name": "Estado", "id": 329095}, {"name": "Geografía_física", "id": 741956}], "successors": [{"name": "Policías_de_Colombia", "id": 2209810}]}

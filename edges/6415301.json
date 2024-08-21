@@ -1,1 +1,1 @@
-{"name": "Naufragios_en_el_océano_Pacífico", "id": 6415301, "predecessors": [{"name": "Naufragios", "id": 495138}, {"name": "Océano_Pacífico", "id": 926790}], "successors": []}
+{"name": "Naufragios_en_el_océano_Pacífico", "id": 6415301, "predecessors": [{"name": "Transporte", "id": 55371}, {"name": "Océano_Pacífico", "id": 926790}], "successors": [{"name": "Incidentes_marítimos_en_Australia", "id": 10968930}]}

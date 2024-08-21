@@ -1,1 +1,1 @@
-{"name": "Naufragios_en_el_océano_Atlántico", "id": 6929540, "predecessors": [{"name": "Océano_Atlántico", "id": 1275552}, {"name": "Naufragios", "id": 495138}], "successors": []}
+{"name": "Naufragios_en_el_océano_Atlántico", "id": 6929540, "predecessors": [{"name": "Océano_Atlántico", "id": 1275552}, {"name": "Transporte", "id": 55371}], "successors": [{"name": "Naufragios_en_el_mar_Caribe", "id": 6928527}, {"name": "Incidentes_marítimos_en_Reino_Unido", "id": 8038164}]}

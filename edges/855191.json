@@ -1,1 +1,1 @@
-{"name": "Modelos_de_Alfa_Romeo", "id": 855191, "predecessors": [{"name": "Modelos_de_automóviles_de_Italia", "id": 5447949}, {"name": "Industria_automotriz", "id": 6424489}, {"name": "Fabricantes_de_vehículos", "id": 2125679}], "successors": []}
+{"name": "Modelos_de_Alfa_Romeo", "id": 855191, "predecessors": [{"name": "Modelos_de_automóviles_de_Italia", "id": 5447949}, {"name": "Modelos_de_automóviles_del_segmento_F", "id": 768472}, {"name": "Fabricantes_de_vehículos", "id": 2125679}, {"name": "Vehículos", "id": 66642}], "successors": []}

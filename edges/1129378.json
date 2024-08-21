@@ -1,1 +1,1 @@
-{"name": "Células_animales", "id": 1129378, "predecessors": [{"name": "Tipos_de_células", "id": 1130181}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Neuronas", "id": 3186214}, {"name": "Eritrocito", "id": 1812472}]}
+{"name": "Células_animales", "id": 1129378, "predecessors": [{"name": "Animales", "id": 55378}, {"name": "Tipos_de_células", "id": 1130181}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Neuronas", "id": 3186214}, {"name": "Eritrocito", "id": 1812472}]}

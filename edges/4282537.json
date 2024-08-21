@@ -1,1 +1,1 @@
-{"name": "Empresas_de_defensa", "id": 4282537, "predecessors": [{"name": "Fuerzas_armadas", "id": 68565}, {"name": "Empresas", "id": 62409}, {"name": "Tecnología", "id": 50822}], "successors": [{"name": "Empresas_de_defensa_de_Estados_Unidos", "id": 4480328}, {"name": "Empresas_de_defensa_de_Rusia", "id": 4489422}]}
+{"name": "Empresas_de_defensa", "id": 4282537, "predecessors": [{"name": "Fuerzas_armadas", "id": 68565}, {"name": "Empresas", "id": 62409}, {"name": "Tecnología", "id": 50822}], "successors": []}

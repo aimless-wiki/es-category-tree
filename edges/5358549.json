@@ -1,1 +1,1 @@
-{"name": "Accidentes_e_incidentes_de_Aeroflot", "id": 5358549, "predecessors": [{"name": "Aerolíneas_de_Rusia", "id": 909368}, {"name": "Accidentes_e_incidentes_aéreos", "id": 1690753}], "successors": []}
+{"name": "Accidentes_e_incidentes_de_Aeroflot", "id": 5358549, "predecessors": [{"name": "Aerolíneas_de_Rusia", "id": 909368}, {"name": "Aviación", "id": 282606}], "successors": []}
