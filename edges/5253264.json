@@ -1,1 +1,1 @@
-{"name": "Pintores_flamencos_del_Barroco", "id": 5253264, "predecessors": [{"name": "Pintores_del_Barroco", "id": 424834}, {"name": "Flamencos", "id": 1667664}, {"name": "Pintura_flamenca", "id": 4199444}], "successors": []}
+{"name": "Pintores_flamencos_del_Barroco", "id": 5253264, "predecessors": [{"name": "Flamencos", "id": 1667664}, {"name": "Barroco", "id": 136806}, {"name": "Pintura_flamenca", "id": 4199444}], "successors": []}

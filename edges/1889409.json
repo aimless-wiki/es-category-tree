@@ -1,1 +1,1 @@
-{"name": "Leyendas_medievales", "id": 1889409, "predecessors": [{"name": "Cultura_medieval", "id": 1889411}, {"name": "Leyendas", "id": 511367}], "successors": [{"name": "Ciclo_mitológico", "id": 6036556}]}
+{"name": "Leyendas_medievales", "id": 1889409, "predecessors": [{"name": "Leyendas", "id": 511367}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Ciclo_mitológico", "id": 6036556}]}

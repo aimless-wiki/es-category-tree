@@ -1,1 +1,1 @@
-{"name": "Magnitudes_termodinámicas", "id": 1074087, "predecessors": [{"name": "Conceptos_termodinámicos", "id": 5576818}, {"name": "Magnitudes_físicas", "id": 79584}, {"name": "Termodinámica", "id": 73438}], "successors": [{"name": "Unidades_de_volumen", "id": 59290}]}
+{"name": "Magnitudes_termodinámicas", "id": 1074087, "predecessors": [{"name": "Conceptos_termodinámicos", "id": 5576818}, {"name": "Magnitudes_físicas", "id": 79584}, {"name": "Termodinámica", "id": 73438}], "successors": [{"name": "Unidades_de_volumen", "id": 59290}, {"name": "Temperatura", "id": 211420}]}

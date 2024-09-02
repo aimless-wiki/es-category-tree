@@ -1,1 +1,1 @@
-{"name": "Buques_auxiliares_de_la_Armada_de_los_Estados_Unidos", "id": 2576064, "predecessors": [{"name": "Buques_de_la_Armada_de_Estados_Unidos", "id": 5115528}], "successors": []}
+{"name": "Buques_auxiliares_de_la_Armada_de_los_Estados_Unidos", "id": 2576064, "predecessors": [{"name": "Armada_de_Estados_Unidos", "id": 2576144}, {"name": "Náutica", "id": 66045}], "successors": []}

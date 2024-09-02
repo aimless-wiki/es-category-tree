@@ -1,1 +1,1 @@
-{"name": "Fiat", "id": 796448, "predecessors": [{"name": "Fabricantes_de_automóviles_de_Italia", "id": 207288}, {"name": "Fabricantes_de_vehículos", "id": 2125679}], "successors": [{"name": "Modelos_de_Fiat", "id": 312879}, {"name": "Pilotos_de_Fiat_en_Súper_TC2000", "id": 9516082}]}
+{"name": "Fiat", "id": 796448, "predecessors": [{"name": "Fabricantes_de_automóviles_de_Italia", "id": 207288}, {"name": "Fabricantes_de_vehículos", "id": 2125679}], "successors": [{"name": "Modelos_de_Fiat", "id": 312879}]}
