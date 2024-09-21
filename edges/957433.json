@@ -1,1 +1,1 @@
-{"name": "Drama", "id": 957433, "predecessors": [{"name": "Géneros_cinematográficos", "id": 123052}, {"name": "Subgéneros_dramáticos", "id": 173906}, {"name": "Ficción", "id": 65453}], "successors": []}
+{"name": "Drama", "id": 957433, "predecessors": [{"name": "Géneros_cinematográficos", "id": 123052}, {"name": "Subgéneros_dramáticos", "id": 173906}, {"name": "Ficción", "id": 65453}], "successors": [{"name": "Series_de_televisión_de_drama", "id": 5070779}]}

@@ -1,1 +1,1 @@
-{"name": "Ruedas", "id": 9280931, "predecessors": [{"name": "Mecánica_clásica", "id": 639829}, {"name": "Ingeniería_civil", "id": 125981}], "successors": [{"name": "Neumáticos", "id": 1609867}]}
+{"name": "Ruedas", "id": 9280931, "predecessors": [{"name": "Elementos_de_máquinas", "id": 1133040}, {"name": "Mecánica_clásica", "id": 639829}, {"name": "Ingeniería_civil", "id": 125981}], "successors": [{"name": "Neumáticos", "id": 1609867}]}

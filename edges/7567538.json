@@ -1,1 +1,1 @@
-{"name": "Pintores_costumbristas", "id": 7567538, "predecessors": [{"name": "Artes_gráficas", "id": 55383}, {"name": "Escenas_de_género", "id": 2576894}], "successors": [{"name": "Pintores_costumbristas_de_España", "id": 7567542}]}
+{"name": "Pintores_costumbristas", "id": 7567538, "predecessors": [{"name": "Artistas_gráficos", "id": 5307264}, {"name": "Escenas_de_género", "id": 2576894}], "successors": [{"name": "Pintores_costumbristas_de_España", "id": 7567542}]}

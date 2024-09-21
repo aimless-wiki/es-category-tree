@@ -1,1 +1,1 @@
-{"name": "Monumentos_de_Granada", "id": 4239105, "predecessors": [{"name": "Arquitectura_de_Granada", "id": 434721}, {"name": "Cultura_de_Andalucía", "id": 700540}], "successors": [{"name": "Alhambra", "id": 3370036}]}
+{"name": "Monumentos_de_Granada", "id": 4239105, "predecessors": [{"name": "Cultura_de_Andalucía", "id": 700540}, {"name": "Arquitectura", "id": 50594}], "successors": [{"name": "Alhambra", "id": 3370036}]}

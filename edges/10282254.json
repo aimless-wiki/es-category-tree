@@ -1,1 +1,1 @@
-{"name": "Videojuegos_ambientados_en_el_espacio_exterior", "id": 10282254, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Universo", "id": 1474905}], "successors": [{"name": "Videojuegos_ambientados_en_planetas_ficticios", "id": 10331183}]}
+{"name": "Videojuegos_ambientados_en_el_espacio_exterior", "id": 10282254, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Universo", "id": 1474905}], "successors": [{"name": "Videojuegos_de_Star_Wars", "id": 298164}, {"name": "Videojuegos_ambientados_en_planetas_ficticios", "id": 10331183}]}

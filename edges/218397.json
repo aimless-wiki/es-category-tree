@@ -1,1 +1,1 @@
-{"name": "Escritores_en_sánscrito", "id": 218397, "predecessors": [{"name": "Literatura_en_sánscrito", "id": 188032}, {"name": "Escritores", "id": 6042910}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Escritores_de_la_Antigua_India", "id": 5180696}]}
+{"name": "Escritores_en_sánscrito", "id": 218397, "predecessors": [{"name": "Literatura_en_sánscrito", "id": 188032}, {"name": "Ocupaciones", "id": 77994}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Escritores_de_la_Antigua_India", "id": 5180696}]}

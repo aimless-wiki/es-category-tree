@@ -1,1 +1,1 @@
-{"name": "Fontanería", "id": 1974050, "predecessors": [{"name": "Construcción", "id": 70487}, {"name": "Ingeniería_hidráulica", "id": 318246}, {"name": "Instalaciones_de_los_edificios", "id": 391028}], "successors": [{"name": "Sistemas_de_bombeo", "id": 286753}, {"name": "Válvulas", "id": 1182078}]}
+{"name": "Fontanería", "id": 1974050, "predecessors": [{"name": "Construcción", "id": 70487}, {"name": "Ingeniería_hidráulica", "id": 318246}, {"name": "Instalaciones_de_los_edificios", "id": 391028}], "successors": []}
