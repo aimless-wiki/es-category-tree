@@ -1,1 +1,1 @@
-{"name": "Razas_de_caballo", "id": 959537, "predecessors": [{"name": "Agronomía", "id": 444313}, {"name": "Reproducción_animal", "id": 4525045}], "successors": []}
+{"name": "Razas_de_caballo", "id": 959537, "predecessors": [{"name": "Equidae", "id": 959556}, {"name": "Reproducción_animal", "id": 4525045}], "successors": []}

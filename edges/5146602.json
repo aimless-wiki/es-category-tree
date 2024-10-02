@@ -1,1 +1,1 @@
-{"name": "Niños_ficticios", "id": 5146602, "predecessors": [{"name": "Humanos_de_ficción", "id": 8010973}, {"name": "Personalidad", "id": 4496858}, {"name": "Personajes_ficticios", "id": 1870159}], "successors": [{"name": "Huérfanos_ficticios", "id": 1522028}]}
+{"name": "Niños_ficticios", "id": 5146602, "predecessors": [{"name": "Humanos_de_ficción", "id": 8010973}, {"name": "Personalidad", "id": 4496858}, {"name": "Desarrollo_humano", "id": 80952}], "successors": [{"name": "Huérfanos_ficticios", "id": 1522028}]}

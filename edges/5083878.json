@@ -1,1 +1,1 @@
-{"name": "Ciclones_tropicales_en_el_océano_Pacífico", "id": 5083878, "predecessors": [{"name": "Clima", "id": 166303}, {"name": "Océano_Pacífico", "id": 926790}], "successors": [{"name": "Huracanes_del_Pacífico_en_México", "id": 2300096}]}
+{"name": "Ciclones_tropicales_en_el_océano_Pacífico", "id": 5083878, "predecessors": [{"name": "Ciclones_tropicales", "id": 411039}, {"name": "Océano_Pacífico", "id": 926790}], "successors": [{"name": "Huracanes_del_Pacífico_en_México", "id": 2300096}]}

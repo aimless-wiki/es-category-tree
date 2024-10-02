@@ -1,1 +1,1 @@
-{"name": "Arquitectura_de_red", "id": 5366467, "predecessors": [{"name": "Arquitectura_de_computadoras", "id": 2494449}, {"name": "Redes_informáticas", "id": 186159}], "successors": [{"name": "Domain_Name_System", "id": 507247}]}
+{"name": "Arquitectura_de_red", "id": 5366467, "predecessors": [{"name": "Arquitectura_de_computadoras", "id": 2494449}, {"name": "Redes_informáticas", "id": 186159}], "successors": [{"name": "Dark_web", "id": 9055756}, {"name": "Domain_Name_System", "id": 507247}]}

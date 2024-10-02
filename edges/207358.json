@@ -1,1 +1,1 @@
-{"name": "Empresas_de_energía", "id": 207358, "predecessors": [{"name": "Empresas", "id": 62409}, {"name": "Energía", "id": 51341}], "successors": [{"name": "Empresas_petroleras", "id": 2866261}, {"name": "Endesa", "id": 3788173}]}
+{"name": "Empresas_de_energía", "id": 207358, "predecessors": [{"name": "Economía_de_la_energía", "id": 1216553}, {"name": "Empresas", "id": 62409}, {"name": "Energía", "id": 51341}], "successors": [{"name": "Empresas_petroleras", "id": 2866261}, {"name": "Endesa", "id": 3788173}]}

@@ -1,1 +1,1 @@
-{"name": "Software_de_sistema", "id": 1661490, "predecessors": [{"name": "Sistemas", "id": 4539548}], "successors": [{"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "Software_de_seguridad_libre", "id": 9332642}]}
+{"name": "Software_de_sistema", "id": 1661490, "predecessors": [{"name": "Sistemas", "id": 4539548}], "successors": [{"name": "Sistemas_operativos", "id": 54097}, {"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "Motores_de_búsqueda_de_Internet", "id": 210832}, {"name": "Software_de_seguridad_libre", "id": 9332642}]}

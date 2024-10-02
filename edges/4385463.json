@@ -1,1 +1,1 @@
-{"name": "Ciidae", "id": 4385463, "predecessors": [{"name": "Disciplinas_de_la_biología", "id": 8994238}], "successors": [{"name": "Ceracis", "id": 4385465}, {"name": "Cis", "id": 4385468}, {"name": "Orthocis", "id": 4385478}]}
+{"name": "Ciidae", "id": 4385463, "predecessors": [{"name": "Arthropoda", "id": 601168}], "successors": [{"name": "Ceracis", "id": 4385465}, {"name": "Cis", "id": 4385468}, {"name": "Orthocis", "id": 4385478}]}

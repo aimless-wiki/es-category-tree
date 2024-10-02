@@ -1,1 +1,1 @@
-{"name": "Órdenes_de_aves", "id": 6433022, "predecessors": [{"name": "Animales", "id": 55378}], "successors": [{"name": "Passeriformes", "id": 196532}, {"name": "Strigidae", "id": 773786}, {"name": "Accipitridae", "id": 471897}]}
+{"name": "Órdenes_de_aves", "id": 6433022, "predecessors": [{"name": "Biología", "id": 49848}, {"name": "Animales", "id": 55378}], "successors": [{"name": "Passeriformes", "id": 196532}, {"name": "Strigidae", "id": 773786}, {"name": "Accipitridae", "id": 471897}]}

@@ -1,1 +1,1 @@
-{"name": "Funciones_especiales", "id": 778455, "predecessors": [{"name": "Análisis_complejo", "id": 436014}, {"name": "Funciones", "id": 1288633}, {"name": "Grupos_de_Lie", "id": 76120}], "successors": [{"name": "Funciones_Zeta_y_L", "id": 1455285}, {"name": "Logaritmos", "id": 1819336}, {"name": "Exponenciales", "id": 1819457}]}
+{"name": "Funciones_especiales", "id": 778455, "predecessors": [{"name": "Grupos_de_Lie", "id": 76120}], "successors": [{"name": "Funciones_Zeta_y_L", "id": 1455285}, {"name": "Logaritmos", "id": 1819336}, {"name": "Exponenciales", "id": 1819457}]}

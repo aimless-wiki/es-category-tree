@@ -1,1 +1,1 @@
-{"name": "Plantas_en_estado_vulnerable", "id": 4252059, "predecessors": [{"name": "Biodiversidad", "id": 1472874}], "successors": [{"name": "Angiospermas_en_estado_vulnerable", "id": 4252058}, {"name": "Coníferas_en_estado_vulnerable", "id": 4265403}]}
+{"name": "Plantas_en_estado_vulnerable", "id": 4252059, "predecessors": [{"name": "Conservacionismo", "id": 1128689}], "successors": [{"name": "Angiospermas_en_estado_vulnerable", "id": 4252058}, {"name": "Coníferas_en_estado_vulnerable", "id": 4265403}]}

@@ -1,1 +1,1 @@
-{"name": "Números_primos", "id": 1618350, "predecessors": [{"name": "Números_enteros", "id": 4551056}, {"name": "Teoría_de_números_elemental", "id": 4537584}], "successors": []}
+{"name": "Números_primos", "id": 1618350, "predecessors": [{"name": "Números_enteros", "id": 4551056}, {"name": "Teoría_de_números_elemental", "id": 4537584}], "successors": [{"name": "Sucesiones_de_números_primos", "id": 4525293}]}

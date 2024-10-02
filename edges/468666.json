@@ -1,1 +1,1 @@
-{"name": "Indumentaria_deportiva", "id": 468666, "predecessors": [{"name": "Equipamiento_deportivo", "id": 2178000}, {"name": "Moda", "id": 68097}], "successors": [{"name": "Marcas_de_indumentaria_deportiva", "id": 3286726}]}
+{"name": "Indumentaria_deportiva", "id": 468666, "predecessors": [{"name": "Estética", "id": 313392}], "successors": [{"name": "Marcas_de_indumentaria_deportiva", "id": 3286726}]}

@@ -1,1 +1,1 @@
-{"name": "Cine_de_aventuras_de_los_años_2020", "id": 8828335, "predecessors": [{"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_de_comedia_y_aventura_de_los_años_2020", "id": 10856854}]}
+{"name": "Cine_de_aventuras_de_los_años_2020", "id": 8828335, "predecessors": [{"name": "Películas_de_aventuras", "id": 171601}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_de_comedia_y_aventura_de_los_años_2020", "id": 10856854}]}

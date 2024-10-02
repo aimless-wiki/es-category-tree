@@ -1,1 +1,1 @@
-{"name": "Premios_de_matemática", "id": 413392, "predecessors": [{"name": "Premios_de_ciencia_e_ingeniería", "id": 351318}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Medalla_Fields", "id": 894824}, {"name": "Premio_Abel", "id": 3242550}]}
+{"name": "Premios_de_matemática", "id": 413392, "predecessors": [{"name": "Matemáticas", "id": 800384}, {"name": "Premios_de_ciencia_e_ingeniería", "id": 351318}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Medalla_Fields", "id": 894824}, {"name": "Premio_Abel", "id": 3242550}]}

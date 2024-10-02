@@ -1,1 +1,1 @@
-{"name": "Novelas_ligeras_de_Japón", "id": 7233306, "predecessors": [{"name": "Cultura_otaku", "id": 89938}, {"name": "Novelas_de_Japón", "id": 2765763}, {"name": "Novelas_ligeras", "id": 1538146}], "successors": [{"name": "Anime_y_manga_basados_en_novelas_ligeras", "id": 6926927}]}
+{"name": "Novelas_ligeras_de_Japón", "id": 7233306, "predecessors": [{"name": "Cultura_otaku", "id": 89938}, {"name": "Novelas_de_Japón", "id": 2765763}], "successors": [{"name": "Anime_y_manga_basados_en_novelas_ligeras", "id": 6926927}, {"name": "Dengeki_Bunko", "id": 6272481}]}

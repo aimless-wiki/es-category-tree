@@ -1,1 +1,1 @@
-{"name": "Roedores_no_amenazados", "id": 4265295, "predecessors": [{"name": "Mamíferos_no_amenazados", "id": 4251957}], "successors": []}
+{"name": "Roedores_no_amenazados", "id": 4265295, "predecessors": [{"name": "Mamíferos_no_amenazados", "id": 4251957}, {"name": "Biología", "id": 49848}], "successors": []}

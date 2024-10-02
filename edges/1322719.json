@@ -1,1 +1,1 @@
-{"name": "Reptiles_extintos", "id": 1322719, "predecessors": [{"name": "Chordata", "id": 189750}], "successors": [{"name": "Pterosauria", "id": 951074}, {"name": "Crocodilianos_extintos", "id": 1814506}, {"name": "Parareptilia", "id": 7211373}]}
+{"name": "Reptiles_extintos", "id": 1322719, "predecessors": [{"name": "Paleontología", "id": 52105}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Crocodilianos_extintos", "id": 1814506}]}

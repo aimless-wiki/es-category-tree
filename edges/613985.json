@@ -1,1 +1,1 @@
-{"name": "X_Window_System", "id": 613985, "predecessors": [{"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "Organizaciones_de_estándares", "id": 189270}, {"name": "Tiempo_compartido", "id": 1792779}], "successors": [{"name": "GNOME", "id": 59780}]}
+{"name": "X_Window_System", "id": 613985, "predecessors": [{"name": "Interfaz_gráfica_de_usuario", "id": 66603}, {"name": "Software_para_Unix", "id": 1115786}, {"name": "Organizaciones_de_estándares", "id": 189270}, {"name": "Tiempo_compartido", "id": 1792779}], "successors": [{"name": "GNOME", "id": 59780}]}

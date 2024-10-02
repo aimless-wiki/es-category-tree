@@ -1,1 +1,1 @@
-{"name": "Seguridad_del_sistema_operativo", "id": 5585074, "predecessors": [{"name": "Seguridad_informática", "id": 105215}], "successors": []}
+{"name": "Seguridad_del_sistema_operativo", "id": 5585074, "predecessors": [{"name": "Sistemas_operativos", "id": 54097}, {"name": "Seguridad_informática", "id": 105215}], "successors": []}

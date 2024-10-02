@@ -1,1 +1,1 @@
-{"name": "Empresas_textiles", "id": 268416, "predecessors": [{"name": "Industria_textil", "id": 72127}, {"name": "Empresas", "id": 62409}, {"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Marcas_de_calzado", "id": 7828348}]}
+{"name": "Empresas_textiles", "id": 268416, "predecessors": [{"name": "Empresas", "id": 62409}, {"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Marcas_de_calzado", "id": 7828348}]}

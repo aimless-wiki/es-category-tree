@@ -1,1 +1,1 @@
-{"name": "Moluscos_comestibles", "id": 6117191, "predecessors": [{"name": "Marisco", "id": 2045033}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Disciplinas_de_la_biología", "id": 8994238}], "successors": [{"name": "Marisco", "id": 2045033}]}
+{"name": "Moluscos_comestibles", "id": 6117191, "predecessors": [{"name": "Marisco", "id": 2045033}, {"name": "Ingredientes_culinarios", "id": 3146307}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Marisco", "id": 2045033}]}

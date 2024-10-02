@@ -1,1 +1,1 @@
-{"name": "Crustáceos_no_amenazados", "id": 4257114, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}], "successors": []}
+{"name": "Crustáceos_no_amenazados", "id": 4257114, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}, {"name": "Biología", "id": 49848}], "successors": []}
