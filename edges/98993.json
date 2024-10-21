@@ -1,1 +1,1 @@
-{"name": "Días_festivos", "id": 98993, "predecessors": [{"name": "Fiestas", "id": 107935}, {"name": "Calendarios", "id": 6408394}], "successors": [{"name": "Días_festivos_de_España", "id": 3200701}, {"name": "Navidad", "id": 91136}]}
+{"name": "Días_festivos", "id": 98993, "predecessors": [{"name": "Fiestas", "id": 107935}, {"name": "Calendarios", "id": 6408394}], "successors": [{"name": "Fallecidos_el_día_de_su_cumpleaños", "id": 10521980}, {"name": "Días_festivos_de_España", "id": 3200701}, {"name": "Navidad", "id": 91136}]}

@@ -1,1 +1,1 @@
-{"name": "Indumentaria_femenina", "id": 3742457, "predecessors": [{"name": "Anatomía_humana", "id": 91674}, {"name": "Género", "id": 2253349}], "successors": []}
+{"name": "Indumentaria_femenina", "id": 3742457, "predecessors": [{"name": "Género", "id": 2253349}, {"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Vestidos", "id": 6111636}]}
