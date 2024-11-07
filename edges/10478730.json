@@ -1,1 +1,1 @@
-{"name": "Atletas_femeninas", "id": 10478730, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": []}
+{"name": "Atletas_femeninas", "id": 10478730, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Atletas_femeninas_de_España", "id": 11018354}, {"name": "Atletas_femeninas_de_Francia", "id": 11023886}]}

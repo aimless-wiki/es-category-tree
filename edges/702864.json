@@ -1,1 +1,1 @@
-{"name": "Ejecutados_por_brujería", "id": 702864, "predecessors": [{"name": "Procesos_por_brujería", "id": 4944948}, {"name": "Ejecutados", "id": 373444}], "successors": []}
+{"name": "Ejecutados_por_brujería", "id": 702864, "predecessors": [{"name": "Procesos_por_brujería", "id": 4944948}, {"name": "Ejecutados", "id": 373444}, {"name": "Brujería", "id": 592761}], "successors": []}

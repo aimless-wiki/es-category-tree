@@ -1,1 +1,1 @@
-{"name": "Roedores_en_estado_vulnerable", "id": 4265275, "predecessors": [{"name": "Mamíferos_en_estado_vulnerable", "id": 4252061}, {"name": "Biología", "id": 49848}], "successors": []}
+{"name": "Roedores_en_estado_vulnerable", "id": 4265275, "predecessors": [{"name": "Mamíferos_en_estado_vulnerable", "id": 4252061}, {"name": "Números_enteros", "id": 4551056}], "successors": []}

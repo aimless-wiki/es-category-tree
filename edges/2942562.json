@@ -1,1 +1,1 @@
-{"name": "Vigilancia", "id": 2942562, "predecessors": [{"name": "Conceptos_de_ética", "id": 6124901}, {"name": "Seguridad", "id": 140088}, {"name": "Espionaje", "id": 118967}], "successors": [{"name": "Servicios_de_inteligencia", "id": 315398}]}
+{"name": "Vigilancia", "id": 2942562, "predecessors": [{"name": "Privacidad", "id": 2942569}, {"name": "Seguridad", "id": 140088}, {"name": "Espionaje", "id": 118967}], "successors": [{"name": "Servicios_de_inteligencia", "id": 315398}]}

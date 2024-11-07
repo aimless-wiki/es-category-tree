@@ -1,1 +1,1 @@
-{"name": "Departamento_de_Defensa_de_Estados_Unidos", "id": 4272390, "predecessors": [{"name": "Fuerzas_armadas_de_Estados_Unidos", "id": 244437}, {"name": "Gobierno_de_Estados_Unidos", "id": 115752}], "successors": []}
+{"name": "Departamento_de_Defensa_de_Estados_Unidos", "id": 4272390, "predecessors": [{"name": "Fuerzas_armadas_de_Estados_Unidos", "id": 244437}, {"name": "Gobierno_de_Estados_Unidos", "id": 115752}], "successors": [{"name": "GPS", "id": 4841906}]}
