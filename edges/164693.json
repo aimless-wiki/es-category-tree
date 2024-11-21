@@ -1,1 +1,1 @@
-{"name": "Arte_prehistórico", "id": 164693, "predecessors": [{"name": "Arte", "id": 51311}], "successors": [{"name": "Arte_rupestre", "id": 393924}, {"name": "Petroglifos", "id": 5040429}, {"name": "Pinturas_rupestres", "id": 5040422}]}
+{"name": "Arte_prehistórico", "id": 164693, "predecessors": [{"name": "Arte", "id": 51311}], "successors": [{"name": "Arte_rupestre", "id": 393924}, {"name": "Arte_prehistórico_de_España", "id": 581802}, {"name": "Petroglifos", "id": 5040429}, {"name": "Pinturas_rupestres", "id": 5040422}]}

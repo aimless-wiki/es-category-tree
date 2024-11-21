@@ -1,1 +1,1 @@
-{"name": "Skateboard", "id": 455904, "predecessors": [{"name": "Subculturas", "id": 129790}, {"name": "Vehículos_de_propulsión_humana", "id": 2500204}, {"name": "Juventud", "id": 3264486}, {"name": "Acrobacias", "id": 2643525}], "successors": []}
+{"name": "Skateboard", "id": 455904, "predecessors": [{"name": "Subculturas", "id": 129790}, {"name": "Vehículos_de_propulsión_humana", "id": 2500204}, {"name": "Juventud", "id": 3264486}, {"name": "Acrobacias", "id": 2643525}], "successors": [{"name": "Marcas_de_skateboard", "id": 455902}]}

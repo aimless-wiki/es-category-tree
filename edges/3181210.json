@@ -1,1 +1,1 @@
-{"name": "Violencia_doméstica", "id": 3181210, "predecessors": [{"name": "Abuso", "id": 5463325}, {"name": "Violencia", "id": 248150}], "successors": [{"name": "Películas_sobre_violencia_doméstica", "id": 796554}]}
+{"name": "Violencia_doméstica", "id": 3181210, "predecessors": [{"name": "Abuso", "id": 5463325}, {"name": "Causas_de_muerte", "id": 2161243}, {"name": "Delitos", "id": 69467}, {"name": "Violencia", "id": 248150}, {"name": "Familia", "id": 475456}], "successors": [{"name": "Películas_sobre_violencia_doméstica", "id": 796554}]}

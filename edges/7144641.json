@@ -1,1 +1,1 @@
-{"name": "Santos_incorruptos", "id": 7144641, "predecessors": [{"name": "Milagros", "id": 187741}, {"name": "Muerte", "id": 1465483}, {"name": "Teología_cristiana", "id": 161423}], "successors": []}
+{"name": "Santos_incorruptos", "id": 7144641, "predecessors": [{"name": "Milagros", "id": 187741}, {"name": "Santos_incorruptos", "id": 7144641}, {"name": "Muerte", "id": 1465483}, {"name": "Teología_cristiana", "id": 161423}], "successors": [{"name": "Santos_incorruptos", "id": 7144641}]}
