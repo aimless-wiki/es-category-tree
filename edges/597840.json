@@ -1,1 +1,1 @@
-{"name": "Botellas", "id": 597840, "predecessors": [{"name": "Envases", "id": 85124}, {"name": "Vasijas", "id": 7345432}, {"name": "Plásticos", "id": 443899}, {"name": "Vidrios", "id": 1189755}], "successors": []}
+{"name": "Botellas", "id": 597840, "predecessors": [{"name": "Vasijas", "id": 7345432}, {"name": "Plásticos", "id": 443899}, {"name": "Vidrios", "id": 1189755}], "successors": []}

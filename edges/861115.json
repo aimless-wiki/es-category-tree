@@ -1,1 +1,1 @@
-{"name": "Licores", "id": 861115, "predecessors": [{"name": "Bebidas_destiladas", "id": 437683}], "successors": [{"name": "Whisky", "id": 437681}]}
+{"name": "Licores", "id": 861115, "predecessors": [{"name": "Bebidas_destiladas", "id": 437683}], "successors": [{"name": "Whisky", "id": 437681}, {"name": "Licores_de_España", "id": 1358165}]}

@@ -1,1 +1,1 @@
-{"name": "Reptiles_no_amenazados", "id": 4252013, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}, {"name": "Números_enteros", "id": 4551056}], "successors": []}
+{"name": "Reptiles_no_amenazados", "id": 4252013, "predecessors": [{"name": "Animales_no_amenazados", "id": 4251960}, {"name": "Animales", "id": 55378}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Corredores_de_media_distancia", "id": 10441163, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Atletas_de_campo_a_través", "id": 10191691}]}
+{"name": "Corredores_de_media_distancia", "id": 10441163, "predecessors": [{"name": "Deporte_y_salud", "id": 55408}], "successors": [{"name": "Atletas_de_campo_a_través", "id": 10191691}]}

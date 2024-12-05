@@ -1,1 +1,1 @@
-{"name": "Alfarería_del_vino", "id": 7717394, "predecessors": [{"name": "Bebidas_alcohólicas", "id": 51293}, {"name": "Objetos_de_alfarería_y_cerámica", "id": 5278271}], "successors": [{"name": "Jarras", "id": 7345235}]}
+{"name": "Alfarería_del_vino", "id": 7717394, "predecessors": [{"name": "Bebidas_alcohólicas", "id": 51293}], "successors": [{"name": "Jarras", "id": 7345235}]}

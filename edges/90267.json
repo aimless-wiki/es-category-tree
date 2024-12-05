@@ -1,1 +1,1 @@
-{"name": "Meditación", "id": 90267, "predecessors": [{"name": "Espiritualidad", "id": 143403}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Yoga", "id": 103264}, {"name": "Meditación_budista", "id": 6492742}]}
+{"name": "Meditación", "id": 90267, "predecessors": [{"name": "Espiritualidad", "id": 143403}, {"name": "Intervenciones_mente-cuerpo", "id": 9395338}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Yoga", "id": 103264}, {"name": "Meditación_budista", "id": 6492742}]}

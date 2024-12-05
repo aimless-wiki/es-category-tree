@@ -1,1 +1,1 @@
-{"name": "Red_eléctrica", "id": 227154, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Energía", "id": 51341}], "successors": [{"name": "Centrales_hidroeléctricas_de_México", "id": 4603944}, {"name": "Centrales_hidroeléctricas_de_pasada_en_Chile", "id": 9097788}]}
+{"name": "Red_eléctrica", "id": 227154, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Energía", "id": 51341}], "successors": []}

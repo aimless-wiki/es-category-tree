@@ -1,1 +1,1 @@
-{"name": "Personas_tuertas", "id": 6504676, "predecessors": [{"name": "Enfermedades_del_sistema_visual", "id": 5433523}, {"name": "Discapacidad", "id": 122973}], "successors": []}
+{"name": "Personas_tuertas", "id": 6504676, "predecessors": [{"name": "Personas_con_discapacidad", "id": 4087150}, {"name": "Enfermedades_del_sistema_visual", "id": 5433523}], "successors": []}

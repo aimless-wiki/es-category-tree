@@ -1,1 +1,1 @@
-{"name": "Enfermedades_hepáticas_y_biliares", "id": 1008957, "predecessors": [{"name": "Aparato_digestivo", "id": 51109}, {"name": "Hígado", "id": 1791359}], "successors": [{"name": "Fallecidos_por_enfermedades_hepáticas", "id": 5032828}]}
+{"name": "Enfermedades_hepáticas_y_biliares", "id": 1008957, "predecessors": [{"name": "Hígado", "id": 1791359}], "successors": [{"name": "Fallecidos_por_enfermedades_hepáticas", "id": 5032828}]}

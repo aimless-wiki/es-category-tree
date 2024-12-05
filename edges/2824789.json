@@ -1,1 +1,1 @@
-{"name": "Libros_de_matemáticas", "id": 2824789, "predecessors": [{"name": "Libros_de_ciencia", "id": 1188415}, {"name": "Matemáticas", "id": 800384}, {"name": "Cultura", "id": 51310}], "successors": []}
+{"name": "Libros_de_matemáticas", "id": 2824789, "predecessors": [{"name": "Libros_de_ciencia", "id": 1188415}, {"name": "Publicaciones_científicas", "id": 3671238}, {"name": "Cultura", "id": 51310}], "successors": []}

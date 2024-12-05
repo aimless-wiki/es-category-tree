@@ -1,1 +1,1 @@
-{"name": "Partidos_progresistas", "id": 1411398, "predecessors": [{"name": "Espectro_político", "id": 766086}], "successors": [{"name": "Partido_Demócrata_(Estados_Unidos)", "id": 1572858}]}
+{"name": "Partidos_progresistas", "id": 1411398, "predecessors": [{"name": "Partidos_políticos_de_izquierda", "id": 359783}, {"name": "Espectro_político", "id": 766086}], "successors": [{"name": "Partido_Demócrata_(Estados_Unidos)", "id": 1572858}]}

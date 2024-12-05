@@ -1,1 +1,1 @@
-{"name": "Enfermedades_musculares", "id": 839484, "predecessors": [{"name": "Enfermedades_del_aparato_locomotor", "id": 2145826}, {"name": "Síndromes", "id": 251423}, {"name": "Anatomía_humana", "id": 91674}], "successors": []}
+{"name": "Enfermedades_musculares", "id": 839484, "predecessors": [{"name": "Síndromes", "id": 251423}, {"name": "Anatomía_humana", "id": 91674}], "successors": []}

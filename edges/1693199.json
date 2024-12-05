@@ -1,1 +1,1 @@
-{"name": "Control_de_calidad", "id": 1693199, "predecessors": [{"name": "Calidad", "id": 244882}, {"name": "Academia", "id": 1704568}], "successors": [{"name": "Pruebas_de_software", "id": 5592023}]}
+{"name": "Control_de_calidad", "id": 1693199, "predecessors": [{"name": "Gestión", "id": 135112}, {"name": "Academia", "id": 1704568}], "successors": [{"name": "Pruebas_de_software", "id": 5592023}]}

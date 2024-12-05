@@ -1,1 +1,1 @@
-{"name": "Funeral_por_persona", "id": 6560592, "predecessors": [{"name": "Muerte_por_persona", "id": 6560568}, {"name": "Ceremonias", "id": 167802}], "successors": []}
+{"name": "Funeral_por_persona", "id": 6560592, "predecessors": [{"name": "Muerte_por_persona", "id": 6560568}, {"name": "Grupos_sociales", "id": 329683}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Libros_de_Venezuela", "id": 9517277, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Arte", "id": 51311}], "successors": []}
+{"name": "Libros_de_Venezuela", "id": 9517277, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Novelas_de_Venezuela", "id": 1265241}]}

@@ -1,1 +1,1 @@
-{"name": "Π", "id": 2301810, "predecessors": [{"name": "Constantes_matemáticas", "id": 1850497}, {"name": "Relaciones", "id": 1285813}], "successors": []}
+{"name": "Π", "id": 2301810, "predecessors": [{"name": "Constantes_matemáticas", "id": 1850497}, {"name": "Relaciones", "id": 1285813}, {"name": "Análisis_real", "id": 59590}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rosa", "id": 821793, "predecessors": [{"name": "Jardinería", "id": 66989}], "successors": [{"name": "Cultivares_de_rosa", "id": 6172601}, {"name": "Rosalistas", "id": 6174227}]}
+{"name": "Rosa", "id": 821793, "predecessors": [{"name": "Jardinería", "id": 66989}, {"name": "Familias_de_plantas", "id": 103411}], "successors": [{"name": "Cultivares_de_rosa", "id": 6172601}, {"name": "Rosalistas", "id": 6174227}]}

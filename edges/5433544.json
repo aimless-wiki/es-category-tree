@@ -1,1 +1,1 @@
-{"name": "Enfermedades_veterinarias", "id": 5433544, "predecessors": [{"name": "Veterinaria", "id": 51742}], "successors": [{"name": "Zoonosis", "id": 779153}, {"name": "Enfermedades_equinas", "id": 5433538}]}
+{"name": "Enfermedades_veterinarias", "id": 5433544, "predecessors": [{"name": "Veterinaria", "id": 51742}], "successors": [{"name": "Zoonosis", "id": 779153}, {"name": "Enfermedades_de_las_abejas", "id": 261547}, {"name": "Enfermedades_caninas", "id": 5433502}, {"name": "Enfermedades_equinas", "id": 5433538}]}

@@ -1,1 +1,1 @@
-{"name": "Piel", "id": 1776771, "predecessors": [{"name": "Dermatología", "id": 51745}, {"name": "Histología", "id": 75570}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Percepción", "id": 176025}, {"name": "Sistema_nervioso", "id": 99531}], "successors": [{"name": "Enfermedades_cutáneas", "id": 112561}, {"name": "Pelo", "id": 1812282}]}
+{"name": "Piel", "id": 1776771, "predecessors": [{"name": "Histología", "id": 75570}, {"name": "Percepción", "id": 176025}, {"name": "Sistema_nervioso", "id": 99531}], "successors": []}

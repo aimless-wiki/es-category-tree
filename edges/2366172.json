@@ -1,1 +1,1 @@
-{"name": "Familias_de_aves", "id": 2366172, "predecessors": [{"name": "Números_enteros", "id": 4551056}], "successors": [{"name": "Familias_monotípicas_de_aves", "id": 8636362}]}
+{"name": "Familias_de_aves", "id": 2366172, "predecessors": [{"name": "Animales", "id": 55378}], "successors": [{"name": "Familias_monotípicas_de_aves", "id": 8636362}]}

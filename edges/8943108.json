@@ -1,1 +1,1 @@
-{"name": "Cazadores_ficticios", "id": 8943108, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Cazavampiros", "id": 1532585}]}
+{"name": "Cazadores_ficticios", "id": 8943108, "predecessors": [{"name": "Deportistas_ficticios", "id": 8769884}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Cazavampiros", "id": 1532585}]}

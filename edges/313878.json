@@ -1,1 +1,1 @@
-{"name": "Cosméticos", "id": 313878, "predecessors": [{"name": "Salud", "id": 75409}], "successors": [{"name": "Empresas_de_cosmética", "id": 4525418}]}
+{"name": "Cosméticos", "id": 313878, "predecessors": [{"name": "Salud", "id": 75409}], "successors": [{"name": "Empresas_de_cosmética", "id": 4525418}, {"name": "Ingredientes_cosméticos", "id": 6137301}]}

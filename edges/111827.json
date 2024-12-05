@@ -1,1 +1,1 @@
-{"name": "Poetas_de_China", "id": 111827, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Literatura_de_China", "id": 7638307}], "successors": []}
+{"name": "Poetas_de_China", "id": 111827, "predecessors": [{"name": "Poesía", "id": 54107}, {"name": "Literatura_de_China", "id": 7638307}, {"name": "Artistas", "id": 459774}], "successors": []}

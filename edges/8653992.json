@@ -1,1 +1,1 @@
-{"name": "Equipamiento_equino", "id": 8653992, "predecessors": [{"name": "Deportes_ecuestres", "id": 255770}, {"name": "Economía", "id": 50645}, {"name": "Equidae", "id": 959556}], "successors": []}
+{"name": "Equipamiento_equino", "id": 8653992, "predecessors": [{"name": "Deportes_ecuestres", "id": 255770}, {"name": "Economía", "id": 50645}, {"name": "Agronomía", "id": 444313}], "successors": []}

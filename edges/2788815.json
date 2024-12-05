@@ -1,1 +1,1 @@
-{"name": "Teléfonos_móviles_Samsung", "id": 2788815, "predecessors": [{"name": "Tipos_de_empresas", "id": 2817018}], "successors": [{"name": "Samsung_Galaxy", "id": 7412040}]}
+{"name": "Teléfonos_móviles_Samsung", "id": 2788815, "predecessors": [{"name": "Empresas", "id": 62409}, {"name": "Tipos_de_empresas", "id": 2817018}], "successors": [{"name": "Samsung_Galaxy", "id": 7412040}]}

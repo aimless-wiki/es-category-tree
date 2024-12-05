@@ -1,1 +1,1 @@
-{"name": "Ganadores_del_premio_del_Sindicato_de_Actores", "id": 5127360, "predecessors": [{"name": "Cine_de_Estados_Unidos", "id": 101343}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Ganadores_del_premio_de_honor_del_Sindicato_de_Actores", "id": 5127589}]}
+{"name": "Ganadores_del_premio_del_Sindicato_de_Actores", "id": 5127360, "predecessors": [{"name": "Cine_de_Estados_Unidos", "id": 101343}, {"name": "Premios_de_cine", "id": 106468}], "successors": [{"name": "Ganadores_del_premio_de_honor_del_Sindicato_de_Actores", "id": 5127589}]}

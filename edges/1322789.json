@@ -1,1 +1,1 @@
-{"name": "Peces_extintos", "id": 1322789, "predecessors": [{"name": "Animales", "id": 55378}, {"name": "Paleontología", "id": 52105}], "successors": [{"name": "Peces_prehistóricos", "id": 1262392}]}
+{"name": "Peces_extintos", "id": 1322789, "predecessors": [{"name": "Animales", "id": 55378}], "successors": [{"name": "Peces_prehistóricos", "id": 1262392}]}
