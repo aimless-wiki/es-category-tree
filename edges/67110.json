@@ -1,1 +1,1 @@
-{"name": "Reproductores_multimedia", "id": 67110, "predecessors": [{"name": "Multimedia", "id": 212391}], "successors": [{"name": "Software_de_música", "id": 475992}]}
+{"name": "Reproductores_multimedia", "id": 67110, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Multimedia", "id": 212391}], "successors": [{"name": "Software_de_música", "id": 475992}]}

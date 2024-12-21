@@ -1,1 +1,1 @@
-{"name": "Vasodilatadores", "id": 1562702, "predecessors": [{"name": "Fármacos", "id": 54550}], "successors": []}
+{"name": "Vasodilatadores", "id": 1562702, "predecessors": [{"name": "Especialidades_médicas", "id": 52892}, {"name": "Cardiología", "id": 54494}], "successors": []}

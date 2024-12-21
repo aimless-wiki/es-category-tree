@@ -1,1 +1,1 @@
-{"name": "Samsung_Galaxy", "id": 7412040, "predecessors": [{"name": "Teléfonos_móviles_Samsung", "id": 2788815}, {"name": "Dispositivos_Android", "id": 4601763}], "successors": []}
+{"name": "Samsung_Galaxy", "id": 7412040, "predecessors": [{"name": "Teléfonos_móviles_Samsung", "id": 2788815}, {"name": "Teléfonos_móviles_táctiles", "id": 4410049}, {"name": "Dispositivos_Android", "id": 4601763}], "successors": []}

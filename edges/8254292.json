@@ -1,1 +1,1 @@
-{"name": "Profesores_de_educación_primaria", "id": 8254292, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Maestros_de_México", "id": 1514063}, {"name": "Maestros_de_España", "id": 7772615}, {"name": "Maestras_de_Estados_Unidos", "id": 8538777}, {"name": "Maestras_de_España", "id": 7876606}, {"name": "Maestras_de_México", "id": 7876641}, {"name": "Maestras_de_Argentina", "id": 8804042}]}
+{"name": "Profesores_de_educación_primaria", "id": 8254292, "predecessors": [{"name": "Ocupaciones", "id": 77994}], "successors": []}

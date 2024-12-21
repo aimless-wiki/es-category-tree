@@ -1,1 +1,1 @@
-{"name": "Animales_descritos_en_1913", "id": 6332877, "predecessors": [{"name": "Especies_descritas_en_1913", "id": 6133758}, {"name": "Historia_de_la_ciencia", "id": 85069}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Insectos_descritos_en_1913", "id": 7406971}]}
+{"name": "Animales_descritos_en_1913", "id": 6332877, "predecessors": [{"name": "Especies_descritas_en_1913", "id": 6133758}, {"name": "Historia_de_la_ciencia", "id": 85069}, {"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Insectos_descritos_en_1913", "id": 7406971}]}

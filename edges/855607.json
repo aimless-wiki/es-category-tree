@@ -1,1 +1,1 @@
-{"name": "Relaciones_laborales", "id": 855607, "predecessors": [{"name": "Negociación", "id": 855725}], "successors": [{"name": "Derecho_laboral", "id": 75762}, {"name": "Empleo", "id": 3057557}, {"name": "Gremios", "id": 6891144}]}
+{"name": "Relaciones_laborales", "id": 855607, "predecessors": [{"name": "Negociación", "id": 855725}, {"name": "Trabajo", "id": 306157}], "successors": [{"name": "Derecho_laboral", "id": 75762}, {"name": "Empleo", "id": 3057557}, {"name": "Gremios", "id": 6891144}]}

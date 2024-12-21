@@ -1,1 +1,1 @@
-{"name": "Casquería", "id": 3080155, "predecessors": [{"name": "Cocina_de_aprovechamiento", "id": 9913365}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Platos_de_sangre", "id": 2879815}]}
+{"name": "Casquería", "id": 3080155, "predecessors": [{"name": "Cocina_de_aprovechamiento", "id": 9913365}], "successors": [{"name": "Platos_de_sangre", "id": 2879815}]}

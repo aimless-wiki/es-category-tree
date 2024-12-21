@@ -1,1 +1,1 @@
-{"name": "Inmunoensayos", "id": 4760286, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Métodos_bioquímicos", "id": 1829825}, {"name": "Biología", "id": 49848}], "successors": []}
+{"name": "Inmunoensayos", "id": 4760286, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Métodos_bioquímicos", "id": 1829825}, {"name": "Métodos_diagnósticos_en_medicina", "id": 5458215}, {"name": "Conocimiento", "id": 703218}], "successors": []}

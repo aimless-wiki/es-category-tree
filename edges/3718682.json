@@ -1,1 +1,1 @@
-{"name": "Aeronaves_de_Lockheed", "id": 3718682, "predecessors": [{"name": "Fabricantes_de_aeronaves_de_Estados_Unidos", "id": 2151115}, {"name": "Vehículos", "id": 66642}], "successors": []}
+{"name": "Aeronaves_de_Lockheed", "id": 3718682, "predecessors": [{"name": "Fabricantes_de_aeronaves_de_Estados_Unidos", "id": 2151115}, {"name": "Aviación", "id": 282606}, {"name": "Vehículos", "id": 66642}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Competidores_de_las_Olimpíadas_de_ajedrez", "id": 5350362, "predecessors": [{"name": "Competiciones_de_ajedrez", "id": 1854210}, {"name": "Ocupaciones", "id": 77994}], "successors": []}
+{"name": "Competidores_de_las_Olimpíadas_de_ajedrez", "id": 5350362, "predecessors": [{"name": "Ajedrez", "id": 65857}, {"name": "Competiciones_de_ajedrez", "id": 1854210}], "successors": []}

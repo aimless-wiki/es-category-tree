@@ -1,1 +1,1 @@
-{"name": "Enfermedades_ginecológicas_y_obstétricas", "id": 887885, "predecessors": [{"name": "Obstetricia_y_ginecología", "id": 67475}, {"name": "Reproducción_humana", "id": 1772305}], "successors": [{"name": "Cáncer_de_mama", "id": 1002579}]}
+{"name": "Enfermedades_ginecológicas_y_obstétricas", "id": 887885, "predecessors": [{"name": "Obstetricia_y_ginecología", "id": 67475}, {"name": "Enfermedades_urogenitales", "id": 1443311}, {"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Cáncer_de_mama", "id": 1002579}]}

@@ -1,1 +1,1 @@
-{"name": "Piedras", "id": 5385730, "predecessors": [{"name": "Construcción", "id": 70487}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": []}
+{"name": "Piedras", "id": 5385730, "predecessors": [{"name": "Construcción", "id": 70487}, {"name": "Materiales", "id": 74562}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Esculturas_en_piedra", "id": 8221353}]}

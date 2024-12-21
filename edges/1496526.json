@@ -1,1 +1,1 @@
-{"name": "Edificios_y_estructuras_de_Lima", "id": 1496526, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Arquitectura", "id": 50594}], "successors": [{"name": "Museos_de_Lima", "id": 1074181}, {"name": "Escuelas_de_Lima", "id": 6578925}]}
+{"name": "Edificios_y_estructuras_de_Lima", "id": 1496526, "predecessors": [{"name": "Cultura", "id": 51310}], "successors": [{"name": "Museos_de_Lima", "id": 1074181}, {"name": "Escuelas_de_Lima", "id": 6578925}]}

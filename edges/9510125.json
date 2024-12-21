@@ -1,1 +1,1 @@
-{"name": "Compositores_de_madrigales", "id": 9510125, "predecessors": [{"name": "Música", "id": 50615}], "successors": [{"name": "Madrigalistas_italianos", "id": 9511064}]}
+{"name": "Compositores_de_madrigales", "id": 9510125, "predecessors": [{"name": "Músicos", "id": 53131}, {"name": "Canciones", "id": 80948}], "successors": [{"name": "Madrigalistas_italianos", "id": 9511064}]}

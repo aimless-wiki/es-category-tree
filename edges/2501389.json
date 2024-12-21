@@ -1,1 +1,1 @@
-{"name": "Software_multiplataforma", "id": 2501389, "predecessors": [{"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "Software_libre_multiplataforma", "id": 4439826}]}
+{"name": "Software_multiplataforma", "id": 2501389, "predecessors": [{"name": "Software", "id": 49473}], "successors": [{"name": "Software_libre_multiplataforma", "id": 4439826}]}

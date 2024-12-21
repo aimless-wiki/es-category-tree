@@ -1,1 +1,1 @@
-{"name": "Congresos", "id": 312872, "predecessors": [{"name": "Reuniones", "id": 4395266}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Conferencias_internacionales", "id": 3084722}, {"name": "Conferencistas", "id": 7707123}]}
+{"name": "Congresos", "id": 312872, "predecessors": [{"name": "Cultura", "id": 51310}, {"name": "Comunicación_humana", "id": 425690}], "successors": [{"name": "Conferencias_internacionales", "id": 3084722}, {"name": "Conferencistas", "id": 7707123}]}

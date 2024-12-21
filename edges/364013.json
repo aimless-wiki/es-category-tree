@@ -1,1 +1,1 @@
-{"name": "Instrumentos_de_medicina", "id": 364013, "predecessors": [{"name": "Medicina", "id": 49474}, {"name": "Tecnologías_sanitarias", "id": 2552753}, {"name": "Diseño_industrial", "id": 1086540}], "successors": [{"name": "Imagen_médica", "id": 1375971}]}
+{"name": "Instrumentos_de_medicina", "id": 364013, "predecessors": [{"name": "Medicina", "id": 49474}, {"name": "Tecnologías_sanitarias", "id": 2552753}, {"name": "Diseño_industrial", "id": 1086540}], "successors": [{"name": "Imagen_médica", "id": 1375971}, {"name": "Instrumentos_quirúrgicos", "id": 9451099}]}

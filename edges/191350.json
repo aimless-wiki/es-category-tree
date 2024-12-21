@@ -1,1 +1,1 @@
-{"name": "Galaxias_espirales", "id": 191350, "predecessors": [{"name": "Galaxias", "id": 179104}, {"name": "Dinámica_de_fluidos", "id": 1267410}], "successors": [{"name": "Galaxias_espirales_barradas", "id": 191358}, {"name": "Galaxias_espirales_intermedias", "id": 3510737}]}
+{"name": "Galaxias_espirales", "id": 191350, "predecessors": [{"name": "Galaxias", "id": 179104}, {"name": "Dinámica_de_fluidos", "id": 1267410}], "successors": []}

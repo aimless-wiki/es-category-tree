@@ -1,1 +1,1 @@
-{"name": "Economistas_de_Alemania", "id": 129915, "predecessors": [{"name": "Científicos_de_Alemania", "id": 129913}, {"name": "Economía", "id": 50645}], "successors": [{"name": "Economistas_de_Alemania_del_siglo_XX", "id": 5119791}]}
+{"name": "Economistas_de_Alemania", "id": 129915, "predecessors": [{"name": "Científicos_de_Alemania", "id": 129913}, {"name": "Economía", "id": 50645}, {"name": "Ciencia", "id": 1733769}], "successors": [{"name": "Economistas_de_Alemania_del_siglo_XX", "id": 5119791}]}

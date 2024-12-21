@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_alzhéimer", "id": 6876326, "predecessors": [{"name": "Cognición", "id": 1831370}, {"name": "Enfermedades_neurológicas", "id": 352250}], "successors": []}
+{"name": "Fallecidos_por_alzhéimer", "id": 6876326, "predecessors": [{"name": "Enfermedades_degenerativas", "id": 804828}, {"name": "Enfermedades_neurológicas", "id": 352250}], "successors": []}

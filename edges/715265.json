@@ -1,1 +1,1 @@
-{"name": "Buques_escuela", "id": 715265, "predecessors": [{"name": "Transporte_marítimo", "id": 73768}, {"name": "Instituciones_de_cultura", "id": 791545}, {"name": "Escuelas", "id": 952264}], "successors": []}
+{"name": "Buques_escuela", "id": 715265, "predecessors": [{"name": "Transporte_marítimo", "id": 73768}, {"name": "Arquitectura", "id": 50594}, {"name": "Escuelas", "id": 952264}], "successors": []}

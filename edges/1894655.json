@@ -1,1 +1,1 @@
-{"name": "Policías_ficticios", "id": 1894655, "predecessors": [{"name": "Agentes_del_orden_ficticios", "id": 1871555}], "successors": [{"name": "Agentes_secretos_ficticios", "id": 5508395}]}
+{"name": "Policías_ficticios", "id": 1894655, "predecessors": [{"name": "Agentes_del_orden_ficticios", "id": 1871555}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Agentes_secretos_ficticios", "id": 5508395}]}

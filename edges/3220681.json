@@ -1,1 +1,1 @@
-{"name": "Bienes_de_interés_cultural_de_la_provincia_de_León", "id": 3220681, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Geografía_física", "id": 741956}, {"name": "Geografía_humana", "id": 402719}], "successors": []}
+{"name": "Bienes_de_interés_cultural_de_la_provincia_de_León", "id": 3220681, "predecessors": [{"name": "Cultura_de_España", "id": 55400}, {"name": "Economía_de_España", "id": 62825}, {"name": "Geografía_humana", "id": 402719}], "successors": [{"name": "Nacidos_en_Astorga", "id": 9837564}]}

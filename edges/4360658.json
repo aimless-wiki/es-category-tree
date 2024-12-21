@@ -1,1 +1,1 @@
-{"name": "Tocados", "id": 4360658, "predecessors": [{"name": "Historia_de_la_indumentaria", "id": 481289}, {"name": "Cabeza", "id": 319554}], "successors": [{"name": "Sombreros", "id": 1374236}, {"name": "Coronas", "id": 2314862}, {"name": "Gorros", "id": 4360637}]}
+{"name": "Tocados", "id": 4360658, "predecessors": [{"name": "Historia_de_la_indumentaria", "id": 481289}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Cabeza", "id": 319554}], "successors": [{"name": "Sombreros", "id": 1374236}, {"name": "Coronas", "id": 2314862}, {"name": "Gorros", "id": 4360637}]}

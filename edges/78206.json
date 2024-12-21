@@ -1,1 +1,1 @@
-{"name": "Sistemas_de_climatización", "id": 78206, "predecessors": [{"name": "Instalaciones_de_los_edificios", "id": 391028}], "successors": [{"name": "Refrigeración", "id": 2803868}, {"name": "Ventilación", "id": 3241426}, {"name": "Calefacción", "id": 5350344}]}
+{"name": "Sistemas_de_climatización", "id": 78206, "predecessors": [{"name": "Instalaciones_de_los_edificios", "id": 391028}], "successors": [{"name": "Climatización", "id": 54653}, {"name": "Refrigeración", "id": 2803868}, {"name": "Ventilación", "id": 3241426}, {"name": "Calefacción", "id": 5350344}]}

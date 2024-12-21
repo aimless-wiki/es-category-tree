@@ -1,1 +1,1 @@
-{"name": "Libros_de_1962", "id": 189446, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}], "successors": [{"name": "Novelas_de_1962", "id": 3004501}]}
+{"name": "Libros_de_1962", "id": 189446, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_1962", "id": 3004501}]}

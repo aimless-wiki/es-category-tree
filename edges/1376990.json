@@ -1,1 +1,1 @@
-{"name": "Arroz", "id": 1376990, "predecessors": [{"name": "Cereales", "id": 51208}, {"name": "Ingredientes_culinarios", "id": 3146307}], "successors": [{"name": "Platos_de_arroz", "id": 3146562}]}
+{"name": "Arroz", "id": 1376990, "predecessors": [{"name": "Cereales", "id": 51208}], "successors": [{"name": "Platos_de_arroz", "id": 3146562}]}

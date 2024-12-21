@@ -1,1 +1,1 @@
-{"name": "Criminales_asesinados", "id": 4437623, "predecessors": [{"name": "Criminales", "id": 81234}, {"name": "Asesinados", "id": 2248242}], "successors": []}
+{"name": "Criminales_asesinados", "id": 4437623, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Comportamiento_humano", "id": 744693}], "successors": []}

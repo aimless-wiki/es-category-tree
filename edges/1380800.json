@@ -1,1 +1,1 @@
-{"name": "Isopoda", "id": 1380800, "predecessors": [{"name": "Biología", "id": 49848}], "successors": [{"name": "Nerocila", "id": 6529148}, {"name": "Anilocra", "id": 6529941}, {"name": "Cymothoa", "id": 9902391}, {"name": "Porcellio", "id": 7605540}]}
+{"name": "Isopoda", "id": 1380800, "predecessors": [{"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Nerocila", "id": 6529148}, {"name": "Anilocra", "id": 6529941}, {"name": "Cymothoa", "id": 9902391}, {"name": "Porcellio", "id": 7605540}]}

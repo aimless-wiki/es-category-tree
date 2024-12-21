@@ -1,1 +1,1 @@
-{"name": "Sencillos_de_balada_romántica", "id": 5812224, "predecessors": [{"name": "Canciones", "id": 80948}], "successors": [{"name": "Sencillos_de_Ricky_Martin", "id": 1794152}]}
+{"name": "Sencillos_de_balada_romántica", "id": 5812224, "predecessors": [{"name": "Canciones_de_balada_romántica", "id": 1318129}, {"name": "Canciones", "id": 80948}], "successors": [{"name": "Sencillos_de_Ricky_Martin", "id": 1794152}]}

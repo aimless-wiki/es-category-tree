@@ -1,1 +1,1 @@
-{"name": "Equipos_de_protección_individual", "id": 4147921, "predecessors": [{"name": "Prevención_de_riesgos_laborales", "id": 114061}, {"name": "Derecho_laboral", "id": 75762}], "successors": [{"name": "Cascos_militares", "id": 2397446}]}
+{"name": "Equipos_de_protección_individual", "id": 4147921, "predecessors": [{"name": "Prevención_de_riesgos_laborales", "id": 114061}, {"name": "Anatomía_humana", "id": 91674}, {"name": "Derecho_laboral", "id": 75762}], "successors": [{"name": "Cascos_militares", "id": 2397446}]}

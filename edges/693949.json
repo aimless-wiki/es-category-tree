@@ -1,1 +1,1 @@
-{"name": "Radiología", "id": 693949, "predecessors": [{"name": "Especialidades_médicas", "id": 52892}, {"name": "Imagen_médica", "id": 1375971}], "successors": [{"name": "Radiación_electromagnética", "id": 436229}, {"name": "Radiactividad", "id": 597003}]}
+{"name": "Radiología", "id": 693949, "predecessors": [{"name": "Especialidades_médicas", "id": 52892}, {"name": "Imagen_médica", "id": 1375971}, {"name": "Métodos_diagnósticos_en_medicina", "id": 5458215}], "successors": [{"name": "Radiación_electromagnética", "id": 436229}, {"name": "Radiactividad", "id": 597003}]}

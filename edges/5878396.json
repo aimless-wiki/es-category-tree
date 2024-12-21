@@ -1,1 +1,1 @@
-{"name": "Libros_de_2013", "id": 5878396, "predecessors": [{"name": "Libros", "id": 158006}], "successors": [{"name": "Novelas_de_2013", "id": 5683722}]}
+{"name": "Libros_de_2013", "id": 5878396, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_2013", "id": 5683722}]}

@@ -1,1 +1,1 @@
-{"name": "Budismo_tibetano", "id": 1226456, "predecessors": [{"name": "Budismo", "id": 60029}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Lamas", "id": 1239820}]}
+{"name": "Budismo_tibetano", "id": 1226456, "predecessors": [{"name": "Cultura_de_China", "id": 108364}, {"name": "Budismo", "id": 60029}, {"name": "Cultura", "id": 51310}], "successors": [{"name": "Lamas", "id": 1239820}]}

@@ -1,1 +1,1 @@
-{"name": "Música_en_euskera", "id": 938613, "predecessors": [{"name": "Euskera", "id": 233057}, {"name": "Música", "id": 50615}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Cantantes_en_euskera", "id": 1068562}]}
+{"name": "Música_en_euskera", "id": 938613, "predecessors": [{"name": "Euskera", "id": 233057}, {"name": "Cultura_del_País_Vasco", "id": 598736}, {"name": "Música", "id": 50615}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Cantantes_en_euskera", "id": 1068562}]}

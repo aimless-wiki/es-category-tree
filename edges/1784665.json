@@ -1,1 +1,1 @@
-{"name": "Ovario", "id": 1784665, "predecessors": [{"name": "Aparato_reproductor_femenino", "id": 331289}, {"name": "Anatomía_animal", "id": 210561}, {"name": "Fisiología", "id": 51229}], "successors": []}
+{"name": "Ovario", "id": 1784665, "predecessors": [{"name": "Aparato_reproductor_femenino", "id": 331289}, {"name": "Anatomía_animal", "id": 210561}, {"name": "Endocrinología", "id": 52890}], "successors": []}

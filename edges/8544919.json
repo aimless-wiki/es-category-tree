@@ -1,1 +1,1 @@
-{"name": "Cócteles_con_vino", "id": 8544919, "predecessors": [{"name": "Bebidas_alcohólicas", "id": 51293}], "successors": []}
+{"name": "Cócteles_con_vino", "id": 8544919, "predecessors": [{"name": "Bebidas_alcohólicas", "id": 51293}, {"name": "Cócteles", "id": 377747}], "successors": []}

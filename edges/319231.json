@@ -1,1 +1,1 @@
-{"name": "Fallecidos_en_2001", "id": 319231, "predecessors": [{"name": "Muerte", "id": 1465483}], "successors": [{"name": "Víctimas_de_los_atentados_del_11_de_Septiembre", "id": 4188421}]}
+{"name": "Fallecidos_en_2001", "id": 319231, "predecessors": [{"name": "Muerte", "id": 1465483}, {"name": "Cronología", "id": 407929}, {"name": "Sistemas_de_clasificación", "id": 1706604}], "successors": [{"name": "Víctimas_de_los_atentados_del_11_de_Septiembre", "id": 4188421}, {"name": "Atentados_del_11_de_septiembre_de_2001", "id": 2237556}]}

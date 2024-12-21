@@ -1,1 +1,1 @@
-{"name": "Enfermedades_del_sistema_visual", "id": 5433523, "predecessors": [{"name": "Oftalmología", "id": 85404}, {"name": "Ojo", "id": 1775375}, {"name": "Sistema_sensorial", "id": 115782}], "successors": [{"name": "Personas_ciegas", "id": 2854713}, {"name": "Personas_tuertas", "id": 6504676}]}
+{"name": "Enfermedades_del_sistema_visual", "id": 5433523, "predecessors": [{"name": "Oftalmología", "id": 85404}, {"name": "Ojo", "id": 1775375}, {"name": "Sistema_sensorial", "id": 115782}, {"name": "Enfermedades", "id": 50842}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Libros_críticos_con_la_religión", "id": 1778594, "predecessors": [{"name": "Crítica_a_la_religión", "id": 2304965}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Libros_críticos_con_el_cristianismo", "id": 9871972}]}
+{"name": "Libros_críticos_con_la_religión", "id": 1778594, "predecessors": [{"name": "Crítica_a_la_religión", "id": 2304965}, {"name": "Libros_religiosos", "id": 5510861}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Libros_críticos_con_el_cristianismo", "id": 9871972}]}

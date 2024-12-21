@@ -1,1 +1,1 @@
-{"name": "CNN", "id": 307353, "predecessors": [{"name": "Canales_de_televisión_de_noticias", "id": 5276894}, {"name": "Empresas_subsidiarias_de_Warner_Bros._Discovery", "id": 9536937}], "successors": [{"name": "Presentadores_de_CNN_en_Español", "id": 2534913}]}
+{"name": "CNN", "id": 307353, "predecessors": [{"name": "Canales_de_televisión_de_noticias", "id": 5276894}, {"name": "Canales_de_televisión", "id": 214027}], "successors": [{"name": "Presentadores_de_CNN_en_Español", "id": 2534913}]}

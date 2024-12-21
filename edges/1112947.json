@@ -1,1 +1,1 @@
-{"name": "Pompeyanos", "id": 1112947, "predecessors": [{"name": "Historia_militar_de_la_Antigua_Roma", "id": 2317343}, {"name": "Estado", "id": 329095}], "successors": []}
+{"name": "Pompeyanos", "id": 1112947, "predecessors": [{"name": "Estado", "id": 329095}, {"name": "Guerra", "id": 69474}, {"name": "Ocupaciones", "id": 77994}], "successors": []}

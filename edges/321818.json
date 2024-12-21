@@ -1,1 +1,1 @@
-{"name": "Energía_solar", "id": 321818, "predecessors": [{"name": "Sol", "id": 165788}], "successors": [{"name": "Fotovoltaica", "id": 1898205}]}
+{"name": "Energía_solar", "id": 321818, "predecessors": [{"name": "Energías_renovables", "id": 54647}, {"name": "Sol", "id": 165788}], "successors": [{"name": "Fotovoltaica", "id": 1898205}]}

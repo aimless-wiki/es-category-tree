@@ -1,1 +1,1 @@
-{"name": "Resolución_de_conflictos", "id": 5914505, "predecessors": [{"name": "Derecho_procesal", "id": 85353}, {"name": "Paz", "id": 453697}, {"name": "Solución_de_problemas", "id": 1831890}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Negociación", "id": 855725}]}
+{"name": "Resolución_de_conflictos", "id": 5914505, "predecessors": [{"name": "Derecho_procesal", "id": 85353}, {"name": "Paz", "id": 453697}, {"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Negociación", "id": 855725}]}

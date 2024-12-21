@@ -1,1 +1,1 @@
-{"name": "Perros_miniatura", "id": 6832535, "predecessors": [{"name": "Reproducción_animal", "id": 4525045}], "successors": []}
+{"name": "Perros_miniatura", "id": 6832535, "predecessors": [{"name": "Perros_de_compañía", "id": 4229777}, {"name": "Animales_de_compañía", "id": 609922}], "successors": []}

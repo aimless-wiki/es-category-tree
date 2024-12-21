@@ -1,1 +1,1 @@
-{"name": "Mantenimiento", "id": 1387897, "predecessors": [{"name": "Ingeniería", "id": 65205}, {"name": "Pobreza", "id": 3055543}], "successors": []}
+{"name": "Mantenimiento", "id": 1387897, "predecessors": [{"name": "Ingeniería", "id": 65205}, {"name": "Pobreza", "id": 3055543}, {"name": "Gestión_de_residuos", "id": 2121353}], "successors": []}

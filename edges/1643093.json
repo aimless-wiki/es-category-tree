@@ -1,1 +1,1 @@
-{"name": "Diplomáticos_de_Ecuador", "id": 1643093, "predecessors": [{"name": "Gobierno", "id": 234634}, {"name": "Ocupaciones", "id": 77994}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Ministros_de_Relaciones_Exteriores_de_Ecuador", "id": 2630315}]}
+{"name": "Diplomáticos_de_Ecuador", "id": 1643093, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Personalidad", "id": 4496858}, {"name": "Política_de_Ecuador", "id": 328730}], "successors": [{"name": "Ministros_de_Relaciones_Exteriores_de_Ecuador", "id": 2630315}]}

@@ -1,1 +1,1 @@
-{"name": "Materiales_semiconductores", "id": 1810243, "predecessors": [{"name": "Semiconductores", "id": 854044}, {"name": "Química", "id": 50641}], "successors": []}
+{"name": "Materiales_semiconductores", "id": 1810243, "predecessors": [{"name": "Semiconductores", "id": 854044}, {"name": "Materiales", "id": 74562}, {"name": "Química", "id": 50641}], "successors": []}

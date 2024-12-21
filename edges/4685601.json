@@ -1,1 +1,1 @@
-{"name": "Ganadores_del_Premio_Grammy", "id": 4685601, "predecessors": [{"name": "Músicos_ganadores_de_premios", "id": 3302088}, {"name": "Cultura_de_Los_Ángeles", "id": 1886568}], "successors": [{"name": "The_Beatles", "id": 432939}]}
+{"name": "Ganadores_del_Premio_Grammy", "id": 4685601, "predecessors": [{"name": "Músicos_ganadores_de_premios", "id": 3302088}, {"name": "Premios_de_música", "id": 309071}], "successors": [{"name": "The_Beatles", "id": 432939}, {"name": "Ganadores_del_Premio_Grammy_Latino", "id": 10736632}]}

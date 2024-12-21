@@ -1,1 +1,1 @@
-{"name": "Profesores_de_la_Universidad_Estatal_de_Campinas", "id": 5689856, "predecessors": [{"name": "Cultura_de_Brasil", "id": 107958}, {"name": "Diócesis_católicas_de_Brasil", "id": 10248812}, {"name": "Profesores_de_Brasil", "id": 1672600}], "successors": []}
+{"name": "Profesores_de_la_Universidad_Estatal_de_Campinas", "id": 5689856, "predecessors": [{"name": "Profesores_de_Brasil", "id": 1672600}, {"name": "Planificación_Territorial", "id": 1122690}], "successors": []}

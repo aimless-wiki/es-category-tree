@@ -1,1 +1,1 @@
-{"name": "ADN", "id": 460032, "predecessors": [{"name": "Ácidos_nucleicos", "id": 208993}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Cromosomas", "id": 1028480}, {"name": "Replicación_de_ADN", "id": 1848812}, {"name": "Secuenciación_de_ADN", "id": 6478386}]}
+{"name": "ADN", "id": 460032, "predecessors": [{"name": "Ácidos_nucleicos", "id": 208993}, {"name": "Célula", "id": 51460}], "successors": [{"name": "Cromosomas", "id": 1028480}, {"name": "Secuenciación_de_ADN", "id": 6478386}]}

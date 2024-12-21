@@ -1,1 +1,1 @@
-{"name": "Muros", "id": 343829, "predecessors": [{"name": "Geografía_política", "id": 1708360}, {"name": "Edificios_y_estructuras_por_tipo", "id": 3260541}], "successors": [{"name": "Murallas", "id": 1006146}]}
+{"name": "Muros", "id": 343829, "predecessors": [{"name": "Geografía_política", "id": 1708360}, {"name": "Arquitectura_militar", "id": 111212}], "successors": [{"name": "Murallas", "id": 1006146}]}

@@ -1,1 +1,1 @@
-{"name": "Software_de_música", "id": 475992, "predecessors": [{"name": "Reproductores_multimedia", "id": 67110}, {"name": "Audio_digital", "id": 221028}, {"name": "Música", "id": 50615}], "successors": [{"name": "Videojuegos_de_música", "id": 1847617}, {"name": "Videojuegos_de_karaoke", "id": 5995565}]}
+{"name": "Software_de_música", "id": 475992, "predecessors": [{"name": "Reproductores_multimedia", "id": 67110}], "successors": [{"name": "Videojuegos_de_música", "id": 1847617}, {"name": "Videojuegos_de_karaoke", "id": 5995565}]}

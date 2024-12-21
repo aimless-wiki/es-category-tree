@@ -1,1 +1,1 @@
-{"name": "Lesiones_y_heridas", "id": 667288, "predecessors": [{"name": "Desastres", "id": 166962}], "successors": [{"name": "Personas_con_paraplejía", "id": 9234441}]}
+{"name": "Lesiones_y_heridas", "id": 667288, "predecessors": [{"name": "Traumatología", "id": 830687}, {"name": "Desastres", "id": 166962}], "successors": []}

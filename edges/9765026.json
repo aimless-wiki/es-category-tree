@@ -1,1 +1,1 @@
-{"name": "Letras_griegas", "id": 9765026, "predecessors": [{"name": "Alfabetos", "id": 52217}], "successors": []}
+{"name": "Letras_griegas", "id": 9765026, "predecessors": [{"name": "Idioma_griego", "id": 144318}, {"name": "Escritura", "id": 52207}], "successors": []}

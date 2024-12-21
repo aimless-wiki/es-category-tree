@@ -1,1 +1,1 @@
-{"name": "Pueblos_antiguos", "id": 252308, "predecessors": [{"name": "Historia_antigua", "id": 200204}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Pueblos_antiguos_de_Europa", "id": 4346429}, {"name": "Pueblos_antiguos_de_Asia", "id": 5691197}]}
+{"name": "Pueblos_antiguos", "id": 252308, "predecessors": [{"name": "Historia_antigua", "id": 200204}, {"name": "Prehistoria", "id": 69768}, {"name": "Antropología", "id": 50642}], "successors": [{"name": "Pueblos_antiguos_de_Europa", "id": 4346429}, {"name": "Pueblos_antiguos_de_Asia", "id": 5691197}]}

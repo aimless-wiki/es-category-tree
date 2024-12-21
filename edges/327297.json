@@ -1,1 +1,1 @@
-{"name": "Tranvías", "id": 327297, "predecessors": [{"name": "Vehículos_eléctricos", "id": 796404}], "successors": [{"name": "Tranvía_de_Tenerife", "id": 991281}]}
+{"name": "Tranvías", "id": 327297, "predecessors": [{"name": "Transporte_público", "id": 670817}, {"name": "Vehículos_eléctricos", "id": 796404}], "successors": [{"name": "Tranvía_de_Tenerife", "id": 991281}]}

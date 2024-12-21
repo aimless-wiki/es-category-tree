@@ -1,1 +1,1 @@
-{"name": "Relicarios", "id": 2366949, "predecessors": [{"name": "Objetos_litúrgicos", "id": 124725}, {"name": "Ceremonias_funerarias", "id": 221090}], "successors": []}
+{"name": "Relicarios", "id": 2366949, "predecessors": [{"name": "Objetos_litúrgicos", "id": 124725}, {"name": "Objetos_de_culto_religioso", "id": 528876}, {"name": "Cajas", "id": 7353295}, {"name": "Ceremonias_funerarias", "id": 221090}], "successors": []}

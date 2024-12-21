@@ -1,1 +1,1 @@
-{"name": "Runas", "id": 297960, "predecessors": [{"name": "Alfabetos", "id": 52217}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": []}
+{"name": "Runas", "id": 297960, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Escritura", "id": 52207}], "successors": []}

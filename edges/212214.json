@@ -1,1 +1,1 @@
-{"name": "Opioides", "id": 212214, "predecessors": [{"name": "Analgésicos", "id": 446719}, {"name": "Drogas", "id": 55410}, {"name": "Comercio_internacional", "id": 636020}], "successors": [{"name": "Analgésicos_opioides", "id": 2081664}]}
+{"name": "Opioides", "id": 212214, "predecessors": [{"name": "Analgésicos", "id": 446719}, {"name": "Adicciones", "id": 2117673}, {"name": "Comercio_internacional", "id": 636020}], "successors": [{"name": "Analgésicos_opioides", "id": 2081664}]}

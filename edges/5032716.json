@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_asta_de_toro", "id": 5032716, "predecessors": [{"name": "Tauromaquia", "id": 102898}, {"name": "Causas_de_muerte", "id": 2161243}], "successors": []}
+{"name": "Fallecidos_por_asta_de_toro", "id": 5032716, "predecessors": [{"name": "Tauromaquia", "id": 102898}, {"name": "Muerte", "id": 1465483}], "successors": []}

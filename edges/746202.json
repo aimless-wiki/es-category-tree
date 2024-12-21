@@ -1,1 +1,1 @@
-{"name": "Virtualización", "id": 746202, "predecessors": [{"name": "Investigación_operativa", "id": 5472764}], "successors": [{"name": "Informática_cuántica", "id": 65818}]}
+{"name": "Virtualización", "id": 746202, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Investigación_operativa", "id": 5472764}], "successors": [{"name": "Informática_cuántica", "id": 65818}]}

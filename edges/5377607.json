@@ -1,1 +1,1 @@
-{"name": "Fallecidos_por_inanición", "id": 5377607, "predecessors": [{"name": "Causas_de_muerte", "id": 2161243}, {"name": "Comportamientos_alimentarios", "id": 744723}, {"name": "Desigualdad_social", "id": 6010039}], "successors": []}
+{"name": "Fallecidos_por_inanición", "id": 5377607, "predecessors": [{"name": "Muerte", "id": 1465483}, {"name": "Comportamientos_alimentarios", "id": 744723}, {"name": "Desigualdad_social", "id": 6010039}], "successors": []}

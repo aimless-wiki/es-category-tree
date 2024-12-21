@@ -1,1 +1,1 @@
-{"name": "Sobrevivientes_de_viruela", "id": 5373507, "predecessors": [{"name": "Enfermos_por_viruela", "id": 4004416}], "successors": [{"name": "Iósif_Stalin", "id": 8622695}]}
+{"name": "Sobrevivientes_de_viruela", "id": 5373507, "predecessors": [{"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Iósif_Stalin", "id": 8622695}]}

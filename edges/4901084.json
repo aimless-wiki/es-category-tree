@@ -1,1 +1,1 @@
-{"name": "Traductores_del_siglo_XXI", "id": 4901084, "predecessors": [{"name": "Escritores_del_siglo_XXI", "id": 929565}, {"name": "Escritores", "id": 6042910}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Traductores_de_España_del_siglo_XXI", "id": 2370754}]}
+{"name": "Traductores_del_siglo_XXI", "id": 4901084, "predecessors": [{"name": "Escritores_del_siglo_XXI", "id": 929565}, {"name": "Cronología", "id": 407929}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Traductores_de_España_del_siglo_XXI", "id": 2370754}]}

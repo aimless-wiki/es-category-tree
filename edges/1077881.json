@@ -1,1 +1,1 @@
-{"name": "Gestores_de_paquetes_Linux", "id": 1077881, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}, {"name": "Herramientas_de_gestión", "id": 324641}], "successors": []}
+{"name": "Gestores_de_paquetes_Linux", "id": 1077881, "predecessors": [{"name": "Software_para_Linux", "id": 1115149}, {"name": "Distribución_de_software", "id": 2196444}], "successors": []}

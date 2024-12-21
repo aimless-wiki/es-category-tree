@@ -1,1 +1,1 @@
-{"name": "Poliedros", "id": 75648, "predecessors": [{"name": "Politopos", "id": 236625}, {"name": "Geometría_euclidiana", "id": 421612}, {"name": "Algoritmos", "id": 54094}], "successors": [{"name": "Prismatoides", "id": 665958}, {"name": "Poliedros_uniformes", "id": 667361}, {"name": "Sólidos_de_Johnson", "id": 2409020}, {"name": "Poliedros_uniformes_duales", "id": 10632433}]}
+{"name": "Poliedros", "id": 75648, "predecessors": [{"name": "Politopos", "id": 236625}, {"name": "Algoritmos", "id": 54094}], "successors": [{"name": "Sólidos_de_Johnson", "id": 2409020}]}

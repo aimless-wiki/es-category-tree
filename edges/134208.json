@@ -1,1 +1,1 @@
-{"name": "DOS", "id": 134208, "predecessors": [{"name": "Historia_del_software", "id": 1277276}, {"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "Software_para_DOS", "id": 1188656}]}
+{"name": "DOS", "id": 134208, "predecessors": [{"name": "Arquitectura_x86", "id": 588873}, {"name": "Historia_del_software", "id": 1277276}], "successors": [{"name": "Software_para_DOS", "id": 1188656}]}

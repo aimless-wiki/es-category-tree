@@ -1,1 +1,1 @@
-{"name": "Enfermedades_epónimas", "id": 803498, "predecessors": [{"name": "Enfermedades", "id": 50842}, {"name": "Epónimos_relacionados_con_la_medicina", "id": 6274668}], "successors": []}
+{"name": "Enfermedades_epónimas", "id": 803498, "predecessors": [{"name": "Enfermedades", "id": 50842}, {"name": "Epónimos_relacionados_con_la_medicina", "id": 6274668}], "successors": [{"name": "Fallecidos_por_párkinson", "id": 5054979}, {"name": "Enfermos_por_párkinson", "id": 6402746}]}

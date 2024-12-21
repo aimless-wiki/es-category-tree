@@ -1,1 +1,1 @@
-{"name": "Política_monetaria", "id": 413707, "predecessors": [{"name": "Economía_monetaria", "id": 504528}, {"name": "Finanzas", "id": 122975}, {"name": "Banca", "id": 59605}, {"name": "Política_económica", "id": 791793}], "successors": [{"name": "Deuda_pública", "id": 4977697}]}
+{"name": "Política_monetaria", "id": 413707, "predecessors": [{"name": "Economía_monetaria", "id": 504528}, {"name": "Finanzas", "id": 122975}, {"name": "Banca", "id": 59605}, {"name": "Macroeconomía", "id": 413704}], "successors": [{"name": "Deuda_pública", "id": 4977697}]}

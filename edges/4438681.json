@@ -1,1 +1,1 @@
-{"name": "Películas_rodadas_en_Italia", "id": 4438681, "predecessors": [{"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_rodadas_en_Roma", "id": 5959151}]}
+{"name": "Películas_rodadas_en_Italia", "id": 4438681, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_rodadas_en_Roma", "id": 5959151}]}

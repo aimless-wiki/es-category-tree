@@ -1,1 +1,1 @@
-{"name": "Insecticidas", "id": 2037738, "predecessors": [{"name": "Pesticidas", "id": 264739}], "successors": []}
+{"name": "Insecticidas", "id": 2037738, "predecessors": [{"name": "Pesticidas", "id": 264739}, {"name": "Ecosistema", "id": 1315320}], "successors": []}

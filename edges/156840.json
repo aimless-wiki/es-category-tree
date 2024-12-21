@@ -1,1 +1,1 @@
-{"name": "Audio", "id": 156840, "predecessors": [{"name": "Acústica", "id": 78852}, {"name": "Electroacústica", "id": 182281}, {"name": "Telecomunicaciones", "id": 52300}, {"name": "Música", "id": 50615}], "successors": [{"name": "Audio_digital", "id": 221028}, {"name": "Audio_analógico", "id": 221555}]}
+{"name": "Audio", "id": 156840, "predecessors": [{"name": "Acústica", "id": 78852}, {"name": "Electroacústica", "id": 182281}, {"name": "Telecomunicaciones", "id": 52300}], "successors": [{"name": "Audio_digital", "id": 221028}, {"name": "Audio_analógico", "id": 221555}]}

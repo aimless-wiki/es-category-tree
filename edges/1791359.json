@@ -1,1 +1,1 @@
-{"name": "Hígado", "id": 1791359, "predecessors": [{"name": "Anatomía_animal", "id": 210561}, {"name": "Anatomía_humana", "id": 91674}], "successors": [{"name": "Enfermedades_hepáticas_y_biliares", "id": 1008957}, {"name": "Fallecidos_por_enfermedades_hepáticas", "id": 5032828}, {"name": "Fallecidos_por_hepatitis", "id": 4894092}]}
+{"name": "Hígado", "id": 1791359, "predecessors": [{"name": "Aparato_digestivo", "id": 51109}, {"name": "Hepatología", "id": 1030823}, {"name": "Anatomía_animal", "id": 210561}, {"name": "Anatomía_humana", "id": 91674}], "successors": []}

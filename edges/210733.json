@@ -1,1 +1,1 @@
-{"name": "Fenetilaminas", "id": 210733, "predecessors": [{"name": "Fármacos_del_sistema_nervioso", "id": 2081543}, {"name": "Aminas", "id": 99029}, {"name": "Drogas", "id": 55410}], "successors": []}
+{"name": "Fenetilaminas", "id": 210733, "predecessors": [{"name": "Farmacología", "id": 55416}, {"name": "Fármacos_del_sistema_nervioso", "id": 2081543}, {"name": "Adicciones", "id": 2117673}, {"name": "Aminas", "id": 99029}], "successors": []}

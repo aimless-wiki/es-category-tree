@@ -1,1 +1,1 @@
-{"name": "Plantas_forrajeras", "id": 432821, "predecessors": [{"name": "Botánica", "id": 54344}, {"name": "Horticultura_y_jardinería", "id": 6172637}, {"name": "Alimentos", "id": 51176}], "successors": []}
+{"name": "Plantas_forrajeras", "id": 432821, "predecessors": [{"name": "Botánica", "id": 54344}, {"name": "Agronomía", "id": 444313}, {"name": "Horticultura_y_jardinería", "id": 6172637}], "successors": []}

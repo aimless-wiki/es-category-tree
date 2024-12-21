@@ -1,1 +1,1 @@
-{"name": "Evolución", "id": 132418, "predecessors": [{"name": "Biología", "id": 49848}, {"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Genética_de_poblaciones", "id": 192855}, {"name": "Filogenia", "id": 1408601}, {"name": "Evolución_biológica", "id": 7464701}]}
+{"name": "Evolución", "id": 132418, "predecessors": [{"name": "Conceptos_metafísicos", "id": 7230564}], "successors": [{"name": "Genética_de_poblaciones", "id": 192855}, {"name": "Filogenia", "id": 1408601}, {"name": "Evolución_biológica", "id": 7464701}]}

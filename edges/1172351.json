@@ -1,1 +1,1 @@
-{"name": "Rocas_ígneas", "id": 1172351, "predecessors": [{"name": "Vulcanología", "id": 70146}, {"name": "Materiales_en_ingeniería", "id": 319318}], "successors": [{"name": "Rocas_volcánicas", "id": 4864019}]}
+{"name": "Rocas_ígneas", "id": 1172351, "predecessors": [{"name": "Vulcanología", "id": 70146}, {"name": "Materiales", "id": 74562}], "successors": [{"name": "Rocas_volcánicas", "id": 4864019}]}

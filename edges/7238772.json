@@ -1,1 +1,1 @@
-{"name": "Telenovelas_de_2016", "id": 7238772, "predecessors": [{"name": "Telenovelas", "id": 312823}, {"name": "Historia_de_la_televisión", "id": 3664930}, {"name": "Arte", "id": 51311}], "successors": []}
+{"name": "Telenovelas_de_2016", "id": 7238772, "predecessors": [{"name": "Cronología", "id": 407929}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Telenovelas_iniciadas_en_2016", "id": 7238775}, {"name": "Telenovelas_finalizadas_en_2016", "id": 7238777}]}

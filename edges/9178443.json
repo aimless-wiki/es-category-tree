@@ -1,1 +1,1 @@
-{"name": "Letras_latinas", "id": 9178443, "predecessors": [{"name": "Idioma_español", "id": 75768}, {"name": "Alfabetos", "id": 52217}], "successors": [{"name": "Letras_latinas_con_diacrítico", "id": 5210393}, {"name": "Letras_latinas_poco_comunes", "id": 8740954}]}
+{"name": "Letras_latinas", "id": 9178443, "predecessors": [{"name": "Idioma_español", "id": 75768}, {"name": "Latín", "id": 144322}, {"name": "Escritura", "id": 52207}], "successors": [{"name": "Letras_latinas_con_diacrítico", "id": 5210393}, {"name": "Letras_latinas_poco_comunes", "id": 8740954}]}

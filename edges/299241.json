@@ -1,1 +1,1 @@
-{"name": "Guitarristas_clásicos", "id": 299241, "predecessors": [{"name": "Guitarristas", "id": 104586}], "successors": [{"name": "Guitarristas_clásicos_de_España", "id": 6497384}]}
+{"name": "Guitarristas_clásicos", "id": 299241, "predecessors": [{"name": "Guitarristas", "id": 104586}, {"name": "Músicos", "id": 53131}], "successors": [{"name": "Guitarristas_clásicos_de_España", "id": 6497384}]}

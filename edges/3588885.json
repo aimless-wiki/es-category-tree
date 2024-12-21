@@ -1,1 +1,1 @@
-{"name": "Desempleo", "id": 3588885, "predecessors": [{"name": "Empleo", "id": 3057557}, {"name": "Sociología_del_trabajo", "id": 1135352}, {"name": "Economía", "id": 50645}, {"name": "Desigualdad_social", "id": 6010039}], "successors": []}
+{"name": "Desempleo", "id": 3588885, "predecessors": [{"name": "Empleo", "id": 3057557}, {"name": "Macroeconomía", "id": 413704}, {"name": "Sociología_del_trabajo", "id": 1135352}, {"name": "Economía", "id": 50645}, {"name": "Desigualdad_social", "id": 6010039}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Maniobras_aéreas", "id": 4399978, "predecessors": [{"name": "Acrobacias", "id": 2643525}, {"name": "Tipos_de_guerra", "id": 4559837}, {"name": "Aviación", "id": 282606}], "successors": []}
+{"name": "Maniobras_aéreas", "id": 4399978, "predecessors": [{"name": "Aviación_militar", "id": 4399984}, {"name": "Aviación", "id": 282606}, {"name": "Cultura", "id": 51310}], "successors": []}

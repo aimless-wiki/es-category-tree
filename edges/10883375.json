@@ -1,1 +1,1 @@
-{"name": "Fenómenos_solares", "id": 10883375, "predecessors": [{"name": "Astrofísica_estelar", "id": 84564}, {"name": "Sol", "id": 165788}, {"name": "Fenómenos_astronómicos", "id": 869489}], "successors": []}
+{"name": "Fenómenos_solares", "id": 10883375, "predecessors": [{"name": "Astrofísica_estelar", "id": 84564}, {"name": "Sol", "id": 165788}, {"name": "Sistema_solar", "id": 723879}], "successors": []}

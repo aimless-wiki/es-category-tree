@@ -1,1 +1,1 @@
-{"name": "Marcas_de_refrescos", "id": 10195726, "predecessors": [{"name": "Marcas_de_productos_alimenticios", "id": 3478281}], "successors": [{"name": "Marcas_de_bebida_cola", "id": 9955917}]}
+{"name": "Marcas_de_refrescos", "id": 10195726, "predecessors": [{"name": "Bebidas", "id": 51303}], "successors": [{"name": "Marcas_de_bebida_cola", "id": 9955917}]}

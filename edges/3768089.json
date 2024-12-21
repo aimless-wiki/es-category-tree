@@ -1,1 +1,1 @@
-{"name": "Hongos_venenosos", "id": 3768089, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Micología", "id": 548170}, {"name": "Venenos", "id": 837255}], "successors": []}
+{"name": "Hongos_venenosos", "id": 3768089, "predecessors": [{"name": "Fungi", "id": 930482}, {"name": "Micología", "id": 548170}, {"name": "Toxicología", "id": 129853}, {"name": "Venenos", "id": 837255}], "successors": []}

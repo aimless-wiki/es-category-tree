@@ -1,1 +1,1 @@
-{"name": "Profesores_de_la_Universidad_de_Cambridge", "id": 5040257, "predecessors": [{"name": "Universidad_de_Cambridge", "id": 1302250}, {"name": "Profesores_de_Reino_Unido", "id": 1576611}, {"name": "Capitales_de_condado_de_Inglaterra", "id": 6134709}], "successors": []}
+{"name": "Profesores_de_la_Universidad_de_Cambridge", "id": 5040257, "predecessors": [{"name": "Universidad_de_Cambridge", "id": 1302250}, {"name": "Profesores", "id": 113460}], "successors": []}

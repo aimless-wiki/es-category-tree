@@ -1,1 +1,1 @@
-{"name": "Soldadura", "id": 125522, "predecessors": [{"name": "Metalurgia", "id": 66619}, {"name": "Procesos_industriales", "id": 666998}], "successors": []}
+{"name": "Soldadura", "id": 125522, "predecessors": [{"name": "Metalurgia", "id": 66619}, {"name": "Procesos_industriales", "id": 666998}, {"name": "Derecho_laboral", "id": 75762}], "successors": []}

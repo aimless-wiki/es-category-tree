@@ -1,1 +1,1 @@
-{"name": "Tecnologías_sustentables", "id": 3167376, "predecessors": [{"name": "Sostenibilidad", "id": 5347295}], "successors": [{"name": "Tecnología_adecuada", "id": 7719085}]}
+{"name": "Tecnologías_sustentables", "id": 3167376, "predecessors": [{"name": "Sostenibilidad", "id": 5347295}, {"name": "Tecnología", "id": 50822}], "successors": [{"name": "Tecnología_adecuada", "id": 7719085}]}

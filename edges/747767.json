@@ -1,1 +1,1 @@
-{"name": "Procesiones_religiosas", "id": 747767, "predecessors": [{"name": "Andar", "id": 6998070}, {"name": "Comportamiento_humano", "id": 744693}, {"name": "Grupos_sociales", "id": 329683}], "successors": []}
+{"name": "Procesiones_religiosas", "id": 747767, "predecessors": [{"name": "Andar", "id": 6998070}, {"name": "Ceremonias", "id": 167802}, {"name": "Comportamiento_humano", "id": 744693}], "successors": []}

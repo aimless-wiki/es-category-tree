@@ -1,1 +1,1 @@
-{"name": "Capital_inversión", "id": 6024151, "predecessors": [{"name": "Inversión", "id": 2801527}, {"name": "Mercados_financieros", "id": 85710}, {"name": "Activos_financieros", "id": 2909530}, {"name": "Gestión", "id": 135112}], "successors": []}
+{"name": "Capital_inversión", "id": 6024151, "predecessors": [{"name": "Inversión", "id": 2801527}, {"name": "Mercados_financieros", "id": 85710}, {"name": "Activos_financieros", "id": 2909530}, {"name": "Gestión", "id": 135112}], "successors": [{"name": "Empresas_de_capital_inversión_de_Estados_Unidos", "id": 7458572}]}

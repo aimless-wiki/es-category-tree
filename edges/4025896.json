@@ -1,1 +1,1 @@
-{"name": "Profesores_del_País_Vasco", "id": 4025896, "predecessors": [{"name": "Educación_en_España", "id": 300125}, {"name": "Profesores_de_España", "id": 927428}], "successors": [{"name": "Profesores_de_la_Universidad_de_Deusto", "id": 4242892}]}
+{"name": "Profesores_del_País_Vasco", "id": 4025896, "predecessors": [{"name": "Cultura_del_País_Vasco", "id": 598736}, {"name": "Profesores_de_España", "id": 927428}], "successors": [{"name": "Profesores_de_la_Universidad_de_Deusto", "id": 4242892}]}

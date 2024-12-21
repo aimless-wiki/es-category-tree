@@ -1,1 +1,1 @@
-{"name": "Lenguajes_de_marcado", "id": 1699938, "predecessors": [{"name": "Estándares", "id": 1013419}, {"name": "Informática", "id": 65343}], "successors": [{"name": "HTML", "id": 508685}]}
+{"name": "Lenguajes_de_marcado", "id": 1699938, "predecessors": [{"name": "Estándares", "id": 1013419}, {"name": "Informática", "id": 65343}], "successors": [{"name": "XML", "id": 508648}, {"name": "HTML", "id": 508685}]}

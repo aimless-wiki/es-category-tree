@@ -1,1 +1,1 @@
-{"name": "Ecuaciones", "id": 429722, "predecessors": [{"name": "Terminología_matemática", "id": 1178388}], "successors": [{"name": "Ecuaciones_de_la_física", "id": 5500646}, {"name": "Ecuaciones_epónimas_de_la_física", "id": 5943942}]}
+{"name": "Ecuaciones", "id": 429722, "predecessors": [{"name": "Terminología_matemática", "id": 1178388}], "successors": [{"name": "Ecuaciones_diferenciales", "id": 412417}, {"name": "Ecuaciones_de_la_física", "id": 5500646}, {"name": "Ecuaciones_epónimas_de_la_física", "id": 5943942}]}

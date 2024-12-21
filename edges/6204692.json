@@ -1,1 +1,1 @@
-{"name": "Productores_de_teatro_de_Argentina", "id": 6204692, "predecessors": [{"name": "Empresarios_de_Argentina", "id": 220032}], "successors": []}
+{"name": "Productores_de_teatro_de_Argentina", "id": 6204692, "predecessors": [{"name": "Empresarios_de_Argentina", "id": 220032}, {"name": "Productores_de_teatro", "id": 6892124}], "successors": []}

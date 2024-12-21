@@ -1,1 +1,1 @@
-{"name": "Vacunas", "id": 446713, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Biotecnología", "id": 217303}, {"name": "Especialidades_médicas", "id": 52892}, {"name": "Contaminación_acuática", "id": 1781175}], "successors": [{"name": "Vacunas_contra_la_COVID-19", "id": 9721057}]}
+{"name": "Vacunas", "id": 446713, "predecessors": [{"name": "Inmunología", "id": 102552}, {"name": "Biotecnología", "id": 217303}, {"name": "Especialidades_médicas", "id": 52892}, {"name": "Contaminación_acuática", "id": 1781175}], "successors": []}

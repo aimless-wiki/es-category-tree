@@ -1,1 +1,1 @@
-{"name": "Tipos_de_turismo", "id": 2897906, "predecessors": [{"name": "Turismo", "id": 55707}], "successors": [{"name": "Excursionismo", "id": 122229}, {"name": "Ecoturismo", "id": 722232}]}
+{"name": "Tipos_de_turismo", "id": 2897906, "predecessors": [{"name": "Comportamiento_humano", "id": 744693}], "successors": [{"name": "Excursionismo", "id": 122229}, {"name": "Ecoturismo", "id": 722232}, {"name": "SpaceX", "id": 3443841}]}

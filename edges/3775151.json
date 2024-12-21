@@ -1,1 +1,1 @@
-{"name": "Motores_radiales", "id": 3775151, "predecessors": [{"name": "Componentes_de_aeronaves", "id": 4398665}], "successors": []}
+{"name": "Motores_radiales", "id": 3775151, "predecessors": [{"name": "Componentes_de_aeronaves", "id": 4398665}, {"name": "Motores_de_combustión_interna", "id": 324656}], "successors": []}

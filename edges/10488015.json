@@ -1,1 +1,1 @@
-{"name": "Mamíferos_descritos_en_1758", "id": 10488015, "predecessors": [{"name": "Animales_descritos_en_1758", "id": 6254194}], "successors": [{"name": "Homo_sapiens", "id": 6409336}]}
+{"name": "Mamíferos_descritos_en_1758", "id": 10488015, "predecessors": [{"name": "Animales_descritos_en_1758", "id": 6254194}, {"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Homo_sapiens", "id": 6409336}]}

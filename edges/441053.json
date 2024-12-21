@@ -1,1 +1,1 @@
-{"name": "Políticos_de_Granada", "id": 441053, "predecessors": [{"name": "Ocupaciones", "id": 77994}, {"name": "Personas_de_Granada", "id": 9406257}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Alcaldes_de_Granada", "id": 268603}]}
+{"name": "Políticos_de_Granada", "id": 441053, "predecessors": [{"name": "Políticos_de_Andalucía", "id": 121249}, {"name": "Ocupaciones", "id": 77994}], "successors": [{"name": "Alcaldes_de_Granada", "id": 268603}]}

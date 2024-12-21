@@ -1,1 +1,1 @@
-{"name": "Ingeniería_de_sistemas", "id": 5989136, "predecessors": [{"name": "Teoría_de_sistemas", "id": 138180}, {"name": "Ingeniería", "id": 65205}, {"name": "Sistemas", "id": 4539548}], "successors": [{"name": "Seguridad_informática", "id": 105215}]}
+{"name": "Ingeniería_de_sistemas", "id": 5989136, "predecessors": [{"name": "Teoría_de_sistemas", "id": 138180}, {"name": "Ingeniería", "id": 65205}, {"name": "Sistemas", "id": 4539548}], "successors": [{"name": "Motores", "id": 604095}, {"name": "Seguridad_informática", "id": 105215}]}

@@ -1,1 +1,1 @@
-{"name": "Circuitos_electrónicos", "id": 190502, "predecessors": [{"name": "Electromagnetismo", "id": 68082}], "successors": [{"name": "Filtros_electrónicos", "id": 190487}, {"name": "Circuitos_integrados", "id": 1054324}]}
+{"name": "Circuitos_electrónicos", "id": 190502, "predecessors": [{"name": "Electromagnetismo", "id": 68082}], "successors": [{"name": "Filtros_electrónicos", "id": 190487}, {"name": "Osciladores", "id": 190503}, {"name": "Circuitos_integrados", "id": 1054324}]}

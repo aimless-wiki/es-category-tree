@@ -1,1 +1,1 @@
-{"name": "Literatura_hinduista", "id": 1379040, "predecessors": [{"name": "Literatura_por_tema", "id": 980237}, {"name": "Cultura_de_África", "id": 313638}], "successors": [{"name": "Literatura_en_sánscrito", "id": 188032}, {"name": "Mahábharata", "id": 5294381}, {"name": "Personajes_del_Rig-veda", "id": 5188446}]}
+{"name": "Literatura_hinduista", "id": 1379040, "predecessors": [{"name": "Ficción", "id": 65453}, {"name": "Cultura_de_África", "id": 313638}], "successors": [{"name": "Literatura_en_sánscrito", "id": 188032}, {"name": "Mahábharata", "id": 5294381}]}

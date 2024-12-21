@@ -1,1 +1,1 @@
-{"name": "Bienes_de_interés_cultural_de_la_provincia_de_Valladolid", "id": 2228782, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Geografía_humana", "id": 402719}], "successors": [{"name": "Castillos_de_la_provincia_de_Valladolid", "id": 1439379}]}
+{"name": "Bienes_de_interés_cultural_de_la_provincia_de_Valladolid", "id": 2228782, "predecessors": [{"name": "Cultura_de_España", "id": 55400}, {"name": "Geografía_humana", "id": 402719}], "successors": [{"name": "Castillos_de_la_provincia_de_Valladolid", "id": 1439379}]}

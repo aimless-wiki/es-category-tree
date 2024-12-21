@@ -1,1 +1,1 @@
-{"name": "Carcinógenos", "id": 698876, "predecessors": [{"name": "Contaminantes", "id": 3524972}, {"name": "Compuestos_químicos", "id": 112512}], "successors": [{"name": "Fenoles", "id": 1190019}, {"name": "Carcinógenos_IARC_Grupo_1", "id": 9364731}]}
+{"name": "Carcinógenos", "id": 698876, "predecessors": [{"name": "Oncología", "id": 72357}, {"name": "Toxicología", "id": 129853}, {"name": "Compuestos_químicos", "id": 112512}, {"name": "Contaminación", "id": 90182}], "successors": [{"name": "Fenoles", "id": 1190019}, {"name": "Carcinógenos_IARC_Grupo_1", "id": 9364731}]}

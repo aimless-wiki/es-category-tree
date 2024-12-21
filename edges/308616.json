@@ -1,1 +1,1 @@
-{"name": "Libros_de_1971", "id": 308616, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}], "successors": [{"name": "Novelas_de_1971", "id": 2650044}]}
+{"name": "Libros_de_1971", "id": 308616, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_1971", "id": 2650044}]}

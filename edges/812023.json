@@ -1,1 +1,1 @@
-{"name": "Malaria", "id": 812023, "predecessors": [{"name": "Zoonosis", "id": 779153}, {"name": "Parasitología", "id": 1046810}, {"name": "Enfermedades_infecciosas", "id": 64496}, {"name": "Salud", "id": 75409}, {"name": "Epidemiología", "id": 51568}], "successors": []}
+{"name": "Malaria", "id": 812023, "predecessors": [{"name": "Zoonosis", "id": 779153}, {"name": "Microbiología", "id": 68208}, {"name": "Salud", "id": 75409}, {"name": "Enfermedades_infecciosas", "id": 64496}, {"name": "Epidemiología", "id": 51568}], "successors": []}

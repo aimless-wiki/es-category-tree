@@ -1,1 +1,1 @@
-{"name": "Videoconsolas_portátiles", "id": 575468, "predecessors": [{"name": "Computadoras_portables", "id": 1496958}, {"name": "Videoconsolas", "id": 74685}], "successors": [{"name": "Videojuegos_para_PlayStation_Vita", "id": 4967856}]}
+{"name": "Videoconsolas_portátiles", "id": 575468, "predecessors": [{"name": "Computadoras_portables", "id": 1496958}, {"name": "Videoconsolas", "id": 74685}, {"name": "Aparatos_electrónicos", "id": 667955}, {"name": "Computadoras", "id": 1434456}], "successors": []}

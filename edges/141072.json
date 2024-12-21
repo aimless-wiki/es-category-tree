@@ -1,1 +1,1 @@
-{"name": "Utensilios_de_cocina", "id": 141072, "predecessors": [{"name": "Terminología_de_restaurantes", "id": 851400}, {"name": "Diseño_industrial", "id": 1086540}], "successors": []}
+{"name": "Utensilios_de_cocina", "id": 141072, "predecessors": [{"name": "Terminología_de_restaurantes", "id": 851400}, {"name": "Gastronomía", "id": 51198}, {"name": "Diseño_industrial", "id": 1086540}], "successors": [{"name": "Electrodomésticos_de_cocina", "id": 2899438}, {"name": "Utensilios_de_cocina_de_España", "id": 4199058}]}

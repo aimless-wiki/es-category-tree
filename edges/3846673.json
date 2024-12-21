@@ -1,1 +1,1 @@
-{"name": "Pintores_de_Granada", "id": 3846673, "predecessors": [{"name": "Personas_de_Granada", "id": 9406257}, {"name": "Personalidad", "id": 4496858}, {"name": "Cultura_de_Granada", "id": 2252774}], "successors": []}
+{"name": "Pintores_de_Granada", "id": 3846673, "predecessors": [{"name": "Arte", "id": 51311}, {"name": "Cultura_de_Granada", "id": 2252774}], "successors": []}

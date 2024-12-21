@@ -1,1 +1,1 @@
-{"name": "Aeronaves_de_Beechcraft", "id": 4473884, "predecessors": [{"name": "Vehículos", "id": 66642}, {"name": "Empresas", "id": 62409}], "successors": []}
+{"name": "Aeronaves_de_Beechcraft", "id": 4473884, "predecessors": [{"name": "Aviación", "id": 282606}, {"name": "Empresas", "id": 62409}, {"name": "Vehículos", "id": 66642}], "successors": []}

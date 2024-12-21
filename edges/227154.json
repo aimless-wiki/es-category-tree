@@ -1,1 +1,1 @@
-{"name": "Red_eléctrica", "id": 227154, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Energía", "id": 51341}], "successors": []}
+{"name": "Red_eléctrica", "id": 227154, "predecessors": [{"name": "Redes", "id": 227126}, {"name": "Energía", "id": 51341}], "successors": [{"name": "Centrales_de_ciclo_combinado_en_España", "id": 1918418}, {"name": "Antiguas_centrales_termoeléctricas_en_España", "id": 5213799}, {"name": "Centrales_hidroeléctricas_de_México", "id": 4603944}]}

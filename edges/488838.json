@@ -1,1 +1,1 @@
-{"name": "Andrología", "id": 488838, "predecessors": [{"name": "Hombre", "id": 116275}, {"name": "Salud_del_varón", "id": 6972024}, {"name": "Salud_sexual", "id": 4041897}], "successors": [{"name": "Aparato_reproductor_masculino", "id": 331286}]}
+{"name": "Andrología", "id": 488838, "predecessors": [{"name": "Salud_del_varón", "id": 6972024}, {"name": "Salud_sexual", "id": 4041897}, {"name": "Urología", "id": 141851}, {"name": "Género", "id": 2253349}], "successors": [{"name": "Aparato_reproductor_masculino", "id": 331286}]}

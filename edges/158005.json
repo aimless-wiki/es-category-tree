@@ -1,1 +1,1 @@
-{"name": "Libros_de_caballerías", "id": 158005, "predecessors": [{"name": "Literatura_medieval", "id": 66947}], "successors": [{"name": "Libros_de_caballerías_de_España", "id": 1264600}]}
+{"name": "Libros_de_caballerías", "id": 158005, "predecessors": [{"name": "Literatura_medieval", "id": 66947}, {"name": "Epopeyas", "id": 415109}], "successors": [{"name": "Libros_de_caballerías_de_España", "id": 1264600}]}

@@ -1,1 +1,1 @@
-{"name": "Museos_de_Inglaterra", "id": 4619690, "predecessors": [{"name": "Geografía_humana", "id": 402719}, {"name": "Historia_de_Inglaterra", "id": 87467}, {"name": "Cultura_de_Reino_Unido", "id": 75833}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Museos_de_Londres", "id": 1310590}, {"name": "Derby_Museum_and_Art_Gallery", "id": 4619685}]}
+{"name": "Museos_de_Inglaterra", "id": 4619690, "predecessors": [{"name": "Geografía_humana", "id": 402719}, {"name": "Cultura_de_Reino_Unido", "id": 75833}], "successors": [{"name": "Museos_de_Londres", "id": 1310590}]}

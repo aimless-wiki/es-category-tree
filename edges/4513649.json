@@ -1,1 +1,1 @@
-{"name": "Películas_rodadas_en_el_Reino_Unido", "id": 4513649, "predecessors": [{"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_rodadas_en_Inglaterra", "id": 5984056}]}
+{"name": "Películas_rodadas_en_el_Reino_Unido", "id": 4513649, "predecessors": [{"name": "Cine", "id": 50592}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Películas_rodadas_en_Inglaterra", "id": 5984056}]}

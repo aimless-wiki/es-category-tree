@@ -1,1 +1,1 @@
-{"name": "Fallecidos_en_Míchigan", "id": 9651044, "predecessors": [{"name": "Personas_de_Míchigan", "id": 10224101}], "successors": [{"name": "Fallecidos_en_Detroit", "id": 9651043}]}
+{"name": "Fallecidos_en_Míchigan", "id": 9651044, "predecessors": [{"name": "Personas_de_Míchigan", "id": 10224101}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Fallecidos_en_Detroit", "id": 9651043}]}

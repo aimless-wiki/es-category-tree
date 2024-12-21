@@ -1,1 +1,1 @@
-{"name": "Perros_de_deporte", "id": 4362059, "predecessors": [{"name": "Animales", "id": 55378}], "successors": []}
+{"name": "Perros_de_deporte", "id": 4362059, "predecessors": [{"name": "Animales_de_compañía", "id": 609922}, {"name": "Comportamiento_humano", "id": 744693}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Productores_de_cine_de_Chile", "id": 1487109, "predecessors": [{"name": "Productores_de_cine", "id": 194470}, {"name": "Geografía_física", "id": 741956}, {"name": "Empresarios_de_Chile", "id": 198062}], "successors": []}
+{"name": "Productores_de_cine_de_Chile", "id": 1487109, "predecessors": [{"name": "Productores_de_cine", "id": 194470}, {"name": "Empresarios_de_Chile", "id": 198062}, {"name": "Arte", "id": 51311}], "successors": []}

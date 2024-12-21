@@ -1,1 +1,1 @@
-{"name": "Sistemas_operativos_embebidos", "id": 3582965, "predecessors": [{"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "Linux_embebido", "id": 3582717}]}
+{"name": "Sistemas_operativos_embebidos", "id": 3582965, "predecessors": [{"name": "Ingeniería_electrónica", "id": 123446}], "successors": [{"name": "Linux_embebido", "id": 3582717}]}

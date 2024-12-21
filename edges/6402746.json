@@ -1,1 +1,1 @@
-{"name": "Enfermos_por_párkinson", "id": 6402746, "predecessors": [{"name": "Sistema_nervioso_central", "id": 66564}, {"name": "Personalidad", "id": 4496858}], "successors": [{"name": "Juan_Pablo_II", "id": 341510}]}
+{"name": "Enfermos_por_párkinson", "id": 6402746, "predecessors": [{"name": "Enfermedades_epónimas", "id": 803498}, {"name": "Enfermedades", "id": 50842}], "successors": [{"name": "Juan_Pablo_II", "id": 341510}]}

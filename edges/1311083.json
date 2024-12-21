@@ -1,1 +1,1 @@
-{"name": "Pintores_pop", "id": 1311083, "predecessors": [{"name": "Pintores_contemporáneos", "id": 1308997}, {"name": "Artistas_gráficos", "id": 5307264}, {"name": "Geografía_física", "id": 741956}], "successors": []}
+{"name": "Pintores_pop", "id": 1311083, "predecessors": [{"name": "Pintores_contemporáneos", "id": 1308997}, {"name": "Artistas_gráficos", "id": 5307264}, {"name": "Arte", "id": 51311}], "successors": []}

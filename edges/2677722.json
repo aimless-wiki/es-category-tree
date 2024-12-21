@@ -1,1 +1,1 @@
-{"name": "Bancos_desaparecidos", "id": 2677722, "predecessors": [{"name": "Empresas_desaparecidas", "id": 1467939}, {"name": "Banca", "id": 59605}, {"name": "Bancos", "id": 132846}], "successors": [{"name": "Bancos_desaparecidos_de_España", "id": 8914718}]}
+{"name": "Bancos_desaparecidos", "id": 2677722, "predecessors": [{"name": "Banca", "id": 59605}, {"name": "Bancos", "id": 132846}], "successors": [{"name": "Bancos_desaparecidos_de_España", "id": 8914718}]}

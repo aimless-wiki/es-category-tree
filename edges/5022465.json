@@ -1,1 +1,1 @@
-{"name": "Software_antivirus", "id": 5022465, "predecessors": [{"name": "Seguridad_informática", "id": 105215}, {"name": "Redes_informáticas", "id": 186159}], "successors": []}
+{"name": "Software_antivirus", "id": 5022465, "predecessors": [{"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Redes_informáticas", "id": 186159}], "successors": []}

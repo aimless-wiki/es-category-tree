@@ -1,1 +1,1 @@
-{"name": "Álbumes_de_jazz_rock", "id": 4444009, "predecessors": [{"name": "Álbumes_de_jazz", "id": 1233915}, {"name": "Álbumes_de_rock", "id": 628754}, {"name": "Géneros_musicales_de_los_años_1970", "id": 2269933}], "successors": [{"name": "Álbumes_de_Chicago", "id": 271519}]}
+{"name": "Álbumes_de_jazz_rock", "id": 4444009, "predecessors": [{"name": "Géneros_musicales_de_los_años_1970", "id": 2269933}], "successors": [{"name": "Álbumes_de_Chicago", "id": 271519}]}

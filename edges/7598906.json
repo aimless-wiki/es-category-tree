@@ -1,1 +1,1 @@
-{"name": "Profesores_de_la_Escuela_Politécnica_Federal_de_Lausana", "id": 7598906, "predecessors": [{"name": "Profesores_de_Suiza", "id": 1515566}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": []}
+{"name": "Profesores_de_la_Escuela_Politécnica_Federal_de_Lausana", "id": 7598906, "predecessors": [{"name": "Escuelas", "id": 952264}, {"name": "Profesores_de_Suiza", "id": 1515566}, {"name": "Entidades_subnacionales", "id": 365760}], "successors": []}

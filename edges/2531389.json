@@ -1,1 +1,1 @@
-{"name": "Videojuegos_de_Mario", "id": 2531389, "predecessors": [{"name": "Mario", "id": 2169793}, {"name": "Franquicias_de_Nintendo", "id": 1673388}, {"name": "Fenómenos_de_Internet", "id": 565717}], "successors": [{"name": "Super_Mario", "id": 10511873}]}
+{"name": "Videojuegos_de_Mario", "id": 2531389, "predecessors": [{"name": "Mario", "id": 2169793}, {"name": "Franquicias_de_Nintendo", "id": 1673388}, {"name": "Fenómenos_de_Internet", "id": 565717}, {"name": "Videojuegos", "id": 61224}], "successors": [{"name": "Super_Mario", "id": 10511873}]}

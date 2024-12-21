@@ -1,1 +1,1 @@
-{"name": "Epístolas_paulinas", "id": 5345194, "predecessors": [{"name": "Pablo_de_Tarso", "id": 1339304}, {"name": "Libros_de_la_Biblia", "id": 113569}, {"name": "Cristianismo_del_siglo_I", "id": 9241577}], "successors": []}
+{"name": "Epístolas_paulinas", "id": 5345194, "predecessors": [{"name": "Libros_del_Nuevo_Testamento", "id": 129936}, {"name": "Pablo_de_Tarso", "id": 1339304}, {"name": "Cristianismo_del_siglo_I", "id": 9241577}, {"name": "Cartas", "id": 5868020}], "successors": []}

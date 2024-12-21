@@ -1,1 +1,1 @@
-{"name": "Software_para_macOS", "id": 1115965, "predecessors": [{"name": "MacOS", "id": 1116000}, {"name": "Sistemas_operativos", "id": 54097}], "successors": [{"name": "Videojuegos_para_Mac", "id": 2256732}, {"name": "Videojuegos_para_macOS", "id": 10445914}]}
+{"name": "Software_para_macOS", "id": 1115965, "predecessors": [{"name": "MacOS", "id": 1116000}, {"name": "Software", "id": 49473}], "successors": [{"name": "Videojuegos_para_Mac", "id": 2256732}, {"name": "Videojuegos_para_macOS", "id": 10445914}]}

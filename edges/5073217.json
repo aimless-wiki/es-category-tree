@@ -1,1 +1,1 @@
-{"name": "Víctimas_del_Holocausto", "id": 5073217, "predecessors": [{"name": "Holocausto", "id": 496142}, {"name": "Víctimas_del_nazismo", "id": 1447249}, {"name": "Causas_de_muerte", "id": 2161243}], "successors": [{"name": "Supervivientes_del_Holocausto", "id": 8048670}]}
+{"name": "Víctimas_del_Holocausto", "id": 5073217, "predecessors": [{"name": "Holocausto", "id": 496142}, {"name": "Víctimas_del_nazismo", "id": 1447249}, {"name": "Muerte", "id": 1465483}], "successors": [{"name": "Supervivientes_del_Holocausto", "id": 8048670}]}

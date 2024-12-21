@@ -1,1 +1,1 @@
-{"name": "Transportes_Metropolitanos_de_Barcelona", "id": 3215213, "predecessors": [{"name": "Ciencia_y_tecnología_de_España", "id": 1149665}, {"name": "Empresas_de_España", "id": 100927}, {"name": "Historia_de_Barcelona", "id": 3809652}], "successors": []}
+{"name": "Transportes_Metropolitanos_de_Barcelona", "id": 3215213, "predecessors": [{"name": "Ciencia_y_tecnología_de_España", "id": 1149665}, {"name": "Transporte", "id": 55371}, {"name": "Historia_de_Barcelona", "id": 3809652}], "successors": []}

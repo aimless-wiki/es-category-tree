@@ -1,1 +1,1 @@
-{"name": "Videojuegos_libres", "id": 525556, "predecessors": [{"name": "Software_libre", "id": 51355}], "successors": [{"name": "Videojuegos_comerciales_con_código_fuente_libre", "id": 4683363}]}
+{"name": "Videojuegos_libres", "id": 525556, "predecessors": [{"name": "Videojuegos", "id": 61224}, {"name": "Aplicaciones_informáticas", "id": 54102}, {"name": "Software_libre", "id": 51355}], "successors": [{"name": "Videojuegos_comerciales_con_código_fuente_libre", "id": 4683363}]}

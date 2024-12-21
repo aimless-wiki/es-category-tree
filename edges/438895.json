@@ -1,1 +1,1 @@
-{"name": "Antihipertensivos", "id": 438895, "predecessors": [{"name": "Fármacos", "id": 54550}, {"name": "Emociones", "id": 177156}], "successors": []}
+{"name": "Antihipertensivos", "id": 438895, "predecessors": [{"name": "Nefrología", "id": 281420}, {"name": "Cardiología", "id": 54494}], "successors": []}

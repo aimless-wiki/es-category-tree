@@ -1,1 +1,1 @@
-{"name": "Televisión_digital", "id": 1086446, "predecessors": [{"name": "Tecnología_de_la_televisión", "id": 4929679}, {"name": "Medios_digitales", "id": 5933105}], "successors": [{"name": "Televisión_por_internet", "id": 1000247}, {"name": "Cadenas_TDT_de_Francia", "id": 3646272}]}
+{"name": "Televisión_digital", "id": 1086446, "predecessors": [{"name": "Tecnología_de_la_televisión", "id": 4929679}, {"name": "Edad_Contemporánea", "id": 441788}], "successors": [{"name": "Televisión_por_internet", "id": 1000247}]}

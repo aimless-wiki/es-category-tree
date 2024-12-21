@@ -1,1 +1,1 @@
-{"name": "Apocalipsis", "id": 2206660, "predecessors": [{"name": "Libros_del_siglo_I", "id": 2210972}, {"name": "Libros_de_la_Biblia", "id": 113569}, {"name": "Escatología_cristiana", "id": 541541}, {"name": "Creencias", "id": 1852148}], "successors": [{"name": "Jesús_de_Nazaret", "id": 277955}]}
+{"name": "Apocalipsis", "id": 2206660, "predecessors": [{"name": "Libros_del_Nuevo_Testamento", "id": 129936}, {"name": "Libros_del_siglo_I", "id": 2210972}, {"name": "Escatología_cristiana", "id": 541541}, {"name": "Espíritu_Santo", "id": 7483942}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Literatura_judía", "id": 1584779, "predecessors": [{"name": "Arte_judío", "id": 925274}, {"name": "Cultura_judía", "id": 4371351}, {"name": "Literatura_por_tema", "id": 980237}], "successors": [{"name": "Tanaj", "id": 401347}, {"name": "Escritores_judíos", "id": 3179419}]}
+{"name": "Literatura_judía", "id": 1584779, "predecessors": [{"name": "Ficción", "id": 65453}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Tanaj", "id": 401347}, {"name": "Escritores_judíos", "id": 3179419}]}

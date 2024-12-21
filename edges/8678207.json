@@ -1,1 +1,1 @@
-{"name": "Asesinatos_cometidos_por_menores", "id": 8678207, "predecessors": [{"name": "Muerte", "id": 1465483}, {"name": "Criminología", "id": 646514}], "successors": [{"name": "Asesinos_menores_de_edad", "id": 8922008}]}
+{"name": "Asesinatos_cometidos_por_menores", "id": 8678207, "predecessors": [{"name": "Criminología", "id": 646514}], "successors": [{"name": "Asesinos_menores_de_edad", "id": 8922008}]}

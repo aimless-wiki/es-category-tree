@@ -1,1 +1,1 @@
-{"name": "Nacidos_en_Serbia", "id": 10462990, "predecessors": [{"name": "Personalidad", "id": 4496858}, {"name": "Gentilicios", "id": 70166}], "successors": [{"name": "Nacidos_en_Kragujevac", "id": 9361150}, {"name": "Nacidos_en_Niš", "id": 9361162}, {"name": "Nacidos_en_Čačak", "id": 9361201}, {"name": "Nacidos_en_Novi_Sad", "id": 9361209}, {"name": "Nacidos_en_Belgrado", "id": 9361217}]}
+{"name": "Nacidos_en_Serbia", "id": 10462990, "predecessors": [{"name": "Gentilicios", "id": 70166}, {"name": "Personalidad", "id": 4496858}], "successors": []}

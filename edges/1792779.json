@@ -1,1 +1,1 @@
-{"name": "Tiempo_compartido", "id": 1792779, "predecessors": [{"name": "Computación_distribuida", "id": 505918}, {"name": "Computadoras", "id": 1434456}], "successors": [{"name": "Internet", "id": 83426}, {"name": "X_Window_System", "id": 613985}]}
+{"name": "Tiempo_compartido", "id": 1792779, "predecessors": [{"name": "Computación_distribuida", "id": 505918}, {"name": "Computadoras", "id": 1434456}, {"name": "Mainframes", "id": 313034}], "successors": [{"name": "Internet", "id": 83426}]}

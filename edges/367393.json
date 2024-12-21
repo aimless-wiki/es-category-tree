@@ -1,1 +1,1 @@
-{"name": "Marqueses", "id": 367393, "predecessors": [{"name": "Títulos_nobiliarios", "id": 256176}], "successors": [{"name": "Marqueses_de_España", "id": 390530}]}
+{"name": "Marqueses", "id": 367393, "predecessors": [{"name": "Nobleza", "id": 194556}, {"name": "Títulos_nobiliarios", "id": 256176}], "successors": [{"name": "Marqueses_de_España", "id": 390530}]}

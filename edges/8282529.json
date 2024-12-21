@@ -1,1 +1,1 @@
-{"name": "Telenovelas_de_2018", "id": 8282529, "predecessors": [{"name": "Telenovelas", "id": 312823}, {"name": "Historia_de_la_televisión", "id": 3664930}, {"name": "Arte", "id": 51311}], "successors": []}
+{"name": "Telenovelas_de_2018", "id": 8282529, "predecessors": [{"name": "Cronología", "id": 407929}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Telenovelas_iniciadas_en_2018", "id": 8298365}, {"name": "Telenovelas_finalizadas_en_2018", "id": 8319872}]}

@@ -1,1 +1,1 @@
-{"name": "Estaciones_de_Cercanías_Asturias", "id": 2489438, "predecessors": [{"name": "Entidades_subnacionales", "id": 365760}, {"name": "Economía_pública", "id": 1584701}], "successors": []}
+{"name": "Estaciones_de_Cercanías_Asturias", "id": 2489438, "predecessors": [{"name": "Economía_de_España", "id": 62825}, {"name": "Economía_pública", "id": 1584701}], "successors": []}

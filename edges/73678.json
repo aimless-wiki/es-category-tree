@@ -1,1 +1,1 @@
-{"name": "Perfumería", "id": 73678, "predecessors": [{"name": "Usos_y_costumbres", "id": 66590}, {"name": "Salud", "id": 75409}, {"name": "Moda", "id": 68097}], "successors": [{"name": "Incienso", "id": 3076258}, {"name": "Ingredientes_de_perfume", "id": 6137297}]}
+{"name": "Perfumería", "id": 73678, "predecessors": [{"name": "Usos_y_costumbres", "id": 66590}, {"name": "Salud", "id": 75409}, {"name": "Conciencia", "id": 960636}, {"name": "Moda", "id": 68097}], "successors": [{"name": "Incienso", "id": 3076258}, {"name": "Ingredientes_de_perfume", "id": 6137297}]}

@@ -1,1 +1,1 @@
-{"name": "Letras_cirílicas", "id": 7741432, "predecessors": [{"name": "Alfabeto_cirílico", "id": 244907}, {"name": "Alfabetos", "id": 52217}], "successors": [{"name": "Letras_cirílicas_con_diacrítico", "id": 9189752}]}
+{"name": "Letras_cirílicas", "id": 7741432, "predecessors": [{"name": "Escritura", "id": 52207}], "successors": [{"name": "Letras_cirílicas_con_diacrítico", "id": 9189752}]}

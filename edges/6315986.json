@@ -1,1 +1,1 @@
-{"name": "Animales_descritos_en_1776", "id": 6315986, "predecessors": [{"name": "Historia_de_la_ciencia", "id": 85069}, {"name": "Biología", "id": 49848}], "successors": [{"name": "Aves_descritas_en_1776", "id": 10968991}, {"name": "Insectos_descritos_en_1776", "id": 7177489}]}
+{"name": "Animales_descritos_en_1776", "id": 6315986, "predecessors": [{"name": "Cronología", "id": 407929}, {"name": "Historia_de_la_biología", "id": 964621}], "successors": [{"name": "Aves_descritas_en_1776", "id": 10968991}]}

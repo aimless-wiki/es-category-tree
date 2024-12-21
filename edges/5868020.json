@@ -1,1 +1,1 @@
-{"name": "Cartas", "id": 5868020, "predecessors": [{"name": "Documentos", "id": 163730}, {"name": "Géneros_literarios", "id": 203299}, {"name": "Comunicación_humana", "id": 425690}], "successors": [{"name": "Epístolas_canónicas", "id": 10017169}]}
+{"name": "Cartas", "id": 5868020, "predecessors": [{"name": "Documentos", "id": 163730}, {"name": "Géneros_literarios", "id": 203299}, {"name": "Comunicación_humana", "id": 425690}], "successors": [{"name": "Epístolas_canónicas", "id": 10017169}, {"name": "Epístolas_paulinas", "id": 5345194}]}
