@@ -1,1 +1,1 @@
-{"name": "Videojuegos_para_PlayChoice-10", "id": 3612510, "predecessors": [{"name": "Videojuegos_arcade", "id": 660585}, {"name": "Videojuegos_para_Nintendo_Entertainment_System", "id": 3612476}], "successors": []}
+{"name": "Videojuegos_para_PlayChoice-10", "id": 3612510, "predecessors": [{"name": "Videojuegos_arcade_de_Nintendo", "id": 10508899}, {"name": "Videojuegos_para_Nintendo_Entertainment_System", "id": 3612476}, {"name": "Videojuegos", "id": 61224}, {"name": "Nintendo", "id": 229591}, {"name": "Videojuegos_arcade", "id": 660585}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Marcas_de_helado", "id": 3478262, "predecessors": [{"name": "Helados", "id": 1157115}, {"name": "Marcas_de_productos_alimenticios", "id": 3478281}, {"name": "Lácteos", "id": 51212}], "successors": []}
+{"name": "Marcas_de_helado", "id": 3478262, "predecessors": [{"name": "Helados", "id": 1157115}, {"name": "Alimentos", "id": 51176}, {"name": "Lácteos", "id": 51212}], "successors": []}

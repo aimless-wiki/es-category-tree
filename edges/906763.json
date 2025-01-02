@@ -1,1 +1,1 @@
-{"name": "Génesis", "id": 906763, "predecessors": [{"name": "Libros_del_Antiguo_Testamento", "id": 220465}, {"name": "Antropología_cultural", "id": 426837}, {"name": "Literatura", "id": 50614}, {"name": "Muerte", "id": 1465483}, {"name": "Cronología", "id": 407929}], "successors": []}
+{"name": "Génesis", "id": 906763, "predecessors": [{"name": "Libros_del_Antiguo_Testamento", "id": 220465}, {"name": "Antropología_cultural", "id": 426837}, {"name": "Obras_literarias", "id": 414902}, {"name": "Muerte", "id": 1465483}, {"name": "Cronología", "id": 407929}], "successors": []}

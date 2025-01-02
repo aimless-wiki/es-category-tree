@@ -1,1 +1,1 @@
-{"name": "Actores_de_radio_de_Argentina", "id": 1801186, "predecessors": [{"name": "Actores_de_voz", "id": 183238}, {"name": "Actores_de_Argentina", "id": 135992}, {"name": "Radio", "id": 127481}], "successors": [{"name": "Actrices_de_radio_de_Argentina", "id": 9349751}]}
+{"name": "Actores_de_radio_de_Argentina", "id": 1801186, "predecessors": [{"name": "Actores_de_voz", "id": 183238}, {"name": "Actores_de_Argentina", "id": 135992}, {"name": "Comunicación", "id": 274050}], "successors": [{"name": "Actrices_de_radio_de_Argentina", "id": 9349751}]}
