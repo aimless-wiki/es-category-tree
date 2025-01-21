@@ -1,1 +1,1 @@
-{"name": "Escritores_costumbristas", "id": 7560821, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Ficción", "id": 65453}], "successors": [{"name": "Escritores_costumbristas_de_España", "id": 7560823}]}
+{"name": "Escritores_costumbristas", "id": 7560821, "predecessors": [{"name": "Escritura", "id": 52207}, {"name": "Ficción", "id": 65453}], "successors": [{"name": "Escritores_costumbristas_de_España", "id": 7560823}]}

@@ -1,1 +1,1 @@
-{"name": "Libros_de_Alemania", "id": 5230779, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Libros_de_botánica_de_Alemania_del_siglo_XIX", "id": 7319952}]}
+{"name": "Libros_de_Alemania", "id": 5230779, "predecessors": [{"name": "Obras_literarias", "id": 414902}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Libros_de_botánica_de_Alemania_del_siglo_XIX", "id": 7319952}]}

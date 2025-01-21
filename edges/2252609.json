@@ -1,1 +1,1 @@
-{"name": "Escritores_ficticios", "id": 2252609, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Ocupaciones_artísticas", "id": 2312898}], "successors": []}
+{"name": "Escritores_ficticios", "id": 2252609, "predecessors": [{"name": "Escritura", "id": 52207}, {"name": "Ocupaciones_artísticas", "id": 2312898}], "successors": []}

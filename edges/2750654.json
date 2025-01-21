@@ -1,1 +1,1 @@
-{"name": "Intérpretes", "id": 2750654, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Conceptos_en_lógica", "id": 6975830}], "successors": []}
+{"name": "Intérpretes", "id": 2750654, "predecessors": [{"name": "Escritura", "id": 52207}, {"name": "Conceptos_en_lógica", "id": 6975830}], "successors": []}

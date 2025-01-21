@@ -1,1 +1,1 @@
-{"name": "Álbumes_de_varios_artistas", "id": 237145, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Formatos_musicales", "id": 1063459}], "successors": [{"name": "Álbumes_en_vivo_de_varios_artistas", "id": 4752972}]}
+{"name": "Álbumes_de_varios_artistas", "id": 237145, "predecessors": [{"name": "Arte", "id": 51311}, {"name": "Formatos_musicales", "id": 1063459}], "successors": [{"name": "Álbumes_en_vivo_de_varios_artistas", "id": 4752972}]}

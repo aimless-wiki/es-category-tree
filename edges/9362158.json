@@ -1,1 +1,1 @@
-{"name": "Novelas_de_2020", "id": 9362158, "predecessors": [{"name": "Libros", "id": 158006}], "successors": []}
+{"name": "Novelas_de_2020", "id": 9362158, "predecessors": [{"name": "Libros_de_2020", "id": 9362162}, {"name": "Bibliotecología", "id": 99046}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Libros_de_Italia", "id": 2548706, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Novelas_de_Italia", "id": 3037345}]}
+{"name": "Libros_de_Italia", "id": 2548706, "predecessors": [{"name": "Obras_literarias", "id": 414902}, {"name": "Arte", "id": 51311}], "successors": [{"name": "Novelas_de_Italia", "id": 3037345}]}

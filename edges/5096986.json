@@ -1,1 +1,1 @@
-{"name": "Pintores_batallistas", "id": 5096986, "predecessors": [{"name": "Artistas_gráficos", "id": 5307264}, {"name": "Artistas", "id": 459774}, {"name": "Guerra", "id": 69474}], "successors": []}
+{"name": "Pintores_batallistas", "id": 5096986, "predecessors": [{"name": "Artistas_gráficos", "id": 5307264}, {"name": "Géneros_de_artes", "id": 2268166}, {"name": "Guerra", "id": 69474}], "successors": []}

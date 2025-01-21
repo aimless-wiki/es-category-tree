@@ -1,1 +1,1 @@
-{"name": "Ingeniería_militar", "id": 2398051, "predecessors": [{"name": "Ciencia_militar", "id": 746151}, {"name": "Ingeniería", "id": 65205}, {"name": "Fuerzas_armadas", "id": 68565}], "successors": []}
+{"name": "Ingeniería_militar", "id": 2398051, "predecessors": [{"name": "Tecnología_militar", "id": 4651196}, {"name": "Ingeniería", "id": 65205}, {"name": "Fuerzas_armadas", "id": 68565}], "successors": []}

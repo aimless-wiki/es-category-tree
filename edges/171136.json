@@ -1,1 +1,1 @@
-{"name": "Escritores_en_ruso", "id": 171136, "predecessors": [{"name": "Idioma_ruso", "id": 2750051}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Traductores_al_ruso", "id": 2750049}]}
+{"name": "Escritores_en_ruso", "id": 171136, "predecessors": [{"name": "Idioma_ruso", "id": 2750051}, {"name": "Escritura", "id": 52207}], "successors": [{"name": "Traductores_al_ruso", "id": 2750049}]}

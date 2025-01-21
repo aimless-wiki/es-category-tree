@@ -1,1 +1,1 @@
-{"name": "Libros_de_1964", "id": 275218, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Libros", "id": 158006}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_1964", "id": 2441940}]}
+{"name": "Libros_de_1964", "id": 275218, "predecessors": [{"name": "Libros_del_siglo_XX", "id": 308542}, {"name": "Bibliotecología", "id": 99046}, {"name": "Cronología", "id": 407929}], "successors": [{"name": "Novelas_de_1964", "id": 2441940}]}

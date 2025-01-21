@@ -1,1 +1,1 @@
-{"name": "Libros_de_Chile", "id": 2171781, "predecessors": [{"name": "Libros", "id": 158006}, {"name": "Cultura_de_Chile", "id": 107255}], "successors": [{"name": "Novelas_de_Chile", "id": 1262849}]}
+{"name": "Libros_de_Chile", "id": 2171781, "predecessors": [{"name": "Obras_literarias", "id": 414902}, {"name": "Cultura_de_Chile", "id": 107255}], "successors": [{"name": "Novelas_de_Chile", "id": 1262849}]}

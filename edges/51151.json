@@ -1,1 +1,1 @@
-{"name": "Fonética", "id": 51151, "predecessors": [{"name": "Fonética_y_fonología", "id": 2908660}], "successors": [{"name": "Consonantes", "id": 386795}, {"name": "Símbolos_de_transcripción_fonética", "id": 7859951}, {"name": "Letras_vocales", "id": 5177086}]}
+{"name": "Fonética", "id": 51151, "predecessors": [{"name": "Lingüística", "id": 51160}], "successors": [{"name": "Consonantes", "id": 386795}, {"name": "Símbolos_de_transcripción_fonética", "id": 7859951}, {"name": "Letras_vocales", "id": 5177086}]}

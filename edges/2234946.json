@@ -1,1 +1,1 @@
-{"name": "Novelas_de_2000", "id": 2234946, "predecessors": [{"name": "Libros_de_2000", "id": 191758}, {"name": "Libros", "id": 158006}, {"name": "Arte_contemporáneo", "id": 9792877}], "successors": []}
+{"name": "Novelas_de_2000", "id": 2234946, "predecessors": [{"name": "Libros_de_2000", "id": 191758}, {"name": "Bibliotecología", "id": 99046}, {"name": "Arte_contemporáneo", "id": 9792877}], "successors": []}

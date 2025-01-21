@@ -1,1 +1,1 @@
-{"name": "Escritores_judíos", "id": 3179419, "predecessors": [{"name": "Literatura_judía", "id": 1584779}, {"name": "Ocupaciones", "id": 77994}, {"name": "Artistas", "id": 459774}], "successors": [{"name": "Escritores_en_yidis", "id": 1223499}, {"name": "Poetas_judíos", "id": 2375185}]}
+{"name": "Escritores_judíos", "id": 3179419, "predecessors": [{"name": "Literatura_judía", "id": 1584779}, {"name": "Ocupaciones", "id": 77994}, {"name": "Escritura", "id": 52207}], "successors": [{"name": "Escritores_en_yidis", "id": 1223499}, {"name": "Poetas_judíos", "id": 2375185}]}

@@ -1,1 +1,1 @@
-{"name": "Libros_de_historia", "id": 519201, "predecessors": [{"name": "Historiografía", "id": 204081}, {"name": "Libros_de_ciencia", "id": 1188415}, {"name": "Libros", "id": 158006}], "successors": [{"name": "Crónicas", "id": 1429511}]}
+{"name": "Libros_de_historia", "id": 519201, "predecessors": [{"name": "Historiografía", "id": 204081}, {"name": "Libros_de_ciencia", "id": 1188415}, {"name": "Medios_de_comunicación", "id": 142719}], "successors": [{"name": "Crónicas", "id": 1429511}]}

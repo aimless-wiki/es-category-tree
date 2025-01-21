@@ -1,1 +1,1 @@
-{"name": "Directores_de_cine_mudo", "id": 957373, "predecessors": [{"name": "Artistas", "id": 459774}, {"name": "Géneros_cinematográficos", "id": 123052}], "successors": []}
+{"name": "Directores_de_cine_mudo", "id": 957373, "predecessors": [{"name": "Géneros_cinematográficos", "id": 123052}, {"name": "Arte", "id": 51311}], "successors": []}
